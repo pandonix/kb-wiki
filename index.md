@@ -1,0 +1,162 @@
+# Wiki Index
+
+> Content catalog. Last updated: 2026-05-30
+
+## Entities
+- [[andrew-ng]] — 吴恩达 (Andrew Ng)
+- [[anne-laure-le-cunff]] — Anne-Laure Le Cunff
+- [[backtrader]] — Backtrader
+- [[berkshire]] — 伯克希尔·哈撒韦
+- [[carlota-perez]] — Carlota Perez
+- [[dan-koe]] — Dan Koe
+- [[demis-hassabis]] — Demis Hassabis
+- [[duan-yongping]] — 段永平
+- [[entp]] — ENTP
+- [[fiona-fung]] — Fiona Fung
+- [[howard-marks]] — Howard Marks
+- [[hymin-minsky]] — Hyman Minsky
+- [[intj]] — INTJ
+- [[karpathy]] — Andrej Karpathy
+- [[marcos-lopez-de-prado]] — Marcos López de Prado
+- [[minimax]] — MiniMax
+- [[stanford-ai-index-2026]] — Stanford HAI AI Index Report 2026
+- [[veighna]] — VeighNa (vn.py)
+- [[wu-si]] — 吴思
+
+## Concepts
+- [[agent-data-governance]] — 企业Agent数据治理
+- [[agent-developer-capability]] — Agent 开发者的三维能力立方体
+- [[agent-memory]] — Agent 记忆系统
+- [[agent-owner-role]] — 每个 Agent 都需要一个人：Agent Owner 角色
+- [[agent-skills]] — Agent Skills
+- [[agentic-ai]] — Agentic AI（智能体 AI）
+- [[agentic-forecasting]] — Agentic Forecasting
+- [[agentwashing]] — Agentwashing：智能体洗白与虚假智能体化
+- [[ai-alignment]] — AI Alignment
+- [[ai-aphasia]] — AI 失语与错误谱系
+- [[ai-architecture-governance]] — AI 时代架构治理
+- [[ai-code-adoption]] — AI 代码采纳率
+- [[ai-code-review]] — AI Code Review 实践
+- [[ai-coding-agent]] — ai-coding-agent
+- [[ai-coding-three-stages]] — AI 编程三阶段构想
+- [[ai-cognitive-debt]] — AI 认知债务
+- [[ai-commoditization-boundary]] — AI 替代边界：商品化梯度与人的价值迁移
+- [[ai-economy-impact]] — AI 经济影响
+- [[ai-economy-subsidy-crisis]] — AI 经济补贴危机
+- [[ai-era-scarce-capabilities]] — AI 时代的稀缺能力：哪些变贵了，哪些贬值了
+- [[ai-human-boundary]] — AI 与人的边界：效率解放还是系统加速
+- [[ai-infra-capex]] — AI 基础设施资本开支
+- [[ai-native-bank]] — AI 原生银行
+- [[ai-native-engineering-management]] — AI 时代工程团队管理
+- [[ai-native-organization]] — AI Native 组织模式
+- [[ai-organization-adoption]] — AI 组织采纳困境
+- [[ai-second-half]] — AI 下半场与单位智能经济
+- [[ai-software-form-evolution]] — AI 软件形态演进
+- [[ai-strategy-positioning]] — AI 战略定位与政治博弈
+- [[ai-writing-flavor]] — AI 写作味：LLM 均值回归与风格困境
+- [[aigc-detection-education]] — AIGC 检测与高等教育评价
+- [[alibaba-investment-analysis]] — 阿里巴巴投资分析
+- [[analogical-overshadowing]] — 类比遮蔽效应
+- [[antique-market-lemons]] — 古董市场的柠檬问题
+- [[art-of-war-taoism]] — 孙子兵法与道家
+- [[ba-vs-sa-boundary]] — BA 与 SA 的边界
+- [[backtesting-overfitting]] — 回测过拟合
+- [[bank-abcd-tech-strategy]] — ABCD 科技战略与银行组织约束
+- [[beyond-token-paradigm]] — 超越 Token 范式：连续表征与下一代架构
+- [[big-v-prose-writing]] — 大V与散文写作
+- [[black-swan-bayesian]] — 黑天鹅与贝叶斯
+- [[blood-money-law]] — 血酬定律
+- [[business-generalist]] — 通用型创业者
+- [[bytedance-douyin-analysis]] — 字节与抖音
+- [[capitalist-realism]] — 资本主义现实主义
+- [[causality-philosophy]] — 因果：从休谟到珀尔的哲学追问
+- [[claw-code-runtime]] — Claw Code Agent Runtime
+- [[cognitive-scripts]] — 认知脚本（Cognitive Scripts）
+- [[confucius-life-stages]] — 孔子人生三境界：不惑、知天命、耳顺
+- [[context-engineering]] — 上下文工程
+- [[copilot-learning]] — Copilot 与学习效果
+- [[declarative-architecture]] — 声明式架构
+- [[deepseek-v4-architecture]] — DeepSeek-V4 长上下文架构
+- [[desire-scarcity-migration]] — 人的欲望与稀缺迁移
+- [[dialectical-materialism]] — 辩证唯物主义
+- [[dual-role-management]] — 兼岗分析
+- [[duan-yongping-investing]] — 段永平投资体系
+- [[economics-scarcity-assumption]] — 经济学的前提假设：稀缺性
+- [[effective-rest]] — 高强度用脑者的有效休息
+- [[emergency-psychological-response]] — 突发事件后的正常心理反应
+- [[energy-transition-geopolitics]] — 能源转型与全球格局
+- [[enterprise-agent-practice]] — 企业级智能体实践：从Copilot到数字员工
+- [[expression-substance-framework]] — Expression-Substance 框架：AI 的边界与人的不可替代性
+- [[financial-knowledge-system]] — 金融知识体系
+- [[fixed-income-vs-equity]] — 固收与股权投资的差异
+- [[flow-2dot0]] — 流量 2.0
+- [[forward-deployed-engineer-ai]] — 前沿部署工程师（Forward Deployed Engineer for AI）
+- [[harness-engineering]] — Harness Engineering
+- [[hidden-fatigue]] — 隐形过度疲劳
+- [[hierarchy-to-intelligence]] — 科层制到智慧型组织
+- [[household-asset-allocation]] — 家庭资产配置
+- [[howard-marks-investing]] — 霍华德·马克斯投资思维
+- [[human-ai-scale]] — 人应成为 AI 的尺度
+- [[human-meaning-agi]] — 人类的意义与AGI
+- [[internet-dead-agent-alive]] — 互联网已死，Agent 永生
+- [[jevons-paradox-work]] — 杰文斯悖论与工作替代
+- [[kondratiev-wave]] — 康波周期：技术革命与长期经济波动
+- [[leadership-self-exploration]] — 领导力的深度自我探索
+- [[leadership-short-termism]] — 领导短期主义与任期错配
+- [[lee-kuan-yew-leadership]] — 李光耀领导力大师课
+- [[life-awakening]] — 人生觉醒三阶段
+- [[macroeconomic-investment-framework]] — 宏观经济投资框架
+- [[management-taboos]] — 管理禁忌
+- [[marx-alienation]] — 马克思异化理论
+- [[marx-human-development]] — 马克思：人的发展与物的繁荣
+- [[measurability-gap-agi]] — 可测量性鸿沟与 AGI 经济
+- [[minsky-financial-instability]] — 金融不稳定假说
+- [[multi-agent-collaboration]] — 多 Agent 协作模式
+- [[mythical-man-month]] — 人月神话
+- [[one-person-company]] — 一人公司：AI 时代单人创业的幻觉与真相
+- [[openclaw-runtime]] — OpenClaw Agent Runtime
+- [[options-basics]] — 期权基础
+- [[outsourcing-thinking-ai]] — AI 时代的外包思考风险
+- [[pact-framework]] — PACT 框架
+- [[palantir-ontology]] — Palantir Ontology 与 AIP
+- [[pareto-inefficiency]] — 帕累托无效与共谋均衡
+- [[people-goods-scene-banking]] — 人货场视角下的银行金融服务
+- [[personal-ai-framework]] — 个人 AI 认知框架（六层结构）
+- [[private-fund-evaluation]] — 私募产品能力评估
+- [[psychological-scripts]] — 心理脚本：主体性外化的三种生存策略
+- [[psychological-survival]] — 心理生存与身份守护
+- [[quant-backtesting]] — 量化回测框架
+- [[risk-management-ergodicity]] — 风险管理与遍历性
+- [[saas-bench]] — SaaS-Bench：Agent 真实办公能力评测
+- [[science-vs-engineering]] — 科学与工程：两种理性，解释世界与改造世界
+- [[second-order-thinking]] — 二阶思维
+- [[selling-in-value-investing]] — 投资大师很少谈卖出
+- [[sincerity-communication]] — 真诚才是必杀技
+- [[skill-distillation-depth]] — Skill 蒸馏深度分析
+- [[social-intelligence-baseline]] — 社会整体智力水位
+- [[software-disposable]] — 软件日抛化
+- [[stoicism]] — 斯多葛学派
+- [[super-creator]] — 超创者（Super Creator）
+- [[taleb-taoism]] — 塔勒布与道家思想
+- [[tech-revolution-financial-capital]] — 技术革命与金融资本
+- [[technology-containment-history]] — 大国技术遏制史
+- [[technology-trap]] — 技术陷阱
+- [[think-make-framework]] — Think/Make 精力分配框架
+- [[three-poisons]] — 佛家三毒：贪嗔痴
+- [[token-economics]] — Token 经济
+- [[utility-vs-skill]] — Utility与Skill：为什么判断力写不进规则
+- [[vibe-reading]] — Vibe Reading
+- [[wechat-relationship-chain-value]] — 微信关系链的四层价值模型
+- [[writing-techniques]] — 公众号写作技巧
+
+## Comparisons
+- [[ai-code-adoption-vs-review]] — AI 代码采纳率 vs AI Code Review
+- [[ai-soe-reform-comparison]] — AI浪潮与90年代国企改革：两种劳动再配置
+- [[nev-vs-real-estate-macro]] — 新能源车与房地产的宏观角色对比
+
+## Queries
+- [[three-career-scripts-analysis]] — 三种职业限制脚本的Wiki交叉分析
+- [[ai-writing-literary-mistake]] — AI写作是否是文学史上最大的错误
+- [[wechat-moat-ai-era]] — 微信护城河在AI时代是否会被打破
+
+> Total pages: 150

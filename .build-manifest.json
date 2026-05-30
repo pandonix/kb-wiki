@@ -1,0 +1,2936 @@
+{
+  "version": 2,
+  "last_build": "2026-05-26T18:45:00",
+  "total_raw": 433,
+  "files": {
+    "raw/马克思讲的异化.md": {
+      "sha256": "8045f967752f3f87854c474e836e92508dc81a54fb5d9055614ace4f76f85f2a",
+      "built": true,
+      "wiki_pages": [
+        "concepts/marx-alienation.md"
+      ],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/Token计算：下一个十年的成本战争.md": {
+      "sha256": "2260cbb4fedaf3f75377a257ba72b288f2c911d289a18046b87bc0edb05c09ae",
+      "built": true,
+      "wiki_pages": [
+        "concepts/token-economics.md",
+        "concepts/ai-era-scarce-capabilities.md",
+        "concepts/ai-commoditization-boundary.md"
+      ],
+      "last_ingested": "2026-05-11"
+    },
+    "raw/兼岗分析.md": {
+      "sha256": "189034bd869676aa69fc50f541e67a60d61159fb9a76db068453e1f1a3ff837e",
+      "built": true,
+      "wiki_pages": [
+        "concepts/dual-role-management.md"
+      ],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/AI 危机：经济与智能的悖论.md": {
+      "sha256": "1072b5dcba2076d107e6b3d0cfbbbe1af8298000ff22a732e5fa9960b90e8e7d",
+      "built": true,
+      "wiki_pages": [
+        "concepts/ai-economy-impact.md"
+      ],
+      "last_ingested": "2026-05-11"
+    },
+    "raw/真诚才是必杀技.md": {
+      "sha256": "016a3df3c71794660571a3220c549f3610aefa021af42264cde53bf11fddb8fc",
+      "built": true,
+      "wiki_pages": [
+        "concepts/sincerity-communication.md"
+      ],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/辩证唯物主义.md": {
+      "sha256": "2288aa7ec1eada1930d8c9b131364533e8c278ce8cf5ac00edba242071c377b0",
+      "built": true,
+      "wiki_pages": [
+        "concepts/dialectical-materialism.md"
+      ],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/人类的意义.md": {
+      "sha256": "2f0b31d0b222b6fa189400ecf5b82127ccc92cb8dfde3c65237457e94b658476",
+      "built": true,
+      "wiki_pages": [
+        "concepts/ai-era-scarce-capabilities.md",
+        "concepts/human-meaning-agi.md",
+        "concepts/ai-commoditization-boundary.md"
+      ],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs.md": {
+      "sha256": "ab7f665fcdfa1d79f32d02ff42e9eb0e91c8c0b4ddced0e92b6b0b9c42a017e5",
+      "built": true,
+      "wiki_pages": [
+        "concepts/agentic-forecasting.md"
+      ],
+      "last_ingested": "2026-05-11"
+    },
+    "raw/AI编程的现状与未来.md": {
+      "sha256": "b8ac8351de812416995c1a0f0070c3ac7b671be9f132c661fcfa58a6441439aa",
+      "built": true,
+      "wiki_pages": [
+        "concepts/ai-coding-agent.md"
+      ],
+      "last_ingested": "2026-05-11"
+    },
+    "raw/AI 时代的架构治理.md": {
+      "sha256": "63fd6b8729a3cea76b91390a972d3e2479b8d602fec42407d643ab38c0dd01da",
+      "built": true,
+      "wiki_pages": [
+        "concepts/declarative-architecture.md",
+        "concepts/ai-architecture-governance.md"
+      ],
+      "last_ingested": "2026-05-11"
+    },
+    "raw/段永平.md": {
+      "sha256": "755b1ebc49c989c6fffece489b11fea9a58356e857b253e0260fc66c7192e531",
+      "built": true,
+      "wiki_pages": [
+        "entities/duan-yongping.md"
+      ],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/AI时代的Code Review怎么做？.md": {
+      "sha256": "fe938e81c234545a9385f679d223906450898604ee436d1b9f7a2a3cbdcde2aa",
+      "built": true,
+      "wiki_pages": [
+        "concepts/ai-code-review.md"
+      ],
+      "last_ingested": "2026-05-11"
+    },
+    "raw/从科层制到智慧型组织：AI 时代，企业组织的终极革命.md": {
+      "sha256": "1bbd4e787e9fd650e228c3abddaa98c25ba16b092ca878bcb1340afb1b662b09",
+      "built": true,
+      "wiki_pages": [
+        "concepts/hierarchy-to-intelligence.md"
+      ],
+      "last_ingested": "2026-05-11"
+    },
+    "raw/Token经济学七问——一份关于AI新经济的入门地图.md": {
+      "sha256": "f4d713e0e4be67d013afd5e03babe0d5cb849d835d72bd9c757c878fb5efc57d",
+      "built": true,
+      "wiki_pages": [
+        "concepts/token-economics.md"
+      ],
+      "last_ingested": "2026-05-11"
+    },
+    "raw/塔勒布与道家思想.md": {
+      "sha256": "15557dd226c247cdccd3fe2e7dd00742bea3fd27844f6bf84642148680d5c923",
+      "built": true,
+      "wiki_pages": [
+        "concepts/taleb-taoism.md"
+      ],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/伯克希尔.md": {
+      "sha256": "0f794ad41081e39d0eae0e2ff0ac639bcdf242d1e56b307b2ebbbd3ce95fb04a",
+      "built": true,
+      "wiki_pages": [
+        "entities/berkshire.md"
+      ],
+      "last_ingested": "2026-05-11"
+    },
+    "raw/孙子兵法与道家.md": {
+      "sha256": "04e506c8886061807602f5c0e01aee4e4b49281e69602e7feb2fac0a312bffd9",
+      "built": true,
+      "wiki_pages": [
+        "concepts/art-of-war-taoism.md"
+      ],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/ENTP.md": {
+      "sha256": "0655c6d1423ab791be153d3aca76ff8c1af173e4860ad9eb4342997679c3f292",
+      "built": true,
+      "wiki_pages": [
+        "entities/entp.md"
+      ],
+      "last_ingested": "2026-05-11"
+    },
+    "raw/BlackTrader.md": {
+      "sha256": "88e986b49948be5291f457ff22d43803406c1b7104b90b9b4914191db08df714",
+      "built": true,
+      "wiki_pages": [
+        "concepts/quant-backtesting.md"
+      ],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/期权.md": {
+      "sha256": "44f3c1946922a99986b4a6846c96ed532cb14f3cd819e08354e971bbd1cfdfb8",
+      "built": true,
+      "wiki_pages": [
+        "concepts/options-basics.md"
+      ],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/哲学__index.md": {
+      "sha256": "c757bebdfcb655b6ac10602f5cc6b14f58b1f826bebfefcdae5cf1447f79548e",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/斯多葛学派：理性与安宁之道.md": {
+      "sha256": "2287f8d7cb19aab7f43ded5f5538962e0b002806c8583e6e11189f3c9323e6b9",
+      "built": true,
+      "wiki_pages": [
+        "concepts/stoicism.md"
+      ],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/乱纪元里防住风险就是收益.md": {
+      "sha256": "c64e122617198622e76abf9da4a8036a7a5470fa9aa09adc39ebeb9ab5f66781",
+      "built": true,
+      "wiki_pages": [
+        "concepts/risk-management-ergodicity.md"
+      ],
+      "last_ingested": "2026-05-11"
+    },
+    "raw/能源转型与全球格局.md": {
+      "sha256": "dcd62297b432146f2e63fbd3028a08e339ab800fdb8926ecb839ff86b0e3170a",
+      "built": true,
+      "wiki_pages": [
+        "concepts/energy-transition-geopolitics.md"
+      ],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/从 iproduct 重构到 harness 方法论：为什么 V1 应先做最小真实闭环.md": {
+      "sha256": "e9e029bf05ff5b53d4bfa1f9c75f96da9dc8e9689356cc711bf5a52aba2b814d",
+      "built": true,
+      "wiki_pages": [
+        "concepts/harness-engineering.md"
+      ],
+      "last_ingested": "2026-05-11"
+    },
+    "raw/经济学的前提假设.md": {
+      "sha256": "1bdee14356a8478a6920471f99be5bacaed457cee66a6554857ae68dfed7c38f",
+      "built": true,
+      "wiki_pages": [
+        "concepts/economics-scarcity-assumption.md",
+        "concepts/ai-era-scarce-capabilities.md",
+        "concepts/ai-commoditization-boundary.md"
+      ],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/字节与抖音.md": {
+      "sha256": "7be19007ae0cd6d251224e17c92e9f3ed17d311c7bd1e9f6a54843c3d35ecba9",
+      "built": true,
+      "wiki_pages": [
+        "concepts/bytedance-douyin-analysis.md"
+      ],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/Small Talk.md": {
+      "sha256": "c73b42b783627d8898ae5f53011be4bc7ab24f48daf354fec0ea91fa767b21d3",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/INTJ.md": {
+      "sha256": "608327b6f6e3d38f61bce1231957f85a514920fab088567d14b81caf172ae1e6",
+      "built": true,
+      "wiki_pages": [
+        "entities/intj.md"
+      ],
+      "last_ingested": "2026-05-11"
+    },
+    "raw/Some Simple Economics of AGI.md": {
+      "sha256": "7e5deec54a7a45b25508d2d3ad15a13573a6b52a64b9c186564230b0ea83d3f6",
+      "built": true,
+      "wiki_pages": [
+        "concepts/measurability-gap-agi.md"
+      ],
+      "last_ingested": "2026-05-11"
+    },
+    "raw/马克思：人的发展和物的繁荣.md": {
+      "sha256": "26764ee528a39becddab34db9c000be317cb81798558c44ca6ab039c77266e3e",
+      "built": true,
+      "wiki_pages": [
+        "concepts/marx-human-development.md"
+      ],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/公众号写作技巧.md": {
+      "sha256": "709fcc0ca2933dcb315143414121958e05f390bb3a3455117a01eeaf9ee89252",
+      "built": true,
+      "wiki_pages": [
+        "concepts/writing-techniques.md"
+      ],
+      "last_ingested": "2026-05-11"
+    },
+    "raw/古董市场.md": {
+      "sha256": "15e9b03069010c98ff2eb3ab0c127872a1bea420c8e336b82683d6d1c38dd86e",
+      "built": true,
+      "wiki_pages": [
+        "concepts/antique-market-lemons.md"
+      ],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/AI应用定价与成本.md": {
+      "sha256": "cd06163b73655ba6f60e5f13e76ee385f47684d9cae9b0b0558c8b707ee16abc",
+      "built": true,
+      "wiki_pages": [
+        "concepts/token-economics.md"
+      ],
+      "last_ingested": "2026-05-11"
+    },
+    "raw/适合投资者反复听的思维方式！霍华德·马克斯在沃顿的最新对话，关于成长还是价值、卖出还是持有，更多制胜还是减少犯错…….md": {
+      "sha256": "4ab84a25a9de2ef71652d08ae0a7496b8c283c1da011004dfa56e72be8f16a1c",
+      "built": true,
+      "wiki_pages": [
+        "concepts/howard-marks-investing.md"
+      ],
+      "last_ingested": "2026-05-11"
+    },
+    "raw/投资__index.md": {
+      "sha256": "53c6c26438578f8959481fd4aac47d4b434a12dd0630bb7ff1481c8327cd5bb0",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/流量 2.0 时代.md": {
+      "sha256": "0e2c35b6be74f98ab45faf27c0194b8530e1be213bc206c40145b89d0a623641",
+      "built": true,
+      "wiki_pages": [
+        "concepts/flow-2dot0.md"
+      ],
+      "last_ingested": "2026-05-11"
+    },
+    "raw/How To Be A World-Class Agentic Engineer.md": {
+      "sha256": "e33efa47b58aa534196dd2249e45414a4e63e441eb1dccbe17d907369d32ecdf",
+      "built": true,
+      "wiki_pages": [
+        "concepts/ai-coding-agent.md",
+        "concepts/multi-agent-collaboration.md"
+      ],
+      "last_ingested": "2026-05-11"
+    },
+    "raw/固收与股权投资的差异.md": {
+      "sha256": "44287db8e2bf4cb055b7271f394f3a6ffcb4ad2e16921c311cd61295ce1d0353",
+      "built": true,
+      "wiki_pages": [
+        "concepts/fixed-income-vs-equity.md"
+      ],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/私募产品能力评估.md": {
+      "sha256": "da13f76968f68a4e102727a5ca9e59ec00c3e08a368957f5b4811558c34c37cc",
+      "built": true,
+      "wiki_pages": [
+        "concepts/private-fund-evaluation.md"
+      ],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/管理禁忌.md": {
+      "sha256": "6ae7b36231bdbbcdb71ed27e5e5f64cd249ec7e7e808b4e2fc1d3fdd343965d5",
+      "built": true,
+      "wiki_pages": [
+        "concepts/management-taboos.md"
+      ],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/claw-code-runtime-analysis.md": {
+      "sha256": "85f9c02ab27e78033bd3498f4823a255b7d814b82a9243df6e4d97fc68fe6f5a",
+      "built": true,
+      "wiki_pages": [
+        "concepts/claw-code-runtime.md"
+      ],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/贪嗔痴.md": {
+      "sha256": "568b6425e950416d85a6a158b889cd65b6d8d5a5c94414fc39be18c3ecddc1f5",
+      "built": true,
+      "wiki_pages": [
+        "concepts/three-poisons.md"
+      ],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/四十不惑，五十知天命，六十耳顺.md": {
+      "sha256": "7cb7961358033c0f95e7fab615c4280936b9bc9851ebc28be91906fedb5f4370",
+      "built": true,
+      "wiki_pages": [
+        "concepts/confucius-life-stages.md"
+      ],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/人的欲望与稀缺迁移.md": {
+      "sha256": "4bad3a2f7f66125ece2de9846b943c01df1af331abf9e4d5bc666ebb9b0c0aac",
+      "built": true,
+      "wiki_pages": [
+        "concepts/ai-era-scarce-capabilities.md",
+        "concepts/desire-scarcity-migration.md",
+        "concepts/ai-commoditization-boundary.md"
+      ],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/投资大师很少谈卖出.md": {
+      "sha256": "109321aa79c690a1235b36e5e6b2f507441de9b31ae5cf72204f2a8bd565142b",
+      "built": true,
+      "wiki_pages": [
+        "concepts/selling-in-value-investing.md"
+      ],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/index.md": {
+      "sha256": "1e0f565ccaaa6303371a059f53cf1e4ae5da47f7be5e1f167ead830c256dc79a",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/隐形过度疲劳.md": {
+      "sha256": "a328619fe8386b6c9968a85c67b8df3f56fdd60bcd096ae90901d78e464309e4",
+      "built": true,
+      "wiki_pages": [
+        "concepts/hidden-fatigue.md"
+      ],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/起大早，赶晚集.md": {
+      "sha256": "2b61f640a8e7ee98f906fa5bd75befc13bf5849c1aac9951c1422ce97cae1ff6",
+      "built": true,
+      "wiki_pages": [
+        "concepts/ai-software-form-evolution.md",
+        "concepts/ai-economy-impact.md",
+        "concepts/ai-era-scarce-capabilities.md",
+        "concepts/ai-commoditization-boundary.md"
+      ],
+      "last_ingested": "2026-05-11"
+    },
+    "raw/李光耀2000年在哈佛肯尼迪政府学院的“领导力大师课”未命名.md": {
+      "sha256": "361ba6f7852d44c12a563248cec4c10a1515d2d5de17409a8c3de00a00011067",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/高中数学.md": {
+      "sha256": "d26cc0b5c77d8b180722864375d0466ad95fe810357d37d82bc358089a93790a",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/二阶思维模型.md": {
+      "sha256": "ca923c82df40637b53b56defab1fa6a831234c21708bdf008a9a4dda0abae253",
+      "built": true,
+      "wiki_pages": [
+        "concepts/second-order-thinking.md"
+      ],
+      "last_ingested": "2026-05-11"
+    },
+    "raw/帕累托无效.md": {
+      "sha256": "f9fb06a7a1f0eb27c7dccc356a5dde54d92f31ca9901af9fdc9a088b351debbc",
+      "built": true,
+      "wiki_pages": [
+        "concepts/pareto-inefficiency.md"
+      ],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/领导力的深度自我探索.md": {
+      "sha256": "9df686a2f05cc13f002c6fdae867c210872e58e9e6355ab9ed39da33bbaf3633",
+      "built": true,
+      "wiki_pages": [
+        "concepts/leadership-self-exploration.md"
+      ],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/消耗了上百亿 Token后， 对于 Agent 时代软件构建、软件形态及未来发展的思考.md": {
+      "sha256": "dcdfdc4c29474818f805b4315741720174611f25c7675ac6c36f51fb7905bd8d",
+      "built": true,
+      "wiki_pages": [
+        "concepts/ai-coding-agent.md",
+        "concepts/ai-software-form-evolution.md"
+      ],
+      "last_ingested": "2026-05-11"
+    },
+    "raw/openclaw-runtime-analysis.md": {
+      "sha256": "92522457a23e7ad38bd02edea5e1bd777ae42321a2cc649dc67904347382df3f",
+      "built": true,
+      "wiki_pages": [
+        "concepts/openclaw-runtime.md"
+      ],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/黑天鹅与贝叶斯.md": {
+      "sha256": "44dd42dd3f7bd2552e06d1a1de44b7e542e6a3cb924d9790770d323c12005076",
+      "built": true,
+      "wiki_pages": [
+        "concepts/black-swan-bayesian.md"
+      ],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/突发事件后的正常心理反应.md": {
+      "sha256": "bb7b0e0ff81ad02827c2731fb23e6551f46c38ad1a67fdbbc2f2a5d38f556d43",
+      "built": true,
+      "wiki_pages": [
+        "concepts/emergency-psychological-response.md"
+      ],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/阿里巴巴的投资分析.md": {
+      "sha256": "ff425ff7c8fcb1379ccf77d04ca7ab58a2c00feebd20fe89a306f6a4889b5d1b",
+      "built": true,
+      "wiki_pages": [
+        "concepts/alibaba-investment-analysis.md"
+      ],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/Codex的多Agent并行开发指南.md": {
+      "sha256": "8ccdd8773d42623370b35664e2394cda3e2160934ec5762d23aed4d7de823c46",
+      "built": true,
+      "wiki_pages": [
+        "concepts/ai-coding-agent.md",
+        "concepts/harness-engineering.md",
+        "concepts/multi-agent-collaboration.md"
+      ],
+      "last_ingested": "2026-05-11"
+    },
+    "raw/完整解读：斯坦福 AI 年度报告｜26版发布，423页.md": {
+      "sha256": "62cf876af8bd6ff795a4ca5df91d7b2ba4eb07ac9617d462975e495efde2e1dc",
+      "built": true,
+      "wiki_pages": [
+        "entities/stanford-ai-index-2026.md",
+        "concepts/ai-economy-impact.md"
+      ],
+      "last_ingested": "2026-05-11"
+    },
+    "raw/OpenGame Open Agentic Coding for Games.md": {
+      "sha256": "0eaf16efe4cf9e288c82af89c03d65fb5a2f0da7c2fe5e7759b1c01369ec8e5a",
+      "built": true,
+      "wiki_pages": [
+        "concepts/ai-coding-agent.md"
+      ],
+      "last_ingested": "2026-05-11"
+    },
+    "raw/世界的终结和资本主义的灭亡.md": {
+      "sha256": "2e0c036d46db1d3e6ef5f9b4b974cf43160c99b23bedf9a8b766c6a0c4bd07bc",
+      "built": true,
+      "wiki_pages": [
+        "concepts/capitalist-realism.md"
+      ],
+      "last_ingested": "2026-05-11"
+    },
+    "raw/Fast and Forgettable A Controlled Study of Novices' Performance, Learning, Workload, and Emotion in AI-Assisted and Human Pair Programming Paradigms.md": {
+      "sha256": "d04b174b0fdc7642c1167dfe9d57277281c7e1b1da50f2c23f9cf9de64fe9325",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/Vn.py.md": {
+      "sha256": "0597e285a041d9891dee5426996d3ab4b208ea1c39ad461ddd20692a47fa66af",
+      "built": true,
+      "wiki_pages": [
+        "entities/veighna.md",
+        "concepts/quant-backtesting.md"
+      ],
+      "last_ingested": "2026-05-11"
+    },
+    "raw/家庭资产配置.md": {
+      "sha256": "3708fcc0efb54f51ffcd098c805777b86a04b529f6eb01bb56502f630549f28e",
+      "built": true,
+      "wiki_pages": [
+        "concepts/household-asset-allocation.md"
+      ],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/AI Alignment与写作.md": {
+      "sha256": "92139ccd7d8801eca43b3655d263774a7da6277e3c897b1b638faaa2541b6e4e",
+      "built": true,
+      "wiki_pages": [
+        "concepts/ai-alignment.md",
+        "concepts/ai-era-scarce-capabilities.md",
+        "concepts/ai-commoditization-boundary.md"
+      ],
+      "last_ingested": "2026-05-11"
+    },
+    "raw/大V和散文.md": {
+      "sha256": "8d71a237242c45ffcf67d60617fa3132d7e7c82890317663dff0415d1ce1277d",
+      "built": true,
+      "wiki_pages": [
+        "concepts/big-v-prose-writing.md",
+        "concepts/ai-commoditization-boundary.md"
+      ],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/Harness工程与领导力.md": {
+      "sha256": "17518c415b6c9feb02a7ace5f1f03ff34597a59003078c93e4f3c7b118109f05",
+      "built": true,
+      "wiki_pages": [
+        "concepts/harness-engineering.md"
+      ],
+      "last_ingested": "2026-05-11"
+    },
+    "raw/papers/技术革命与金融资本.md": {
+      "sha256": "4a547e533d83fdb786ce2c92e2c1097a2a6d6b6f18223284ef0f0532415714f5",
+      "built": true,
+      "wiki_pages": [
+        "entities/carlota-perez.md",
+        "entities/hymin-minsky.md",
+        "concepts/tech-revolution-financial-capital.md",
+        "concepts/minsky-financial-instability.md"
+      ],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/papers/20260529T100332--paper-deepseek-v4.md": {
+      "sha256": "88983d1a2602803e8b58b13d2e14a50beda90d748eb64322b32e61863de646d2",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-30"
+    },
+    "raw/papers/技术陷阱-思维导图.md": {
+      "sha256": "50bf1e65f6ce52044cb7a74390af3b3070cc4cf9a162ed5a3ba744b55b05db8b",
+      "built": true,
+      "wiki_pages": [
+        "concepts/technology-trap.md"
+      ],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/papers/系统之美.md": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/papers/MATRAG Multi-Agent Transparent Retrieval-Augmented Generation for Explainable Recommendations.md": {
+      "sha256": "d452d186c0fa45a7d815cc74b1582ddb6dab3918543c65ec24e5c6f45ed4dfbc",
+      "built": true,
+      "wiki_pages": [
+        "concepts/multi-agent-collaboration.md"
+      ],
+      "last_ingested": "2026-05-11"
+    },
+    "raw/papers/血酬定律-吴思.md": {
+      "sha256": "70b9a67109ad0df56f7812a59ab11529331c15f4bbd52778ba7fe95d1e971a76",
+      "built": true,
+      "wiki_pages": [
+        "entities/wu-si.md",
+        "concepts/blood-money-law.md"
+      ],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/papers/SWE-chat Coding Agent Interactions From Real Users in the Wild.md": {
+      "sha256": "76cea3641869711f0200b586ea5486e71a6cfa239670a2596dade1c33deae2a0",
+      "built": true,
+      "wiki_pages": [
+        "concepts/ai-coding-agent.md",
+        "concepts/copilot-learning.md"
+      ],
+      "last_ingested": "2026-05-11"
+    },
+    "raw/articles/三篇论文，写清楚了Agent元年的困境｜Hao好聊趋势.md": {
+      "sha256": "ea1f7554775c09b142ac14bc911981f5f416e5be9f81ead1e1322b1f6109655b",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/AI价值度量衡是时候重写了.md": {
+      "sha256": "e3e393b61fdce4670569a730230c7b71167421ca6bf8c829e38b7390f3256718",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/AI革命的企业落地困境.md": {
+      "sha256": "3bc66a310455bf99b783697de2659cb3fc466b80e4cb4ea0dea6ffbe7c246da8",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/量化多头利润怎么保护？.md": {
+      "sha256": "7af3e6a427deb2c61b8163d3cb0b1120864d6442beb6c96ac8d7b208dfd6629a",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/炸裂！Claude以第一作者写论文反驳苹果「推理模型根本没有推理能力」：苹果有三大错误.md": {
+      "sha256": "daaa33e78897996aa5e5d9447fba25ac255aa36b7481f2c50576882fd17729dc",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/李迅雷丨细究最新数据：更需要提升的是温度而非速度.md": {
+      "sha256": "21f73fef784a6470eb2a5feff27ecb9bec73e7f529b99367bc2fbeb067354c6c",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/黄金价格波动的底层逻辑.md": {
+      "sha256": "7795f62ec7448c15a29f1ee9ac98c09d57ebdbd47c21e0558898933feccf63d6",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/9-解读《资治通鉴》 三国篇.pdf.md": {
+      "sha256": "86e5a1b5adb4c8c3e05a6ee0bdd06ab36fa4147095e592f4b69874ba01e42042",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/Claude不到4%，全军覆没！一场大考撕碎Agent「全自动办公」幻想.md": {
+      "sha256": "33fc3f6c7f819b26cd31f42e46616823d3a5743b6a22cc31f1f51811d2c39e08",
+      "built": true,
+      "wiki_pages": [
+        "concepts/saas-bench.md",
+        "concepts/agentic-ai.md"
+      ],
+      "last_ingested": "2026-05-26"
+    },
+    "raw/articles/不藏了！OpenAI 2025开发者日：ChatGPT要变成操作系统，8分钟拖拽可构建超复杂Agent.md": {
+      "sha256": "e55b3fe65168adda277cb26f54ac3b3c28ce5d7061eaf1ccfd7d642ab736860d",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/当达里奥再次悲观.md": {
+      "sha256": "65bc6ab164b6d1fdc1cdec1e9d2dac9c2aa0a9759ecbe2962b48b9f0f145f5b6",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/巴菲特说不懂不投，达里奥做分散配置，两者有矛盾吗？.md": {
+      "sha256": "a44ef630b6d52532a549b96520d716384cde32b097933b5d9fc9ebca8651c03f",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/AI转型的进展洞察报告-腾讯研究院.pdf.md": {
+      "sha256": "93a221c8c6c3c3c20ff41f2aab6c1806a90aed70ba4324cc2b49dee6d277704b",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/DeepSeek与AIGC应用.pdf.md": {
+      "sha256": "0b5eec73481d7e47cf95f007ab6892f1b65d4816fb65de86164b29c3c73ad1b8",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/胡泳：会计造假、举债扩张，我们正目睹一场人工智能泡沬吗？丨大声思考.md": {
+      "sha256": "feede0535e52c975b89d79151dc8f537d0b3b7257e24bf1951fbcdf419bdb63b",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/尾部对冲策略，守住你的收益！.md": {
+      "sha256": "a5dc03cd903894a954a3366b465429791ad126d128416857610c119be8efab69",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/AI 大神 Karpathy 2025 年度总结刷屏：AI 既是天才也是智障，这 6 个转折最关键.md": {
+      "sha256": "ffdb890f0d9491fc153aa209ec04f5368bab5b28f97febfb7500dcafefa43534",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/硅谷工程师的“AI时代账本”：效率翻了10倍，我却更累了.md": {
+      "sha256": "f1c8acfa3d0481b8b9087d90b9cf35a36475580ffa099d84d1e3244d0e600b70",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/一文读懂Harness Engineering：从14篇工程文章中，寻找那个让AI不再离经叛道的壳｜Hao好聊趋势.md": {
+      "sha256": "24f50b238b8d70bf0bd69ff345853d10d33426b6a8bd851410fabbc252af8949",
+      "built": true,
+      "wiki_pages": [
+        "concepts/harness-engineering.md"
+      ],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/银行AI战略与大模型演进.md": {
+      "sha256": "e1c023f2235ab43daa46d45e6bdf82dd5277f48e7098656b5bc0a93f1e24ff0c",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/对话闫宏秀：如何不被AI“养废”？你需要一场“数字成人礼”.md": {
+      "sha256": "7474b243cf83c4803efdd3748d25e90eda9051ebebc51276adaea2d676d18fe9",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/2024年量化投资领域流行的研究论文汇编.md": {
+      "sha256": "9d33bc00cceabcaa58ab3f06944cb219f9026e1d1749ecc874639a50b8a40113",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/腾讯背景基金经理怎么分析腾讯股票？.md": {
+      "sha256": "3fc4d0d0593146d6c336d776666ec640af6e897d377d287a3f1814be6beabb5e",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/Why multi-agent systems fail in production and how enterprises can avoid it Centific.md": {
+      "sha256": "4b6c8d2e73dba84d7c75e24a7882dc6621e207453e81facb4dd17b24e01271fa",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/THE 2028 GLOBAL INTELLIGENCE CRISIS.md": {
+      "sha256": "65df255103f9b5f884a3cfdf97a4a79eb9b50a83be46cfcdd5b3256a031c0e1f",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/DeepSeek R1-Zero 内幕大公开：原来“顿悟时刻”早就来了？还有 GRPO 的秘密.md": {
+      "sha256": "34274ad0c84810ba82a10d7ffd3dfec29df373ffd1ca7887d7b92962380157e1",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/OpenAI内部路线图精简纯享版.md": {
+      "sha256": "c2fefbdf8843342cdb78a22e8a39c1fe9f9e1d8c9ef3842a75fe976a0ae2ceab",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/OpenClaw和Claude Code只是第一阶段，Github 这两个项目正指向终局——AI 编程三阶段构想（万字长文慎入）.md": {
+      "sha256": "4d5c4d501b0b0a53b87c2558bfc5ed9644aff879c7c8016902215e6582433728",
+      "built": true,
+      "wiki_pages": [
+        "concepts/ai-coding-agent.md",
+        "concepts/ai-software-form-evolution.md",
+        "concepts/ai-coding-three-stages.md"
+      ],
+      "last_ingested": "2026-05-11"
+    },
+    "raw/articles/我们处在2000年泡沫崩掉的前夜吗？.md": {
+      "sha256": "238e9f7ee438636598abcbe3d91ad66fe33dba8295f55b7b0bf08ac892626147",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/最新发声：任正非如何看待人工智能发展？.md": {
+      "sha256": "344856c3fe49d6d27927e512f9d56473e9b0f802667517e357abe236c8f79006",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/智联网：移动互联网的下一站——当AI Agent重写数字世界的游戏规则.md": {
+      "sha256": "b322c31cc9b2c4117a43381adaf50b8824ef530aca1d052fb2183bf41c51799c",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/招行新设立零售客群部的逻辑.md": {
+      "sha256": "7844b00996e077c9d6a3e9f7bf67720ca2adb21aa994f3ab741e2c18e683d9cd",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/刘锋：关于系统性应对美元稳定币的战略思考及政策建议.md": {
+      "sha256": "5d0cc964d538969ca75ed5febc6f73a8f665fe4a34f8bbd6c59a13fab1db507e",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/Andrej Karpathy 开炮：智能体都在装样子，强化学习很糟糕，AGI 十年也出不来.md": {
+      "sha256": "311cbc4f75356e0d09f9ab161aa02643c58e89e79519b34e4f141fc182e1e0e2",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/交易的最高境界.md": {
+      "sha256": "c7a0f0a410d8d952cab805e578787969f27e082a05ff852980af8a5c6c6ad848",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/原罪：有些罪是用来惩罚的，有些罪是用来原谅的—中国财富机制的罪与罚.md": {
+      "sha256": "a22329ea00f5dea13a394596ab89abe8074aa748a604b8a21b0807cd7b88be37",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/如何用AI系统化和可解释地挖掘因子.md": {
+      "sha256": "3cdc80db2278a39458b68f8564c4dc133a43739358991b58728fd3a402afac0e",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/AI正引发第一波人类降智.md": {
+      "sha256": "edb44afc446a4695520b143a2a50dc06899122ea1103be0af3896cebe617917e",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/articles/衰老，一个可以被解决的问题？.md": {
+      "sha256": "738a78f10fab2e79ffbe9618f4f38638f4cee2ddad84e48ed69fba4178261cc5",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/特征工程：股票预测深度学习中“无名英雄”.md": {
+      "sha256": "91543f26e197cb7b27da5671844ebdedff938d051df1fda19c61bc3d99aea481",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/CIO 正在抛弃 AI 生码率：一场关于什么才算产研提效的实践复盘.md": {
+      "sha256": "78f242d12436eec4b4f68f9f623eb4152e35e9da466e7314406d9d05b64dc59c",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/为什么你准备“大干一场”时，总是被市场“大干一场”？.md": {
+      "sha256": "33233e77761ee416c72223cb6008f75373b5a71a32a103389ef87adc48d7d03b",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/没有创业者气质的人，可能连普通员工都做不了.md": {
+      "sha256": "69f5f7d4f5d70d0037075c77efde2f7a789e125521908ae1a3cce848869eab74",
+      "built": true,
+      "wiki_pages": [
+        "concepts/business-generalist.md",
+        "concepts/hierarchy-to-intelligence.md"
+      ],
+      "last_ingested": "2026-05-11"
+    },
+    "raw/articles/涌现、AI 带来裁员的结果都是必然 —— 对话张笑宇 万有引力.md": {
+      "sha256": "b9cf63e5f608832a055529a28af92d34d5acefee9b2249f5b3e9df1aa2c339db",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/喝点VC｜红杉最新研究：AI的生产力悖论，5%的公司正从AI中获得显著价值，而95%却没有.md": {
+      "sha256": "855bdd1ab21072b214c056352d22a9435d4a635f94b1158ecffb3c1c998dc263",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/Claude Sonnet 4.5 vs. GPT-5 Codex Best model for agentic coding - Composio.md": {
+      "sha256": "288edd457bc0fdc95de2a37a41e7f8388b99d6fadef57c05a82aa54281503287",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/如何打造 Multi-Agent 工程系统.md": {
+      "sha256": "9d6e61fd7c322f703d08de828b6031e7ab60b6171f979f81965b5af196cf99cc",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/实战 中小城商行湖仓一体数据服务架构建设实践.md": {
+      "sha256": "9ed5c7374926b358486430a5940a2aebf6b16d1ccdd49b34179ff54ef025b1bd",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/腾讯开源Youtu-Embedding：加速企业级RAG落地.md": {
+      "sha256": "4a40e235fc7c2475ad326ad75dbba759c906e6b9f92c76a026a3fd77250021ac",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/你的系统不差，差的是“心法”：揭秘顶尖交易员不外传的8条心态与风控铁律.md": {
+      "sha256": "24c521c1c1c7e2ac4386eaec1ff10bfdb2625c18e34dba517588963744139527",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/循环即实验室：八个AI自主研究系统横评.md": {
+      "sha256": "1a6e8f822cca54cc1213281928c0fbe4cd16f146a5c837ce15b2fa452a62f48c",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/拆解Anthropic：最好的AI公司，可能也是一种组织发明.md": {
+      "sha256": "43ec583e0659194b393c7f6a42cf9cd7a652b27798d7b71b7563245a1012bb51",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/articles/注定改变历史的一代人.md": {
+      "sha256": "0d8fe401d306bc8037ae5292e00ff409f08b3914eb411ed5113e9384937fa21e",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/为何底层数据湖决定了 AI Agent 的上限？.md": {
+      "sha256": "511f1ae82e4f4cb1c9f529c510566cb6455a67c72756057bfbf0b7aab7ebd469",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/95% 企业 AI 落地失败当下，另外 5% 的 CIO 在谈什么？.md": {
+      "sha256": "43578c1b79b2816bff7ec60efefef257889e76977ad3eac84ffb0847db58894c",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/Dan Koe最新文章：Life is a mind game, here's how you win - 人生是一场心智游戏，你该如何胜出（万字）.md": {
+      "sha256": "7caf8dc765c8d3e7fe6b84ce01273913d1051eda391f25b12e56d52c9b50b1e5",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/顺势而为，赢在加码：如何做到大赚小赔？用海龟交易法打造赚钱系统.md": {
+      "sha256": "3021757d686328e43428ebe15ab85ed3dfc865d1e380b55c8f911d1da595cb96",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/用Agent评测思路管理AI Coding —— 31万行代码AI重构的实践 - 知乎.md": {
+      "sha256": "0078667e64918311b699d673a1b4e9650a82cbd3ebdb9fba607d6437e6eb84fb",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/中国大众文化50年.md": {
+      "sha256": "273166fb9d9a16bbfcf26023a7b052d91c9eb6cc5c03162baf0e11cff18e52ad",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/2509.16198v2.pdf.md": {
+      "sha256": "6d8488a6a80509546d94cff31914219db571fb472aa837e3ef8475314ba45b4d",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/2026-05-29-深度对话-后龙虾时代企业Agent从能用到生产级差距在哪里.md": {
+      "sha256": "4c7f59ce37058d2b6bf709e34d5cae8a0e1bfd854a005dae7d6711652bd456b6",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-30"
+    },
+    "raw/articles/2026年，第一批“一人公司”老板已经退场.md": {
+      "sha256": "122dd0d3f58f6c93e1c00c42f826b27fdd1d7c6d7e2a10a58e5f4cf836a7cf59",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-26"
+    },
+    "raw/articles/Company Brain：从数据碎片到组织智能的完整图谱.md": {
+      "sha256": "31e1956f29b04e908041dfdeedf9fa9c46772acbaa9d2e5cabf18873f70a093f",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/当AI恐慌席卷硅谷，这位管理2000人的CEO却说：AI不会抢你的工作.md": {
+      "sha256": "ae8559938307e98f8994d99e8646efeb58618b25b153f1110e737bcff934e950",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/How to use spec-driven development for brownfield code exploration.md": {
+      "sha256": "ab66dd716e238d551c31fa848dee645f5e6668904ab012d3bde7b5d9e9a6e66f",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/11-解读《资治通鉴》西晋怀愍帝篇.pdf.md": {
+      "sha256": "dd8821b26caf1d8cb20fdea93adc826f56a58467babf0c5d4e4570ba8dcbe543",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/Karpathy：20年的编程生涯几周之内被颠覆，80%由AI来写，Claude和Codex跨过某种一致性门槛.md": {
+      "sha256": "0824a37ad01720f127dda5dd7b44f1c2b8b098a5958a7ac1f664ec485dacb6d3",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/资产配置+懒人组合+持续写作，不开挂也值得一过的人生.md": {
+      "sha256": "449db97d59fa2ff156e4d412e179b62204aa2dd58d34a0b4b5b9b19d16c5c429",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/拿日本当反面教材，我们能学到些什么？.md": {
+      "sha256": "edabce940842b14368dda3379dfa4250d02427f8cf3cd70d752a9b00ceda5443",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/出轨怀孕打小三：水果AI视频成功拉低全世界智商.md": {
+      "sha256": "2f3839f9f9432d4771cf38dca5cbbf41a32fff3e71be5c85627f92b5f8c9f28a",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/我们不需要100万台“跳舞机器人”.md": {
+      "sha256": "987cb960a70e159342c9d4170ea442364d0cb499f49c56e4178a12e32ee2f8be",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/为什么“长期主义”在A股难以获得高收益？.md": {
+      "sha256": "1af7b2cb5f74b7950aa024fc85d67eef6b3cb7e55ebd94c35ffc36c1ecf8c01b",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/“你的Agent，我一周末就能做出来！” AI时代的护城河：Cursor 卷每日迭代速度，DeepSeek 用技术撕大厂规模优势.md": {
+      "sha256": "99a5d39adeb0e0225be9d0f47980dacaab51153efb04235e0f18d417a7ba7412",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/Agent Skills 终极指南：入门、精通、预测.md": {
+      "sha256": "c5e2fe1f9a1b7c60eec95aa49d04eab94b66777c8cb309303a2de4dc465f4f79",
+      "built": true,
+      "wiki_pages": [
+        "concepts/ai-coding-agent.md",
+        "concepts/skill-distillation-depth.md",
+        "concepts/agent-skills.md"
+      ],
+      "last_ingested": "2026-05-11"
+    },
+    "raw/articles/AI企业软件服务变革：FDE 模式.md": {
+      "sha256": "95aa6e7c32f2a153b6cdf3918981ff060050205308970b0cf48b46e9baa83225",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/【海通策略】少即是多——策略研究框架探讨（荀玉根）.md": {
+      "sha256": "7447d641ddd638d6ea4c6b2c51654a3f8f4a7f4dbe5e58e37b3d31b3faa2fa9e",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/Claude_Code_Mastery_Agentic_Evolution.pdf.md": {
+      "sha256": "1719537945f9d2093c06f4b620c3be86f62e6e602d9cc393849e6e507aa6bde8",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/【随笔】如果大家都用稳定币：假设场景推演.md": {
+      "sha256": "f2c8a1f48bef0ca24622299de8ee47a50ff44d33b3e10a5473bd7e7754b8fd15",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/让AI成为真正的社会生产力——跨越Token效率门槛走向AI普惠.md": {
+      "sha256": "d2d2247f82603dff47f761d4302ec07933a44acd7d1fed1d6a62cf198a28ff8d",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/避无可避的稳定币.md": {
+      "sha256": "a9900085283f2430c029871a8bd729d28c2404ec6ffb793e92cfc3e358668cb1",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/万物皆可Agent！Anthropic官方“三步循环法”手把手教你造最强智能体.md": {
+      "sha256": "1d7dfca3ef9fb0a32841d395b197116394eb1dfeed734bda96379831f048a62b",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/裁员潮将持续，直到我们学会发掘 AI 的商业价值【译】.md": {
+      "sha256": "6b423eadd3eaafb1e4e4d44c1f870d0f2351f71137554b22cd523c253c64e2a7",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/2028年全球智力危机：当人类智力不再稀缺，中产阶级的黄昏到来？.md": {
+      "sha256": "2130e2c9e90aceced09cffd6ab3b6a4a13b3664348138e29a6e7658d13ddcdea",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/全球首富马斯克最新访谈：未来15年内，人类不再因为钱而工作，而是因为爱好.md": {
+      "sha256": "eafe01372752804210d218e58528b5ffb67f972456faa53d9a8d22bbf8aba4ee",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/Harness engineering leveraging Codex in an agent-first world.md": {
+      "sha256": "f9679cff6694294332b884dce4330f81a361437482081864f2b2c3d37e594470",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/为什么止损也能让账户破产？.md": {
+      "sha256": "2bb7926b3a6ad3281e6018a1588d66dd7cd7849b3f12abf93cbe326f7691d28b",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/段永平过时了吗？.md": {
+      "sha256": "82aaefa376745cc76960d722b4d0595fc7cee17b69033d262baf45c338ed81f3",
+      "built": true,
+      "wiki_pages": [
+        "entities/duan-yongping.md",
+        "concepts/duan-yongping-investing.md",
+        "concepts/howard-marks-investing.md"
+      ],
+      "last_ingested": "2026-05-11"
+    },
+    "raw/articles/2312.13771v2.pdf.md": {
+      "sha256": "7e37b6d83df7e7bb68abf353973d2d15dca5119178930144502e4420ab1c8489",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/LLM将是又一个“惨痛教训”？强化学习之父Sutton再放炮：万亿美金AI泡沫可能破裂.md": {
+      "sha256": "a90405a1574210a8fcfc5cbb41b477a4636a18c9d38d16596991bc458c8cf48e",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/一篇论文，读懂上下文工程的前世今生｜上交大新论文解读.md": {
+      "sha256": "ef2009432c1d7823401572981adc07a519cbc8e102270318b18f6ef8f6178df3",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/“AI教父”本吉奥携业界全明星发布重磅文章，重新定义AGI.md": {
+      "sha256": "9fce6ab574b287fcbaeeec45b54784010e8f7e031239f4b1fe6c10baae0bfcd3",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/科学家预言：人工智能有32种失控方式.md": {
+      "sha256": "4146fcb76eb05d8660782ec651a60ee664df766010a6c3e07fafa2b2330cf524",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/代码界的“瘟疫”？卡帕西“Vibe Coding”兴起，YC披露：1 4新创公司，95%代码全由AI生成.md": {
+      "sha256": "69230fa13e320a611ff690c3ff16c647aa561a9dd2e4576c932f645554fd688c",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/凯文·凯利： AI 是人造外星人.md": {
+      "sha256": "01054f37b094aa9020cff2b1d52c8ecd579a3dfae191863ae314eeccdd1b0c3a",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/连平：“十五五”中国房地产市场将怎么走？.md": {
+      "sha256": "57b6d235e61d1d795d80e03f7dc63a9e281bc7e9064d0617fd6af272fe6f50db",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/仓位越大，交易越差？华尔街实战派老将教你如何正确增加仓位规模.md": {
+      "sha256": "232269cd69f9290e5c7019cd524bf1e10b0a0a6e46d8fd1f9c4e640891087cc1",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/谷歌142页报告首发揭秘：90%码农每天用AI超2小时！.md": {
+      "sha256": "553fdd8968a3c48431765a357aaba213343e3adca89aad1aebad9866565bd04b",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/Anthropic发布「AI原生创业公司」手册：涵盖全流程四大核心阶段，一人公司法典来了.md": {
+      "sha256": "671afe340ee64bef9a67d6e31062aecd6c641925c0c11886e4549939a51b53f2",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/从《纽约客》的担忧谈起：AI不是平庸的推手，而是提升了社会整体的智力水位.md": {
+      "sha256": "84ee3bb01b8c1c85b1b0aaa038ff07a24b256b8b65bd8f99a4ec0a72c087b688",
+      "built": true,
+      "wiki_pages": [
+        "concepts/social-intelligence-baseline.md",
+        "concepts/human-ai-scale.md"
+      ],
+      "last_ingested": "2026-05-29"
+    },
+    "raw/articles/我们用150个任务测试了30个skill，跑出7个反直觉结论.md": {
+      "sha256": "ada5761092e540aa0694f685d805b39588dd029c52e2862d9041c9973108441f",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/articles/与郭毅可深聊：AI 逼近“全知”，人类会走向精神荒芜吗？.md": {
+      "sha256": "64e7759abe31fb250bd6bb228dac4c767e0b73873a1ffb1165ff11b146133b18",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/OpenAI罕见发论文：我们找到了AI幻觉的罪魁祸首.md": {
+      "sha256": "d05aadcf3ea07fd6414fdad2fa0d332b00e0b9f4b898d8fc62da3caa921032be",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/AI重塑企业未来.md": {
+      "sha256": "9f4167b027763ddb9bb5a846527cd5b9d31f565a64673006a763e6bea3ab0d4b",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/钟林楠：宏观金融如何从入门到熟悉.md": {
+      "sha256": "72221fdaf4dd711a2d5c262f6c07070b0f305004adbc502bb8ef2e15843d9318",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/AI Agent公司应该怎样组织人才.md": {
+      "sha256": "f33c1db9ef83b4433a51f6be5d6017cae3589d4bf38bb517f1a99255188f21d8",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/互联网已死，Agent 永生.md": {
+      "sha256": "f6023559f8e824cacc5aafb162422a9c7511f32d652f075231e4aff3466d39cb",
+      "built": true,
+      "wiki_pages": [
+        "concepts/flow-2dot0.md",
+        "concepts/ai-economy-impact.md",
+        "concepts/internet-dead-agent-alive.md"
+      ],
+      "last_ingested": "2026-05-11"
+    },
+    "raw/articles/董纪伟-智能体驱动信贷风险的动态感知到策略自迭代.pdf.md": {
+      "sha256": "fd69c0179854d0c343307d6f9f28692039c7823d4d4288f04156f00b69fb05e4",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/手搓「永久组合」，这届年轻人的投资赢学.md": {
+      "sha256": "d3b5a7848cbd268ecdd07b80143248161a5de9a8b5fc3e67cd96d2f3de3d6b4e",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/阿里团队揭露下一代AI路线：AgentEvolver如何实现智能体的自我进化.md": {
+      "sha256": "dc81db6473ac94b6125695dd03080a297b2aab2e54cef74a8a955514310150a0",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/AI Is a 5-Layer Cake-NVIDIA Blog.md": {
+      "sha256": "718dcb111fe500bcbf95e4aeb1a440b89d6b4f64754da433a6256f5d3ce90388",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/这个毕业季，那些被“AI毙掉的论文”.md": {
+      "sha256": "63c44baf01c80ee98cb644258ec43c737baaa802b77210817b7e4fb29db38126",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-29"
+    },
+    "raw/articles/Token并不等同于“货币”.md": {
+      "sha256": "8895fb602b6b7d33d65344a993a94e787bc154e73242b615803dc92d3a5a88b2",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/articles/巴菲特的思考方式：专注20%的要事，避免80%的琐事.md": {
+      "sha256": "49d739006ffc3343bf099d2c871c59d04b9b36abe9dfcb4046e44b13016dc38d",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/当资产负债表不想奋斗了.md": {
+      "sha256": "c9c69017808a99e6658c4e34f2c1d198bb93d983d661bcb30bb280d54fb775cd",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/投奔小扎，Jason Wei连发两篇博文公布“屠龙术”：一个公式看透AI，一条心法指引人生.md": {
+      "sha256": "750b0006427072ea1624d5b1bdb4c9485142224ab16c04817ff6146e9aed295e",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/Agent 从优等生到好员工还差什么.md": {
+      "sha256": "4e97bf03e99c2c01c86d756c6f9e6a71fa41fd9a8fa568e37378198a563b9007",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/articles/OpenAI“赚一块亏一块二”，Anthropic已开始赚钱.md": {
+      "sha256": "48dcf185345c69b72f1fce14e33f4ef6dd6b99236bd0f13513f0b9314f79d7eb",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/articles/品味真的是人在AI时代的解药吗？.md": {
+      "sha256": "4d6f774bc9705835c311303c6aee98e2ac09b42cad8ab597d8d827fa498dad0b",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/Claude Skills 不就是把提示词存个文件夹吗？.md": {
+      "sha256": "22ceae6abe402d016e0eebd992859df5272e37a919ea246121bf37b91976e8a3",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/一个“反脆弱”的投资策略，能在波动中为你赚钱.md": {
+      "sha256": "f42d9e50423db828e3c7a07b217be7d777780b5a3d27fc6f8a6fd46f6a4db09e",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/一个年化30％的量化策略，求拍砖.md": {
+      "sha256": "21acf6d25ab8de6c2f76c5d00c0f8164ea6525a1f99aeaa969e3caf2b73aadb6",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/10-解读《资治通鉴》西晋武惠帝篇.pdf.md": {
+      "sha256": "7100e3a824aff3b36577d9eac6a08c7ecdd8f52741f55be0bdf82ee622bf3511",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/木头姐最新研判：AI正与四大前沿科技深度共振，引发史无前例“大加速”.md": {
+      "sha256": "21e4541827c49c3d9d0f3cee2ef339ec0ef1555087b20dcbd515d94165b8a00d",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/软件正在吞噬劳动力：直接取代人类，捕获前所未有的经济价值.md": {
+      "sha256": "68d7b4db87ba2c351b8d2ed978c8fe868e5b9fa50b9da08aecf9b689aec7d56b",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/可能是目前最好的Agent课程！吴恩达官宣新课《Agentic AI》，手把手教你构建AI智能体.md": {
+      "sha256": "4931320ca2ce71ff4835a9965a09a77c38756874685563b222f67a0c3889e3cd",
+      "built": true,
+      "wiki_pages": [
+        "entities/andrew-ng.md",
+        "concepts/multi-agent-collaboration.md",
+        "concepts/agentic-ai.md"
+      ],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/Equipping agents for the real world with Agent Skills.md": {
+      "sha256": "4593130ff670c6b0fdb31d7277f95931ae9ab883e2e6bb40223a3b43e3568792",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/像训练冠军一样训练你的交易心理：压力下执行的5条黄金法则.md": {
+      "sha256": "69b5972c5de185915dfa7345cfeb491f1f500b83b77d9f0003ad4fdc7c29d14a",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/今天很多 CTO 都是被干掉的，因为他没有成就业务.md": {
+      "sha256": "42ebf7e6234cbf10e904fa26e38abb86e8a4f85ec9d18d424e44cb1e3fc49945",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/德意志银行：生成式人工智能在银行业中的应用.md": {
+      "sha256": "76d0dadcd2e02c130778a434e1b0e28b71c7deef0279ced4ff7701958ab7f461",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/罗马帝国与货币的宿命.md": {
+      "sha256": "62323d703e7a0a0b3acd1e1cc003937a57c4ddc944da30b923fb417d88522874",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/Man Numeric：大模型时代的量化研究.md": {
+      "sha256": "563c9cc6fbbf0c99643fe12b86975cc5053febce3fd804d90c60c1b093280978",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/边界的消融：什么是更好的AI？.md": {
+      "sha256": "6ceff15ddd83f0e3699f08675d92a56b68d2cd7b3c71ba263321665267c16156",
+      "built": true,
+      "wiki_pages": [
+        "concepts/ai-human-boundary.md",
+        "concepts/ai-commoditization-boundary.md"
+      ],
+      "last_ingested": "2026-05-26"
+    },
+    "raw/articles/谷歌大神出手，免费发布《智能体设计模式》，AI Agent开发的终极秘籍.md": {
+      "sha256": "8a79f08bf62b6f5bf84df478bd9a2a4a184fb1ec46b2dec52dc9101020332c62",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/股东数变化暗藏玄机，散户的四个致命操作习惯.md": {
+      "sha256": "5c6f62d47a3f7655a6313f2749c3e6f5d31c1f392c9ee6e434b08a036322ba6f",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/刚刚！Kimi Linear横空出世，全新注意力架构：1M长文本解码速度飙升6.3倍，KV缓存砍掉75%.md": {
+      "sha256": "88045e2a97811c8d2fad57f3b6f02a3159ee71afd95e97c64efe7ba1b2c6295a",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/2025年Manus AI智能体：AGI发展新范式的时间与测评报告.pdf.md": {
+      "sha256": "2627b176203cf6ef53b58aa0aece023b6ba3202228f5f4220e9bb5f88978594f",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/杨斌：我为什么要提“AI次方变革”.md": {
+      "sha256": "5d8a5238125e96efcc403ab3e88e35375b9046b4937b7ce4a526642edfbf00b8",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/“你们尽管做空 OpenAI！”奥特曼霸气喊话，纳德拉亲述微软百亿投资内幕 巨头对话.md": {
+      "sha256": "a153396bde5189abe65218c243f4eff1ea90ab5d5c5d0d96015f740670749846",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/开源机器人技术之争：对Hugging Face战略及其竞争格局的深度分析.md": {
+      "sha256": "fd7cbdb6748c5c184b1705350dc3837770ec84b788ddae696bb7b8be2cd8edb9",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/“Claude Code 这条路线错了”！元老级 AI 大师 Jeremy Howard 开炮：马斯克和 Dario 根本不懂现代软件工程.md": {
+      "sha256": "e1355916fb39645e421ddbdc290207b4b7bf8a61cd55089a3da5f2126bc64ba4",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/从 Hy3 preview 看 AI 下半场：单位智能时代的一次工程答卷.md": {
+      "sha256": "ccc8ec735657e857e2ce96f4b1ee0a95ebf007ca372d3b9fe422c1dc05e6bbb2",
+      "built": true,
+      "wiki_pages": [
+        "concepts/ai-second-half.md"
+      ],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/articles/喂了几个月的垃圾推文，大模型得了「脑腐」，这病还治不好.md": {
+      "sha256": "701325247352e3723ae6689fda890f6a6c8d8f57866f1ae00ef36f568484f7c9",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/Kubernetes 被 AI 打回“半成品”！K8s 之父发出警告：代码生成越快，程序员越危险.md": {
+      "sha256": "821d1bf28fec5b61ecdac7b36902b0a2cbcabd7b2f3dd37cfd84578674d9106a",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/62岁软件教父Martin Fowler警告：AI泡沫下，裁员潮印证行业萧条，大模型正将编程拖入“非确定性深渊”！.md": {
+      "sha256": "06f17bc314edfacdeee08c1334bf7b06f5c88fb2e326868d3df500ce81c76176",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/诺奖大佬互掐、专家不如猴子：我们到底能否预测股票市场？.md": {
+      "sha256": "b42777122752452326f6977c322f9f2dc13a57fd87a9aeb768dec55254cb83ec",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/这套题，GPT-5.5、Opus 4.7加起来没考到「1分」，人类却拿了满分100？.md": {
+      "sha256": "a45d3b520c890b90e6b54828ca0e915a180b2adf8a892572b9173228fecbe512",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/Anthropic CEO 万字长文《技术的青春期》.md": {
+      "sha256": "29b41000b46dfe35cfd22e7b333833c70cf7ce15f8cb9f827626abe9115cdbcc",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/基督教、佛教、儒教、唯物主义——你被哪种塑造得最深？.md": {
+      "sha256": "a960f0340dd06686ab6f0eb19a3435282c8e19c711cbf4cdf66aeff166d47937",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/如何将 AI 代码采纳率从30%提升到80%？.md": {
+      "sha256": "3239aed5aee3ffe494d515dbce9f3bfdb633c723f0b853df60b3b23fa0542f1e",
+      "built": true,
+      "wiki_pages": [
+        "concepts/ai-code-adoption.md",
+        "concepts/agent-memory.md"
+      ],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/Agent下半场！比Prompt更重要的是「上下文工程」，Anthropic首次系统阐述.md": {
+      "sha256": "fe81db4516ecf84c18505be6dccc9f238663717af718bde72f8e894204ca3c96",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/看完段永平的100条思考，我终于悟出他为何这么牛了.md": {
+      "sha256": "d631e66cc2a945b04c5ad6dfb6f47efe12e26ad6c06cbeb6acfb50b200789c47",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/AI就是美国的城投.md": {
+      "sha256": "7eba499395f1a57f3226f34575b662f7b973cad3a96d97433de9b0f41074e91a",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/诺奖得主惊人预测：4年推出广义相对论，就是AGI！做完人类580亿年任务.md": {
+      "sha256": "d487e74850b50189250274bde35ac09fcc6c9de14ea9fb49dc062bbe78c29d0f",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/人生的觉醒之路，从遇见这三位大师开始.md": {
+      "sha256": "5268328e7f6c8a9f865213ed1ddb96b3d85dac165785ecad185e90e1d0d253d8",
+      "built": true,
+      "wiki_pages": [
+        "concepts/life-awakening.md"
+      ],
+      "last_ingested": "2026-05-11"
+    },
+    "raw/articles/5-Day AI Agents Intensive Course with Google.md": {
+      "sha256": "c6acdd4ea8b764891abe522ae1b86cc080205680a67c53e26e90e382b6910c8d",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/李树峰：互联网银行助力乡村振兴迈向数字化之路.md": {
+      "sha256": "d965a2e568cdaeb1563891a10f796bc920cd5364adfec355dd7d51f38f495082",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/一涨就觉得仓位轻，一跌就觉得仓位重？这里有四种仓位管理方法.md": {
+      "sha256": "74841aa89acb75423801ba6774bea00a7fbc24d2edd6ec7b104a9666e28ff78b",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/7家银行科技高管，就ChatGPT等AI问题进行了一场脑暴.md": {
+      "sha256": "41ba731ccb5c3e24cdb81d7e65041d9b628962bd6f5b418b399ccc02ae3a6674",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/量化交易k线预测开源模型：Kronos.md": {
+      "sha256": "8fd48a9c95596482b0489525351d16f14c5f4f1254e64bee620aa6a229bbfc56",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/Agents.pdf.md": {
+      "sha256": "1cf0fe994c113d643083a2669c4434f39418f0901450aa93a89def91800b1c4b",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/人类有充足的时间来规避“AI末日”.md": {
+      "sha256": "80a99ffada17daae02420e5ed0a96efbd391371a5e03bc629e30b9e60faeac90",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/一位隐居大理的期货交易员的策略：用数学和概率做交易.md": {
+      "sha256": "68c41554081e4170db3045a896ec2534f2b619e173d0f18b7647e9d5777b7912",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/2026-05-27-Think-and-Make-Agent时代精力的重分配.md": {
+      "sha256": "9d9368af100658f50c36723ef62cd8c81271ace829eb6ddfc92e523765ab8467",
+      "built": true,
+      "wiki_pages": [
+        "concepts/think-make-framework.md",
+        "concepts/super-creator.md"
+      ],
+      "last_ingested": "2026-05-29"
+    },
+    "raw/articles/信仰与突围：2026人工智能趋势前瞻.md": {
+      "sha256": "6bf19aece75821cb9becda67ee9a78542e3fd0f731784533adb957f210971396",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/Topology of _China AI_ - by afra - Concurrent.pdf.md": {
+      "sha256": "e9b75941474d500fa0283ef5fa8fc34cab6edb34f3540cd3f98fbd71bc926723",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/45 Thoughts About Agents.md": {
+      "sha256": "a5977882da1e9348416dcebc9bcc29e6d9fecccaa5e8c9fe62713dba79ec945d",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/LangChain联合Manus季逸超最新分享！也许当前最好的「上下文工程」讲解.md": {
+      "sha256": "afa2bec0468c6062b1a8b6c559fa809a651d14cffc63190ac3af4e77567de1fb",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/你真能用1000美元开始日内交易谋生吗？残酷真相让90%的人绝望！.md": {
+      "sha256": "cbb923bad21d4ec094b06bd777ba70f9de4fbfb8eca8a30c453dc851e687d2bf",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/是时候讨论“人类配额制”了：应对AI就业冲击的一种可能性探讨.md": {
+      "sha256": "926b3a1b85753291d68ab9fc5220bdcaa48d10db3a50fed2c0f6d7b9243cc61b",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/吴泳铭的“阿尔法”：凭借AI，阿里重回中国科技叙事核心.md": {
+      "sha256": "95e4bfdb6656cc2276de0f86e4080cd97845b16cb780623c9891512d7816e391",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/1-解读《资治通鉴》 周秦篇.pdf.md": {
+      "sha256": "f7cde06c47c54cdba3a0155461fb27bb5b44d5d80980d3ffa33990eb35cc33af",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/让知识库变得可度量：RAG知识库评估框架探索实践.md": {
+      "sha256": "44edb1ecade719d896e4f19db042bdba53e0ae85b5e007334f5cec274e84cf57",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/人应成为AI发展的尺度.md": {
+      "sha256": "f3eab382eeacdfef5bb98f37ef7b284b12159c08eacbb05f929a57db99b12661",
+      "built": true,
+      "wiki_pages": [
+        "concepts/social-intelligence-baseline.md",
+        "concepts/human-ai-scale.md",
+        "concepts/ai-era-scarce-capabilities.md"
+      ],
+      "last_ingested": "2026-05-29"
+    },
+    "raw/articles/我们刚过了人类最后一个劳动节？AI新职业的八个变化.md": {
+      "sha256": "d05269b97fe52bdf1b88b0a8097c81a62363c59998c24e2b92a85375955e3cf2",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/《生成式人工智能服务安全基本要求》-全国网络安全标准化技术委员会.pdf.md": {
+      "sha256": "83e4a1129e07591e0c827a03bcf1974184c0c58f3528cbd3bbe825b9a0d10a94",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/Anthropic 联创曝内部工程师已不写代码了，但工作量翻倍！开发者嘲讽：所以 Claude bug才那么多？.md": {
+      "sha256": "4178542a71f5fae5c1e7b8d7799ed5dc0fa0e227f670f8645bfae97a2498b5c1",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/最新！马斯克与“投资知己”巴伦的倾情对话：技术领域最终比拼的不是起跑线，而是加速度…….md": {
+      "sha256": "0140fee8687a8469b106d3d3f2e20f2314525d63c1404ac35e0427d2903a0869",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/Understanding Spec-Driven-Development Kiro, spec-kit, and Tessl-martinfowler.com.md": {
+      "sha256": "985ec595b47271937f5f222c8ac2050be2456f22f4e12efa1288b7d1422cb55c",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/金融行业用好大模型，只有“垂直”一个解.md": {
+      "sha256": "8b0c543347748000a876dd06400b405a0a024fd463f816bb4702deaf0f5c581e",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/刚刚，奥特曼家被炸了.md": {
+      "sha256": "00879b6dfc42caf857bc84905f12acfce79221470c2c96c0502dab92fa8166a1",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/Rethinking Information for Computationally Bounded Intelligence.md": {
+      "sha256": "1563bfaea4619dcb4c7195854015d0cc9629b3773fd25d1fa891780ca4abc3f9",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/2026-05-28-AI越强人越忙一个住在未来的人说了什么.md": {
+      "sha256": "6a041af5a010877fa7e94d48cf8cb8f542f84b6ec13217e3390ea01c9edf9037",
+      "built": true,
+      "wiki_pages": [
+        "concepts/ai-native-organization.md",
+        "concepts/jevons-paradox-work.md",
+        "concepts/ai-economy-impact.md",
+        "concepts/forward-deployed-engineer-ai.md",
+        "concepts/agent-owner-role.md"
+      ],
+      "last_ingested": "2026-05-29"
+    },
+    "raw/articles/“创业项目濒临倒闭，我解雇了自己，把AI安排当CEO...”.md": {
+      "sha256": "87b83f0748eda9f621f37bd7c3a6846046a809643ae9f5652b62a032deea1269",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/管你模型多大，250份有毒文档统统放倒，Anthropic：LLM比想象中脆弱.md": {
+      "sha256": "c902e19840dec1b08a2351e33c8b8295e9ba770c5d6f9f7286e13386fe2353e1",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/12年交易实战，胜率40%、盈亏比3 1，他靠“六要素”打造稳健交易系统！.md": {
+      "sha256": "d3162410c139eeff8e8c6e95ea9b4eb7598e2b4a61c2642535a4959977ff91d4",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/2025：Agent元年与它的落地时差.md": {
+      "sha256": "d304b84cdee91c5f77b3ce92b16c4ebb22ce3be0d124209cef081dfc641bfcdd",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/如何理解今天的中国.md": {
+      "sha256": "c897b31b38a94901dd088dc3a48fbe70755252d59c1745a6018acce1538499dc",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/2-解读《资治通鉴》 汉高惠吕文景篇.pdf.md": {
+      "sha256": "0ebe8eea8eba3175556578473ebbf5957a73a9a0d6f8534ee82c78d33f491e47",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/Tailwind CSS 的核心设计师彻底抛弃 Figma，把Claude Code 变为主力设计工具.md": {
+      "sha256": "30471de174b6a2e727e591c78712dac19da2928242718a2733013a8c3f70a90d",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/软件开发的未来.md": {
+      "sha256": "b5103a1dc04357bab295f2e0815bcef0affaa50c267d30899f9d2dde907b03f5",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/AGI 之路，可能从一开始就走错了.md": {
+      "sha256": "6d8dd1beb2270773b1925564886432d7e0aeba4bd63c29bf1861eb1be0122e79",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/AI消灭不了科层制，扁平化远非公司神药.md": {
+      "sha256": "6aa5a44238069800129d2fa8518d42bc563aa0e4eb8b0b5550638a2979393456",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/Why Multi-Agent Systems Fail-Galileo AI.md": {
+      "sha256": "001188cfb16fcbdcb7dcb1b3acbee8487fb4cf8c0b77cb28bb1a6ecd42b4899e",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/系统多？获客难？银行如何透过用户旅程优化产品体验.md": {
+      "sha256": "b6095d0276c4344a58d7905e998b4d6301c4f9ea7264211f1528726d39857f12",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/5亿美元融资之后，杨植麟首次深度分享Kimi的技术重点（含演讲全文）.md": {
+      "sha256": "410c5ebb8a20decccd9acd1845e355b7493fe3c1770fe0aeca79206663e0f51f",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/马斯克为什么说AI将开启“丰裕时代”？.md": {
+      "sha256": "c55ec46cf52d01385eb52d8a306a21ac04e1243707452e35aef163544d51bbb8",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/articles/有效的 Context 工程（精读、万字梳理）.md": {
+      "sha256": "19e7c0f8bac3cc0b09a48ea277bb53e7876eced221add2d6efbf957c3713359c",
+      "built": true,
+      "wiki_pages": [
+        "concepts/ai-coding-agent.md",
+        "concepts/context-engineering.md"
+      ],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/活力的科学：一份关于抗衰老与能量补充剂的综合报告.md": {
+      "sha256": "e08b7909b31b6d461b3ee1d2c6cc0f88a7febec65e8b8d3a5475ea6c92f37485",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/2026-05-29-AI为什么会失语.md": {
+      "sha256": "9d6ac8c99c7b0ef6f8c29ef8beaef0860c070bf89311718bd3f42bd2976764fb",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-30"
+    },
+    "raw/articles/无需指标也能吃大波段！全网最全沃尔夫波浪交易策略教程：画法、规则、出入场、止损止盈全都有.md": {
+      "sha256": "fbf3c9b0566f742d85bd2a5b6672acfaecfe3abd4409c79738567fbdc8e2fce2",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/泼OpenAI冷水：LangChain官方阐述为何不走可视化Agent Builder路线-知乎专栏.md": {
+      "sha256": "47bf465fcc46b88669662e1de2b06b7665966ba86226cfcca088e640413046b1",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/别再乱用RSI，3大必学盈利技巧+3个血亏陷阱，轻松拿下1000点行情！.md": {
+      "sha256": "d00c3f5bcb13b035ca367e8f35d4ae9e84a55157fd9cc2110fb8a817e51c9c3e",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/普惠金融激战正酣，中小银行必须抓住这四类客户！.md": {
+      "sha256": "5290dbd06379890d1d74f9ede2f134f28fe0b085bd5f779a9eb542111dada55d",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/硅谷大厂开始AI-first换血：先裁3万人、再招8000个新人，传统产品经理正在被Builder淘汰！.md": {
+      "sha256": "6aed05f067ad549342a0c34f9a51288b8769a7e7a1a8070deefa8999165bef2b",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/金融知识体系终极指南：1.2万字深度拆解，从零构建完整认知框架（建议收藏）.md": {
+      "sha256": "75dbcb14dffdddf7ebb12960f208591b8055b01a75a1ce3197fb57643d33088d",
+      "built": true,
+      "wiki_pages": [
+        "concepts/financial-knowledge-system.md"
+      ],
+      "last_ingested": "2026-05-11"
+    },
+    "raw/articles/AI代码的“屎山危机”才刚刚开始.md": {
+      "sha256": "69cc44f7b4694e5e8f08b50fc1123b444a7e177a3f7dc6085ed149c4147a24f8",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/6-解读《资治通鉴》 汉明章和殇安顺篇.pdf.md": {
+      "sha256": "d08862f9475183326370948813fbc5f7ebff6ec7b43b674036779ae5832f4b1b",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/GC-AzureOpenAI-SRGCM12789.pdf.md": {
+      "sha256": "83e128155f84a1ef525818d41ee22efff2c3074a6463d2dd16fa9448b24b9e27",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/ai_coding_best_practices.pptx.md": {
+      "sha256": "39b2d6bb637e5d49b038f84f7e2e47bb660e320d449014d3b31efa49754e024b",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/4 人起步，Next.js 之父带队冲出Agent爆款：开发者用户一年超过去十年，一秒生成 7 个应用！.md": {
+      "sha256": "fff4d9994aa39ef4d1523194c564e7b4e663dfe11b4584f9dc9fdc8733fdd45f",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/像素级解码建行零售数字化转型.md": {
+      "sha256": "520d578ca01a8c40edbc328a0e6dcf9cca9d6494e4858221a8850bdd4c316bfb",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/Demis Hassabis：AGI 还缺什么，智能体到底行不行，下一个科学突破长什么样.md": {
+      "sha256": "535e5e623be9095bbecff3d211b9d5833d49bde7f95d7953e4e345c692dac785",
+      "built": true,
+      "wiki_pages": [
+        "entities/demis-hassabis.md",
+        "concepts/agent-memory.md"
+      ],
+      "last_ingested": "2026-05-11"
+    },
+    "raw/articles/一篇漫画帮你理清楚——什么是因子？什么是特征？什么是好因子？.md": {
+      "sha256": "4f232634867014bc921b68786ff367750eb5c27427608cce853be6cae43c2692",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/解决特斯拉「监督稀疏」难题，DriveVLA-W0用世界模型放大自动驾驶Data Scaling Law.md": {
+      "sha256": "2eb861a8fc0c7a8eecac4e181fccfc2b877725ca88e6b660b2197a3e0931a5b4",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/斯坦福最新论文，揭秘大语言模型心智理论的基础.md": {
+      "sha256": "20aab197409b33f24467a35c77d1dcde0861f6f79a0ecd4315b8e165cfe2c178",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/Vibe Reading：AI时代读书的系统化方法.md": {
+      "sha256": "394cd92b31bf018f9b7c1990ff3c793d4df140e187a3bca913d76ffbe7a56802",
+      "built": true,
+      "wiki_pages": [
+        "concepts/copilot-learning.md",
+        "concepts/vibe-reading.md"
+      ],
+      "last_ingested": "2026-05-11"
+    },
+    "raw/articles/2026-05-28-AI破晓-生成式AI时代文化产业的重塑跃迁与守望.md": {
+      "sha256": "f2e9aa84b6b3a865292fd89d7eb5da6038ecf8ecd3f982b7711126dc7ff07d30",
+      "built": true,
+      "wiki_pages": [
+        "concepts/ai-economy-impact.md",
+        "concepts/one-person-company.md",
+        "concepts/super-creator.md",
+        "concepts/ai-era-scarce-capabilities.md"
+      ],
+      "last_ingested": "2026-05-29"
+    },
+    "raw/articles/担心被Skill替代的打工人发现：「根本不是那么回事」.md": {
+      "sha256": "6cbde5b213d2c2dc47bdd536055b0b4175f5962c303c643b280863215c8c0803",
+      "built": true,
+      "wiki_pages": [
+        "concepts/ai-era-scarce-capabilities.md",
+        "concepts/skill-distillation-depth.md"
+      ],
+      "last_ingested": "2026-05-11"
+    },
+    "raw/articles/为什么我们拥有越多，精神却感觉越匮乏？.md": {
+      "sha256": "365227e456d329c19d4bbae71eee5325ae5636fbdb35a75779b1f03fa7f445f5",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/组织能力才是 AI 公司真正的壁垒｜42章经.md": {
+      "sha256": "3db9b83d9c8aa2237a684ed4ae168e8116138426bcacdbdcf4469ce5acc64b68",
+      "built": true,
+      "wiki_pages": [
+        "concepts/ai-native-organization.md"
+      ],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/Christian Catalini, MIT (catalini@mit.edu). Standing on the shoulders of silicon giants—whose weights encode the vast literature built by pioneering computer scientists and economi.md": {
+      "sha256": "ea806b21049a5a8234c87edae8abac6c1b8815ca09a8923a4179ae9a4edd2bdc",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/回测不是研究工具！专访Marcos López de Prado.md": {
+      "sha256": "a6811a596dc56b6504653a4f55f8e7f41f678a8d96301cb6d515ded87b7bd67b",
+      "built": true,
+      "wiki_pages": [
+        "entities/marcos-lopez-de-prado.md",
+        "concepts/quant-backtesting.md",
+        "concepts/backtesting-overfitting.md"
+      ],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/消费股的两种投资方法和三个行业贝塔.md": {
+      "sha256": "f97b5477843c0eff99c0e4ae8fcbee9a48b2d196d0aa57a8bb4b2c38e0d6f369",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/警惕Token福利陷阱.md": {
+      "sha256": "bc7acc6999d122c00b489deeea4a487220015e2f54eb0c71304625e268ca638f",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/Coinbase 构建万物金融网络.md": {
+      "sha256": "55732f1bf8de1e181e0ca19b9abe032ec06eca7efb969c94ae7f84fccb02e697",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/软件的工业化时代.md": {
+      "sha256": "27a61daeafb391456cbc69c2c710b2aa165f9a3817226c151552849cb39d5ec1",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/30年创造5176%回报！这个被隐藏的突破交易策略，机构不愿公开的秘密.md": {
+      "sha256": "affc1584026d0efc27c8d2c08778cf352b8261757d3b899d2e48a622d9ff5f0c",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/我是微软工程师，编程了30多年，如今我几乎不再编程了.md": {
+      "sha256": "a68ad07dc82e12dc4c1c3e7c5154fd2bba42feb9b40faf4315a0dba85fd1d28d",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/“黑天鹅之父”塔勒布最新分享，深谈反脆弱、黄金、关税以及中国机会.md": {
+      "sha256": "4bb5f4687a8e08720a1a1e7a7f00d1107fd78cf7e5610c93a09604ed84e5c637",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/AI 时代的魔幻现实：老板向左，员工向右，一个用了求生，一个用了找死.md": {
+      "sha256": "f59c057bd06ebe00928dd97b6cd19ca68a163e801ef9ebb227510dfec25efd84",
+      "built": true,
+      "wiki_pages": [
+        "concepts/ai-organization-adoption.md"
+      ],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/articles/Anthropic又出王炸！一个文件夹，把Claude“调教”成真正可以干活的Agent.md": {
+      "sha256": "ee0bff6ea0d64c25957c0b78a1ffeb83080ab273f0233819f78355ebc69d50f2",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/第一个被AI解放生产力的行业.md": {
+      "sha256": "10effcc3f554bc902f766149fcd052ade41951842aab784397c478797d8726c6",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/唐杰深夜发文，AI从工具到劳动力只差这一步.md": {
+      "sha256": "19f079bd104df6754040e7b45c8ac6e9d2478c7aaff285e777ea241610d8b8a7",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/4-解读《资治通鉴》 汉元成哀平帝篇.pdf.md": {
+      "sha256": "b18d42248cdb48a4ad403f6673beb366d6d4b050787970eec6716784c90e977b",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/上下文即权重，谷歌找到了绕过GPU训练的新范式｜DeepMind新论文解读.md": {
+      "sha256": "78a9cd2093a0b569395e75f8f63012eb350ca4b316c8cb2b707867276e588a54",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/人类会彻底沦为无用阶级吗？.md": {
+      "sha256": "8ba20c2a123c01f959eeb3d7f5874e0a09b7c6f2663a42865eac9dc547f97279",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/杰文斯悖论（Jevons' Paradox）.md": {
+      "sha256": "fbba1bede74464be36198d78932f27aa4479c383e439bd3942a766c6746b4032",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/GPT-6要「活」了？MIT新作曝光，AI「自进化」不远了.md": {
+      "sha256": "f9fff963a5c5ca9109c5c5620634569262eb1a5ea13ab87673f5f194022bed93",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/引爆SaaS万亿美元抛售之后，Anthropic加码Cowork，要改变所有白领.md": {
+      "sha256": "01f4dcd58ab7f7bff68f86232725941988175f70258855c01595ac2c232c7d1c",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/Karpathy 最新访谈：Vibe Coding 只是开始，真正重要的是 Agentic Engineering.md": {
+      "sha256": "c5135ccd8ad4237ec1137e4e463f3d87cec85bf2a3c3d5150d21ab66d85057c4",
+      "built": true,
+      "wiki_pages": [
+        "entities/karpathy.md",
+        "concepts/ai-coding-agent.md",
+        "concepts/harness-engineering.md"
+      ],
+      "last_ingested": "2026-05-11"
+    },
+    "raw/articles/复旦大学肖仰华：AI的尽头是人文.md": {
+      "sha256": "614c3428a9f1b27786567752b453c31f49449fefcb2fa26556bd987bc9770746",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/茅台的价格，大概率是涨不回来了.md": {
+      "sha256": "2338ef5545053c9d300035b2a00443ed8cad354850d2464ae9a89132435f8e40",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/AI时代的乐观主义.md": {
+      "sha256": "87977a2caca1cfa3bbff10e7681fe0d1992082d23093a696c4484aca878a2a52",
+      "built": true,
+      "wiki_pages": [
+        "concepts/ai-era-scarce-capabilities.md",
+        "concepts/ai-commoditization-boundary.md"
+      ],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/AI代理的上下文工程：构建Manus的经验教训.pdf.md": {
+      "sha256": "d15bee2ccb42e256b533ba4e0712d5c205775865293181a3312de1ae63b2fec8",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/如果拥有AI公司的能力，银行将会变成怎样？.md": {
+      "sha256": "57a31e861887cc1c96ee0121243bbb75ea9130d85cba36f722ec25a0ecfb7f7d",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/是马还是煤，决定5年后你的工作是否还存在.md": {
+      "sha256": "5fc8c00dd64b1583156a878da7982efbe6d16dac362847a264e404dbba3dea3d",
+      "built": true,
+      "wiki_pages": [
+        "concepts/jevons-paradox-work.md",
+        "concepts/ai-economy-impact.md",
+        "concepts/ai-era-scarce-capabilities.md",
+        "concepts/hierarchy-to-intelligence.md",
+        "concepts/ai-commoditization-boundary.md"
+      ],
+      "last_ingested": "2026-05-11"
+    },
+    "raw/articles/当龙虾代替我们去工作和消费，传统经济学法则还会成立吗？｜Hao好聊论文.md": {
+      "sha256": "c8c58d014a0d3ee8ed70cc9525ca11538cd225af0bfcf0b76d1df55997f2a1d6",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/大模型的2025：6个关键洞察，来自OpenAI创始人、AI大神“AK”.md": {
+      "sha256": "022a8f9884d7f06a7cb45b61187f6a6f4dd6e76e724a1caff8b0004925dbca34",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/关于GPT答朋友问.md": {
+      "sha256": "97b967805bedf48b5e5519a177bab794d552083868035ec87442e861ed493b46",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/陶哲轩：AI 正在让“想法”变得廉价，而真正的瓶颈从未改变.md": {
+      "sha256": "c8b4ac632518dc729191cde4c10734cd52f583849653c497ca7e85e85c25fc6e",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/AI 时代到底该怎么管一个工程团队.md": {
+      "sha256": "974be7342cb5b58b88e4813945d974b5429178b15227d46077e97452d6099bc1",
+      "built": true,
+      "wiki_pages": [
+        "entities/fiona-fung.md",
+        "concepts/ai-native-engineering-management.md"
+      ],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/关于ChatGPT的五个最重要问题.md": {
+      "sha256": "d3988c7b83a74af66359d179512f1ffe4f01bcb502a1b63d01e61c45e3b8ec9f",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/所有AI的馈赠，早已在暗中标好了价格｜北大最新论文解读.md": {
+      "sha256": "c419c6c91b852f682b98a372870a23f41e6da52e6591b776c38572dfa0a52448",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/谷歌辞职、创业失败、重读神经科学，她说 AI 时代最危险的事是外包你的思考 ｜ 万有引力.md": {
+      "sha256": "96f4386f286c3ec5f8ec76501e2670298a86724aa904b2555e77fdb4687acb38",
+      "built": true,
+      "wiki_pages": [
+        "entities/anne-laure-le-cunff.md",
+        "concepts/ai-human-boundary.md",
+        "concepts/outsourcing-thinking-ai.md",
+        "concepts/pact-framework.md",
+        "concepts/cognitive-scripts.md"
+      ],
+      "last_ingested": "2026-05-29"
+    },
+    "raw/articles/起底救市旗手中央汇金.md": {
+      "sha256": "653b6603b2c21b57751377766e731887488145faddbb4263212f03ad689290d5",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/后端互通，Agent 才能协作｜对话 Taku 团队.md": {
+      "sha256": "da6940adbb14bd81b01f92ae6113de06db8e1218df03c8742f7d2193eaeadc5c",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/石油危机与滞胀幻影：黄金与科技股该如何配置？.md": {
+      "sha256": "5fe9b9bfe41290efe12ff39f922dfdb0ee3f4a2e7c17cf8c5a42d5b3667bbbc9",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/解构Claude的灵魂_一份内部文档的发现与深思.pdf.md": {
+      "sha256": "ad5321959b3c32ad9f8fbb54339baa65432d795787ab70a33f0deb886137bb15",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/Codex负责人打脸Cursor CEO“规范驱动开发论”！18天造Sora爆款，靠智能体24小时不停跑，曝OpenAI狂飙内幕.md": {
+      "sha256": "85c4cb6b54f26a18bbb90192b20577d50209b732a83f09a6c404962226b6eeba",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/我让三个AI替我“吵了一架”.md": {
+      "sha256": "264d5938aa6f056cd2b0695c12729f1aa364f2182875557a840dbb898d3325a0",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/重新定义读书——我用 Claude Code + Luffa,把一本 800 页的金融学教材变成了能 动手玩 的小程序.md": {
+      "sha256": "00d8f6e77c711ee2125a1c6be52c7b531ec9b9b99b7df36bdb8f944d07ca40a7",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/隔夜交易四因子模型，附因子公式.md": {
+      "sha256": "78acbb0256720201dbc389f697dfb6c52dd06a60341c565f253a72b2943f56e1",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/251117 中国AI 2026 投资策略：从百舸争流到自成畦径.pdf.md": {
+      "sha256": "72d31164e43a33bb6d6ba123a41e6121191e7e17ec243de8513e0fff570a590f",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/详解 美国对日本半导体产业打压历程及对我国的借鉴意义.md": {
+      "sha256": "08d41a629870c73450414cc39d4fa5fe953e8aa6476b9a71bcfca93eb49c313c",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/人工智能：AI大模型在银行领域的应用.md": {
+      "sha256": "ff981ed7a0816b41ad37e6eafd31ceae02be8deae10ffc38bd2f92c8c4d60eb4",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/给信息“减肥”——Zanista如何把金融新闻查询提速60倍.md": {
+      "sha256": "254708e7628d922868dc6e36f01b652637033cef4e52f5ca58ed7bba1a081694",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/互联网毁掉了客服，AI又拯救了它.md": {
+      "sha256": "db247849d935892c100fa7e0ae326a7cee15a9d53a3979619a4b1ed298f1ad72",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/塔勒布：我从未见过有钱的预言家，在“肥尾”世界里普通人该怎么投？.md": {
+      "sha256": "88d7e2457342f5e73a8ae55bfff60ea0dfa83f9007e2c00731057376d80584f5",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/ChatGPT启示录系列｜万字长文解码全球AI大模型现状.md": {
+      "sha256": "e35f276f2657a59baf7299222894c9b2bb0cf398e598dce1a384951c00b342c7",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/Introduction to Agents.pdf.md": {
+      "sha256": "864084f70fae2baf485c3670563d55829dd2f16f52fef7e96598d859656a21a8",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/魏炜：智能时代——人工智能重塑理论创新模式.md": {
+      "sha256": "1646f1457fa8b03739848bdc76eed7177a53d64e1e5256d48e65eb4ee55420ab",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/系统交易大师尼克·拉奇：从手绘均线到全球趋势跟随大师，他到底做对了什么？.md": {
+      "sha256": "787514c0d9e64013741db94a1e57452151b0410efc2612562886ed1b90eedd34",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/新一代记忆智能体框架MIA：让智能体告别「失忆式工作」，在持续进化中变强.md": {
+      "sha256": "76cc2278890e96bd6c67329f91a69e3bb9f3a1174eb1688b89561860fd6e4e21",
+      "built": true,
+      "wiki_pages": [
+        "concepts/multi-agent-collaboration.md",
+        "concepts/agent-memory.md"
+      ],
+      "last_ingested": "2026-05-11"
+    },
+    "raw/articles/5-解读《资治通鉴》 新莽汉光武篇.pdf.md": {
+      "sha256": "7eaf5dda40a3654e6e44480c014fa779d274eeaec007198cb7ccb4534e97a484",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/强化学习之父Richard Sutton最新采访：LLM是“死路一条”.md": {
+      "sha256": "e018d23e216d109a2229162704894b3eefcc405563af44ba522f47a75e8d1e43",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/8-解读《资治通鉴》 汉献帝篇.pdf.md": {
+      "sha256": "943259079320885ec1499b5633991253a27869106d601f89ceb51c2c7d4908da",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/大组织内的AI Coding过度推行是一种饮鸩止渴 - 知乎.md": {
+      "sha256": "c030fec8eca29c5df180523f6272cdfa77a95d263c336b4c402fb3d6fb5e1c04",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/DeepSeek对商业银行智能化转型的启示.md": {
+      "sha256": "68ce405476e4e772e591f67600eec71b659c17e528b476b96fe368e28e7e4aab",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/中学生能看懂：10 分钟理解大模型.md": {
+      "sha256": "2827b3595f0507d196c5a10f8a7d09b1bb7f593d9da753a49271c5db27425854",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/AI：工程师的生产力杠杆.md": {
+      "sha256": "b7868995ae239eb98ad0d09a0871ef0ed83250f9816cd4608fb49128ee5412b0",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/AI无论怎么发展，绝对无法超过人类的有哪些方面？.md": {
+      "sha256": "e71cc892e576a4e09c1bde6f2541a55bc483cb6dcee6c69a151271adc73eab84",
+      "built": true,
+      "wiki_pages": [
+        "concepts/ai-alignment.md"
+      ],
+      "last_ingested": "2026-05-11"
+    },
+    "raw/articles/王小川的医疗 AI 新答案：用 PAPA 打通医疗的「最后一公里」.md": {
+      "sha256": "502d9f4db23739af747259c57264caf88cb8e34a7a51b39fff8b45d7ac4ba953",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/2503.17085v1.pdf.md": {
+      "sha256": "152a250e02c5208d4161b99b995afc4f51d848a7cba22fd071ef6e7d5c5dde5c",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/Dario Amodei 万字长文：我们已经没有时间可以浪费了，直面并克服强大AI带来的风险.md": {
+      "sha256": "ef0faa47ba96da45b3c4fb7b5551c349b2445bfa6d6041f976cadfb77ab5c03e",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/泛化：AI的捷径与天堑.md": {
+      "sha256": "881b0cfa0d37560c64c131a22d75767dab36b8ad7fc9d2edb5e7026579869dfe",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/陶哲轩长文剖析现代社会：大型组织挤压小型社群，个体陷入疏离困境，AI正在加速这一进程.md": {
+      "sha256": "056c99b6c5ab45d48e288feda3f1c9f27f8b1592c8eb41d0ca6dd6727491f9df",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/Google的这篇70页上下文工程的雄文到底讲了什么？为您整理并奉上中文PPT解读。.md": {
+      "sha256": "dec645a0114caf8db48a7cd934bb6a3909c88f475cd1b036fd77e92c6f509295",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/大空头再出手：看空的16条理由.md": {
+      "sha256": "8a80c2f613fcee695eb14844ebe0c3f99dbd6d7d2faf3f18bd9b415e132c6578",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/DeepSeek融资，改写所有人的估值.md": {
+      "sha256": "b17ce8ea268e9ba60ca2b338e8ad982face8ae8c945ea30252287994d46e48ab",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/OpenAI前VP联手DeepMind大神创业，目标打造AI科学家，a16z领投3亿美元.md": {
+      "sha256": "742b739bd7356d2fec290699b14e49b2a78f1f459afced6ce04434edf529323b",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/菲尔兹奖得主用AI解出博士级数学题，然后他开始为博士生们发愁了.md": {
+      "sha256": "21ae4ea0476f3677338ac054037c23eac399a44668c366131aa54b322141acb5",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/来自BlackRock的AlphaAgents 基于多Agents的LLM在股票研究和投资组合管理中的应用.md": {
+      "sha256": "c43a5963fb3930e89f37676eda1134fb9259a2653dadfcce99755da0b2ff1876",
+      "built": true,
+      "wiki_pages": [
+        "concepts/multi-agent-collaboration.md"
+      ],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/The Age of AI：拾象大模型及OpenAI投资思考.md": {
+      "sha256": "4263e1a78c0103ab8dd5e68dc0e8ab39402f171a8796901d4484149ced5d9ba9",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/为什么有人选择和AI结婚？.md": {
+      "sha256": "a063410ece15c0bf0e11972f28c5b51df30259f8159d11258c8049b4aa1a9584",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/从 RAG 到 Context：2025 年 RAG 技术年终总结.md": {
+      "sha256": "91ad1c9d3cf138dd02f9bbd68d6196c43de739dd4e3f9afe7a316e4a76e9cd8e",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/“高增长和高失业，会同时到来” -- Anthropic CEO 阿莫迪.md": {
+      "sha256": "8cb2a54e08b33063e34065abb95bd92c02b08dd3a1d57429e4b8f22a9dac2a68",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/以下分析基于过去 18 个月对全球 AI 基础设施 capex 的跟踪，博采多位机构和民间分析师思想精华, 并基于全球领先的金融AI —— BeanBag AI进行的深度研究。这不是一篇消费股推荐, 这是一篇被忽.md": {
+      "sha256": "128e0b412676cf2cfc67a57197a2f80e477126f532eb2ae1f81da84a65a4f4a4",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/articles/2512.08296v2.pdf.md": {
+      "sha256": "5213123bdae631214e244cf8cc61573f4fdb345ce98a6621a06a0ecdc93f6fe1",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/102页Agent Memory重磅综述！11大机构联合发布.md": {
+      "sha256": "019e1cbd58238e5ff83712972c7bc2272faa6ab371c8d03ce88bad1986a17771",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/像大模型一样进化.md": {
+      "sha256": "e2f9b355155d91f7b104dd2f7c854901353d186fd98d711f2c4915f0344cf13b",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/范凌：当公司变成Agent，关于 AI 时代组织的 5 个反思.md": {
+      "sha256": "7ed5a8dafddf2b584c46a0c1625ae7eda2807c7d4c94445e3848105e42c67c07",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/深度拆解：AI Agent Harness 的构造【译】.md": {
+      "sha256": "f5bd032e725dea03f88a836dd69851578b581c44c4a7be057130ce5e116a5520",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/3-解读《资治通鉴》 汉武昭宣篇.pdf.md": {
+      "sha256": "0e7cb138d0f7406ce3398dd8be6e67f383fac2e5de61a6eaf578e9cff8e99d7c",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/高强度动脑的人，如何有效地休息？.md": {
+      "sha256": "a05ca6c7b5fb6aac79442623bb012b63dd198ddc395aa081a29c47c9941128e1",
+      "built": true,
+      "wiki_pages": [
+        "concepts/ai-cognitive-debt.md",
+        "concepts/effective-rest.md"
+      ],
+      "last_ingested": "2026-05-11"
+    },
+    "raw/articles/2026-05-27-需要自进化的不是Agent而是Harness.md": {
+      "sha256": "78068d5edec22d18763adc6a10fa982f320f6b6df78240b5011a0e0a4068b317",
+      "built": true,
+      "wiki_pages": [
+        "concepts/harness-engineering.md"
+      ],
+      "last_ingested": "2026-05-29"
+    },
+    "raw/articles/交易员必读深度解析丨想让利润奔跑，亏损止步？一文看懂“反马丁格尔策略”.md": {
+      "sha256": "4241aff191e2970454792fd4625c8a14d12f596c6e87efbe8a77098a0beff399",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/白宫发布：“不能让中国搭车”、“我们曾赢了太空竞赛，这一次还要赢下AI”.md": {
+      "sha256": "c36858cd65618ae22bc50ed3c7cf803446a95370fe5547648766640ccea25c9c",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/当AI吞噬软件，数据正在成为企业唯一的护城河.md": {
+      "sha256": "ea70cb54ddcf991471d5f3edfb83fb8312dd430c9dd853da8aa28f464c27a802",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/“Token”必须死？.md": {
+      "sha256": "530bc4fcd2269e4f1a1f126c8c8f2f48f08844737a17cd3a4dcd1f2c398e7879",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-26"
+    },
+    "raw/articles/陈天桥最新撰文：管理学的黄昏与智能的黎明——重写企业的生物学基因 - 今日头条.md": {
+      "sha256": "11536eee94181c309ef4c072fa85942234895b8530b28de6ac7d3471179ec7fa",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/小孩都看得懂的 Embedding.md": {
+      "sha256": "cf8750f7e9145a02d18beaa1c85d37f9a4a3682a8a24eeddb25c5ecabf29019d",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/解散xAI ，马斯克和Anthropic都赢麻了.md": {
+      "sha256": "d3c5f8f89b0ec27e41ef1d10b192790085545e43deeeaf21281261186de4e5a4",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/只需10分钟，AI就能“养废”你的大脑.md": {
+      "sha256": "8a68cc3bc0bd391d875f5bf4dd0127b6f774995b915ea5c546177a3def075072",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/articles/AI Native 时代 —— 研发组织何去何从.md": {
+      "sha256": "de07e5d024610fcb110f0f57bf8006416755a06653287896f03b72798d018fef",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/郭士纳去世，你想象不到他为这个世界留下了什么.md": {
+      "sha256": "d3df564813885b1619f57f7899d980b290ef498aff4465dc18738e8f383c9165",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/AI 的经济账根本算不通.md": {
+      "sha256": "4e94bc28503ba1c04dc1ff418d7b65c55ce8589c254223bda5a683c57d506b0e",
+      "built": true,
+      "wiki_pages": [
+        "concepts/ai-economy-subsidy-crisis.md",
+        "concepts/token-economics.md",
+        "concepts/ai-economy-impact.md"
+      ],
+      "last_ingested": "2026-05-11"
+    },
+    "raw/articles/7-解读《资治通鉴》 汉冲质桓灵少帝篇.pdf.md": {
+      "sha256": "8d0a63e4823d58f0f5f30c743fde7a4dd8cd6ecd2d2137caa4aa51455e4edebc",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/大模型价格战背后，真正稀缺的不是Token.md": {
+      "sha256": "692b2e6a60638b58e9ad6aa0f523e0610875c0e596f91a06d4d69b60cb270b25",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/LLM Powered Autonomous Agents _ Lil'Log.pdf.md": {
+      "sha256": "1f44ddede40e06d2577811e6b95e580f93c24dff08b20be521427412865d7eab",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/真实、残酷的AI就业冲击，从一篇精彩的哈佛论文聊起.md": {
+      "sha256": "20ba220fa5bfa63d30c1756f3a8f6d848166a393205a6e5cc275e7836b3e64e2",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/Cursor们疯狂生码，引爆无限软件危机！Netflix大佬警告：氛围编程正把我们带向灾难，程序员得动脑子.md": {
+      "sha256": "dba51ec2e6ef1603e83d8e48155eed73bdfed94791925d943d69823765a0b883",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/硅谷大厂裁员背后的组织变革丨硅谷AI转型录NO.1.md": {
+      "sha256": "830b26d9b3f79544e862bcd394d3426d1331d7a11f1778d674c97754a4e54602",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/软件，真的会变成“日抛”吗？.md": {
+      "sha256": "7ca24bf230452bdee4655b9556e14aecab7d7355baed3f68b7263a64f22e10ef",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-25"
+    },
+    "raw/articles/看透人性，揭穿本质：交易的本质就是以不断的试错来捕抓大行情.md": {
+      "sha256": "8446e39f707fe5e8e61aa0668c388405659aa0bf73d3ec19ff5d532613a15d9a",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/多年以后，我终于读懂了高考.md": {
+      "sha256": "3e1d8af5ea2afe185fb341b440780a575c0e18dea3c7b54c30b1b54183610730",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/严肃聊聊，Skill到底能蒸馏我们的几分之几？｜Hao好聊趋势.md": {
+      "sha256": "252288d3202e0ac1c305c9183517087a346f2001cbbb2fff112a0e3a0296a969",
+      "built": true,
+      "wiki_pages": [
+        "concepts/ai-economy-impact.md",
+        "concepts/ai-era-scarce-capabilities.md",
+        "concepts/skill-distillation-depth.md"
+      ],
+      "last_ingested": "2026-05-11"
+    },
+    "raw/articles/Token生意在重新洗牌.md": {
+      "sha256": "4a152d89f4ab257dd132e6a141051c3422abeb05718b434aafdfd7fe88244e46",
+      "built": true,
+      "wiki_pages": [
+        "concepts/token-economics.md"
+      ],
+      "last_ingested": "2026-05-26"
+    },
+    "raw/articles/企业级 AI Agent规模化落地的避坑指南，就藏在这四大趋势里.md": {
+      "sha256": "dde9c78a0033e69e66e6367b3d8d86fd27569671e536a8b79618e842ca66fb80",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/黄仁勋“炸场秀”后的精彩问答，谈及关键临界点、护城河、马斯克以及亿万富翁税等.md": {
+      "sha256": "4d2be30b0026c01311e2fe8569fcc62191adeaeb116a94339962e12750278c73",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/任正非：办公室里无将军，不打粮食的管理者坚决淘汰.md": {
+      "sha256": "9934f7a66e3344afd61294c48a1915daabe7d3f32f2070a1d870c349c73f5221",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/AI是人的延伸，人是AI的尺度.md": {
+      "sha256": "9a5ffa8a8c90e97b6dc9f206decf31b00de8f2f223720067269e8f590b6279c8",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/三年前OpenAI预测不会被AI影响的职业，正以4倍速被残酷碾压.md": {
+      "sha256": "2c7131f421efaf699edb8bcf36f9d4465187787c5d746b0c0ae792337098b40f",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/Harness 刚火，可能就要成为过去时了｜Hao好聊论文.md": {
+      "sha256": "989fb4f153698d9faf3750ac9dc15b065ccff27f154c40834be7c53d8f558993",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/articles/腾讯郭凯天：让AI成为尊重人、成就人、有温度的力量.md": {
+      "sha256": "c75b4de200c36fd4635497de8b0f02305fbfe2e399a1d0797c14524947ead8bc",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-22"
+    },
+    "raw/agent/企业级智能体实践.md": {
+      "sha256": "033828164be15a07de79786748cdf38925af9014ea699a3c499095da1ef7a8f3",
+      "built": true,
+      "wiki_pages": [
+        "concepts/enterprise-agent-practice.md",
+        "concepts/agentwashing.md"
+      ],
+      "last_ingested": "2026-05-27"
+    },
+    "raw/agent/宏观经济学习路径.md": {
+      "sha256": "f9e278a181d296f56e6d6873e8497711f071e5dec0b0c96f9033b0beb8495116",
+      "built": true,
+      "wiki_pages": [
+        "concepts/macroeconomic-investment-framework.md"
+      ],
+      "last_ingested": "2026-05-27"
+    },
+    "raw/agent/对比法与理解深度.md": {
+      "sha256": "1463d3a1f769099aefe0085871a8e982e19195d8135cb33c9e7456fb624c494c",
+      "built": true,
+      "wiki_pages": [
+        "concepts/analogical-overshadowing.md"
+      ],
+      "last_ingested": "2026-05-27"
+    },
+    "raw/agent/新能源车与房地产.md": {
+      "sha256": "7c7a4dc3eb46c08a80964f8e4b35d8bf8a70bcbbe5489db5e8503f4abe5f3661",
+      "built": true,
+      "wiki_pages": [
+        "comparisons/nev-vs-real-estate-macro.md"
+      ],
+      "last_ingested": "2026-05-27"
+    },
+    "raw/agent/人月神话.md": {
+      "sha256": "c3bf9857a905195ada663d31f36107f7e55c40d3b449042bed449eabb255b822",
+      "built": true,
+      "wiki_pages": [
+        "concepts/mythical-man-month.md"
+      ],
+      "last_ingested": "2026-05-27"
+    },
+    "raw/agent/Skill与Utility.md": {
+      "sha256": "bd94cb687dacf8302816021fb1dd3529bfd39336c5b490db77761033ded04f83",
+      "built": true,
+      "wiki_pages": [
+        "concepts/utility-vs-skill.md"
+      ],
+      "last_ingested": "2026-05-27"
+    },
+    "raw/agent/palantir-aip-ontology-analysis.md": {
+      "sha256": "767ec58cba5bfc2562043ba5b2fb191e1761420b01a8f497abc91b3da85fbeb2",
+      "built": true,
+      "wiki_pages": [
+        "concepts/palantir-ontology.md"
+      ],
+      "last_ingested": "2026-05-27"
+    },
+    "raw/agent/个人的AI框架.md": {
+      "sha256": "fda850bc1cfc0b65f81f332d4a7da8c178ceffecb5efd151adfa65dfaf65c64b",
+      "built": true,
+      "wiki_pages": [
+        "concepts/personal-ai-framework.md"
+      ],
+      "last_ingested": "2026-05-27"
+    },
+    "raw/agent/BA与SA的边界.md": {
+      "sha256": "57ff7f828cd9e98f4f13e951054c1ac9087fd60c8e6c0b747f25dfddaf4139a4",
+      "built": true,
+      "wiki_pages": [
+        "concepts/ba-vs-sa-boundary.md"
+      ],
+      "last_ingested": "2026-05-27"
+    },
+    "raw/agent/人货场视角下的银行金融服务.md": {
+      "sha256": "20fb24f9cc5558b5e6bfe8c46134960b5a26e3ff9d73aaa462906050f58a7322",
+      "built": true,
+      "wiki_pages": [
+        "concepts/ai-native-bank.md",
+        "concepts/people-goods-scene-banking.md"
+      ],
+      "last_ingested": "2026-05-27"
+    },
+    "raw/agent/科学与工程.md": {
+      "sha256": "ccaecdeb6c6e42623e15d46400649db4d1e154bb44ba878776f5d02d36010d4c",
+      "built": true,
+      "wiki_pages": [
+        "concepts/science-vs-engineering.md"
+      ],
+      "last_ingested": "2026-05-27"
+    },
+    "raw/agent/文章的AI味.md": {
+      "sha256": "bb07024f92f3cf1f9e3acd90681b15e34e3f2c0fdd58c77df5069c507f85b2f8",
+      "built": true,
+      "wiki_pages": [
+        "concepts/ai-writing-flavor.md"
+      ],
+      "last_ingested": "2026-05-27"
+    },
+    "raw/agent/银行ABCD科技战略：叙事还是实质.md": {
+      "sha256": "fbd8cd2c2c374a9e37b7d7ccd5a681ca7ac4dc27c4867d0ab9525657077314ee",
+      "built": true,
+      "wiki_pages": [
+        "concepts/bank-abcd-tech-strategy.md"
+      ],
+      "last_ingested": "2026-05-27"
+    },
+    "raw/agent/康波周期.md": {
+      "sha256": "bf448be270c3d0e0799f011e7a6d5d55b56e937bed251d2ad708abcb7237991f",
+      "built": true,
+      "wiki_pages": [
+        "concepts/kondratiev-wave.md"
+      ],
+      "last_ingested": "2026-05-27"
+    },
+    "raw/agent/微信关系链的核心价值.md": {
+      "sha256": "d2d028c8fe5f1b4b163b2baf773fa6e2400837953ec8dbbe4eace1ed8b9bf2d4",
+      "built": true,
+      "wiki_pages": [
+        "concepts/wechat-relationship-chain-value.md"
+      ],
+      "last_ingested": "2026-05-29"
+    },
+    "raw/agent/90年代国企改革与AI浪潮.md": {
+      "sha256": "5d2eb6e899114c642b556e45dbe46fad10a611f22ca5ab083ce961b612d8984c",
+      "built": true,
+      "wiki_pages": [
+        "comparisons/ai-soe-reform-comparison.md"
+      ],
+      "last_ingested": "2026-05-27"
+    },
+    "raw/agent/Claude Code.md": {
+      "sha256": "00340e7fb493ab7efa7f69c5d993d5c4e55ff501228d61f9670f772b93016d11",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-05-27"
+    },
+    "raw/agent/AI原生战略的定位与主动权.md": {
+      "sha256": "16a3e903c9e9d5075947c1804ffeb6cf990dc109709262077899df63db6a821f",
+      "built": true,
+      "wiki_pages": [
+        "concepts/ai-strategy-positioning.md"
+      ],
+      "last_ingested": "2026-05-27"
+    },
+    "raw/agent/技术陷阱与大国技术遏制.md": {
+      "sha256": "3e909c1760324a56a20769e7c128d3fc51e5934fd2e0f6280c2cc0b86db18546",
+      "built": true,
+      "wiki_pages": [
+        "concepts/technology-containment-history.md"
+      ],
+      "last_ingested": "2026-05-27"
+    },
+    "raw/agent/高标准与能力之间的差异.md": {
+      "sha256": "6bc8b2fb8bcaf63632ca83c4f1a6e715efdb8bb259d14c567831bbaf890b9e39",
+      "built": true,
+      "wiki_pages": [
+        "concepts/leadership-short-termism.md"
+      ],
+      "last_ingested": "2026-05-27"
+    },
+    "raw/agent/AI原生银行.md": {
+      "sha256": "c38c4a05e00e128e676d05b5cf9c3b3227e23f4245e84357d756b0d6ecb2c2a7",
+      "built": true,
+      "wiki_pages": [
+        "concepts/ai-native-bank.md"
+      ],
+      "last_ingested": "2026-05-27"
+    },
+    "raw/agent/人类热衷寻找因果的哲学解释.md": {
+      "sha256": "d9ef143b795eb5a7388dbf4892e3eea1d4e4dba918355c2ebf5ee739a20072fe",
+      "built": true,
+      "wiki_pages": [
+        "concepts/causality-philosophy.md"
+      ],
+      "last_ingested": "2026-05-27"
+    },
+    "raw/agent/Agent岗位要求.md": {
+      "sha256": "6ad30aa7146423db6b093416a282284ae2d14d137c4ec2c5bc138d46bbcb3fb7",
+      "built": true,
+      "wiki_pages": [
+        "concepts/agent-developer-capability.md"
+      ],
+      "last_ingested": "2026-05-27"
+    }
+  }
+}
