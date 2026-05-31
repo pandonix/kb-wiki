@@ -459,3 +459,23 @@ Total pages: 129 → 130
 - 结论：护城河不会碎但会被「精炼」——工具层萎缩（信息分发、服务发现、弱关系中介），信任/情感层强化（信用承载、共同在场、社会性见证、弱连接option value）。唯一真威胁是AI原生社交身份层，但技术/信任/监管门槛极高。
 - Filed: queries/wechat-moat-ai-era.md
 - Index updated: 142 → 143
+
+## [2026-05-31] ingest | 2 raw files ingested into llm-wiki
+### Source 1: AI 时代分水岭 — 判断力基线
+- Raw file: raw/articles/2026-05-30-9.5万大学生和37万高中生数据-AI时代分水岭.md
+- Frontmatter updated: added ingested/sha256/source_url
+- New concept: [[ai-judgment-baseline]] — 判断力基线的三层结构框架
+- Updated: [[ai-era-scarce-capabilities]] — 加入Berkeley/Georgetown实证数据
+- Cross-links to: outsourcing-thinking-ai, ai-human-boundary, aigc-detection-education, utility-vs-skill
+
+### Source 2: 编程Agent可能是软件开发史上最昂贵的错误之一
+- Raw file: raw/articles/编程 Agent 可能是软件开发史上最昂贵的错误之一.md
+- Frontmatter updated: added ingested/sha256/source_url
+- New entity: [[george-hotz]] — George Hotz (geohot)，AI编程批判者
+- New concept: [[vibe-slop]] — Vibe Slop与Eternal Sloptember
+- Updated: [[ai-coding-agent]] — 加入Hotz/Zechner/Ronacher批判视角 + Uber/英伟达成本数据
+- Cross-links to: karpathy, openclaw-runtime, ai-code-adoption, harness-engineering
+
+### Taxonomy update
+- Added `education` tag to SCHEMA.md
+- Index: 150 → 152

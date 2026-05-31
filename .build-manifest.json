@@ -1,7 +1,7 @@
 {
   "version": 2,
   "last_build": "2026-05-26T18:45:00",
-  "total_raw": 433,
+  "total_raw": 435,
   "files": {
     "raw/马克思讲的异化.md": {
       "sha256": "8045f967752f3f87854c474e836e92508dc81a54fb5d9055614ace4f76f85f2a",
@@ -576,7 +576,11 @@
     "raw/papers/20260529T100332--paper-deepseek-v4.md": {
       "sha256": "88983d1a2602803e8b58b13d2e14a50beda90d748eb64322b32e61863de646d2",
       "built": true,
-      "wiki_pages": [],
+      "wiki_pages": [
+        "concepts/ai-software-form-evolution.md",
+        "concepts/deepseek-v4-architecture.md",
+        "concepts/agent-memory.md"
+      ],
       "last_ingested": "2026-05-30"
     },
     "raw/papers/技术陷阱-思维导图.md": {
@@ -992,9 +996,12 @@
       "last_ingested": "2026-05-22"
     },
     "raw/articles/2026-05-29-深度对话-后龙虾时代企业Agent从能用到生产级差距在哪里.md": {
-      "sha256": "4c7f59ce37058d2b6bf709e34d5cae8a0e1bfd854a005dae7d6711652bd456b6",
+      "sha256": "dc5293a36c2013eac72c822a2a5f334e12c500b501e6f5654585f15535b3d55a",
       "built": true,
-      "wiki_pages": [],
+      "wiki_pages": [
+        "concepts/enterprise-agent-practice.md",
+        "concepts/agent-data-governance.md"
+      ],
       "last_ingested": "2026-05-30"
     },
     "raw/articles/2026年，第一批“一人公司”老板已经退场.md": {
@@ -1138,6 +1145,15 @@
       "built": true,
       "wiki_pages": [],
       "last_ingested": "2026-05-22"
+    },
+    "raw/articles/2026-05-30-9.5万大学生和37万高中生数据-AI时代分水岭.md": {
+      "sha256": "4481f013d4bb98fd6c4ac773077775014c9377e5e69136a41c71b6191a23b50c",
+      "built": true,
+      "wiki_pages": [
+        "concepts/ai-era-scarce-capabilities.md",
+        "concepts/ai-judgment-baseline.md"
+      ],
+      "last_ingested": "2026-05-31"
     },
     "raw/articles/Harness engineering leveraging Codex in an agent-first world.md": {
       "sha256": "f9679cff6694294332b884dce4330f81a361437482081864f2b2c3d37e594470",
@@ -1865,9 +1881,13 @@
       "last_ingested": "2026-05-22"
     },
     "raw/articles/2026-05-29-AI为什么会失语.md": {
-      "sha256": "9d6ac8c99c7b0ef6f8c29ef8beaef0860c070bf89311718bd3f42bd2976764fb",
+      "sha256": "7cf82030d1036f47f673db985932dd00ef704be037042300b38f136b91db9db3",
       "built": true,
-      "wiki_pages": [],
+      "wiki_pages": [
+        "concepts/ai-alignment.md",
+        "concepts/ai-aphasia.md",
+        "concepts/agent-memory.md"
+      ],
       "last_ingested": "2026-05-30"
     },
     "raw/articles/无需指标也能吃大波段！全网最全沃尔夫波浪交易策略教程：画法、规则、出入场、止损止盈全都有.md": {
@@ -1901,7 +1921,7 @@
       "last_ingested": "2026-05-22"
     },
     "raw/articles/金融知识体系终极指南：1.2万字深度拆解，从零构建完整认知框架（建议收藏）.md": {
-      "sha256": "75dbcb14dffdddf7ebb12960f208591b8055b01a75a1ce3197fb57643d33088d",
+      "sha256": "9131d2457ee55b3cdd96f6a5836a50aaac3af05e7b7a8251bdc8b38cdcaffe78",
       "built": true,
       "wiki_pages": [
         "concepts/financial-knowledge-system.md"
@@ -2097,6 +2117,16 @@
       "built": true,
       "wiki_pages": [],
       "last_ingested": "2026-05-22"
+    },
+    "raw/articles/编程 Agent 可能是软件开发史上最昂贵的错误之一.md": {
+      "sha256": "306a32b0b9f26274354b62b303f2079706a30d3878a590d0df4e857e8b935ca5",
+      "built": true,
+      "wiki_pages": [
+        "entities/george-hotz.md",
+        "concepts/ai-coding-agent.md",
+        "concepts/vibe-slop.md"
+      ],
+      "last_ingested": "2026-05-31"
     },
     "raw/articles/4-解读《资治通鉴》 汉元成哀平帝篇.pdf.md": {
       "sha256": "b18d42248cdb48a4ad403f6673beb366d6d4b050787970eec6716784c90e977b",

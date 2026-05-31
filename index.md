@@ -1,6 +1,6 @@
 # Wiki Index
 
-> Content catalog. Last updated: 2026-05-30
+> Content catalog. Last updated: 2026-05-31
 
 ## Entities
 - [[andrew-ng]] — 吴恩达 (Andrew Ng)
@@ -13,6 +13,7 @@
 - [[duan-yongping]] — 段永平
 - [[entp]] — ENTP
 - [[fiona-fung]] — Fiona Fung
+- [[george-hotz]] — George Hotz (geohot)
 - [[howard-marks]] — Howard Marks
 - [[hymin-minsky]] — Hyman Minsky
 - [[intj]] — INTJ
@@ -37,7 +38,7 @@
 - [[ai-architecture-governance]] — AI 时代架构治理
 - [[ai-code-adoption]] — AI 代码采纳率
 - [[ai-code-review]] — AI Code Review 实践
-- [[ai-coding-agent]] — ai-coding-agent
+- [[ai-coding-agent]] — AI Coding / Agent 工程
 - [[ai-coding-three-stages]] — AI 编程三阶段构想
 - [[ai-cognitive-debt]] — AI 认知债务
 - [[ai-commoditization-boundary]] — AI 替代边界：商品化梯度与人的价值迁移
@@ -46,6 +47,7 @@
 - [[ai-era-scarce-capabilities]] — AI 时代的稀缺能力：哪些变贵了，哪些贬值了
 - [[ai-human-boundary]] — AI 与人的边界：效率解放还是系统加速
 - [[ai-infra-capex]] — AI 基础设施资本开支
+- [[ai-judgment-baseline]] — AI 时代的判断力基线
 - [[ai-native-bank]] — AI 原生银行
 - [[ai-native-engineering-management]] — AI 时代工程团队管理
 - [[ai-native-organization]] — AI Native 组织模式
@@ -146,6 +148,7 @@
 - [[token-economics]] — Token 经济
 - [[utility-vs-skill]] — Utility与Skill：为什么判断力写不进规则
 - [[vibe-reading]] — Vibe Reading
+- [[vibe-slop]] — Vibe Slop：AI 编程垃圾与 Eternal Sloptember
 - [[wechat-relationship-chain-value]] — 微信关系链的四层价值模型
 - [[writing-techniques]] — 公众号写作技巧
 
@@ -155,8 +158,8 @@
 - [[nev-vs-real-estate-macro]] — 新能源车与房地产的宏观角色对比
 
 ## Queries
+- [[ai-writing-literary-mistake]] — AI 写作是否是文学史上最大的错误 — Wiki 交叉分析
 - [[three-career-scripts-analysis]] — 三种职业限制脚本的Wiki交叉分析
-- [[ai-writing-literary-mistake]] — AI写作是否是文学史上最大的错误
-- [[wechat-moat-ai-era]] — 微信护城河在AI时代是否会被打破
+- [[wechat-moat-ai-era]] — 微信护城河在 AI 时代是否会被打破 — Wiki 交叉分析
 
-> Total pages: 150
+> Total pages: 152

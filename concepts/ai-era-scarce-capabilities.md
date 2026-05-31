@@ -1,10 +1,10 @@
 ---
 title: AI 时代的稀缺能力：哪些变贵了，哪些贬值了
 created: 2026-05-26
-updated: 2026-05-29
+updated: 2026-05-31
 type: concept
 tags: [philosophy, ml, invest, thought, agent, coding, management]
-sources: [raw/articles/担心被Skill替代的打工人发现：「根本不是那么回事」.md, raw/articles/严肃聊聊，Skill到底能蒸馏我们的几分之几？｜Hao好聊趋势.md, raw/articles/经济学的前提假设.md, raw/articles/人的欲望与稀缺迁移.md, raw/articles/AI时代的乐观主义.md, raw/articles/AI Alignment与写作.md, raw/articles/起大早，赶晚集.md, raw/articles/Token计算：下一个十年的成本战争.md, raw/articles/是马还是煤，决定5年后你的工作是否还存在.md, raw/articles/人类的意义.md, raw/articles/2026年，第一批"一人公司"老板已经退场.md, raw/articles/人应成为AI发展的尺度.md, raw/articles/2026-05-28-AI破晓-生成式AI时代文化产业的重塑跃迁与守望.md]
+sources: [raw/articles/担心被Skill替代的打工人发现：「根本不是那么回事」.md, raw/articles/严肃聊聊，Skill到底能蒸馏我们的几分之几？｜Hao好聊趋势.md, raw/articles/经济学的前提假设.md, raw/articles/人的欲望与稀缺迁移.md, raw/articles/AI时代的乐观主义.md, raw/articles/AI Alignment与写作.md, raw/articles/起大早，赶晚集.md, raw/articles/Token计算：下一个十年的成本战争.md, raw/articles/是马还是煤，决定5年后你的工作是否还存在.md, raw/articles/人类的意义.md, raw/articles/2026年，第一批一人公司老板已经退场.md, raw/articles/人应成为AI发展的尺度.md, raw/articles/2026-05-28-AI破晓-生成式AI时代文化产业的重塑跃迁与守望.md, raw/articles/2026-05-30-9.5万大学生和37万高中生数据-AI时代分水岭.md]
 confidence: high
 ---
 
@@ -43,6 +43,9 @@ confidence: high
 **你不需要比 AI 更会做，但需要比 AI 更会判断。** 这恰恰是 [[skill-distillation-depth]] 中 L2 层的内容——冲突裁决、维度爆炸的架构决策、医生推翻 CDSS 系统的直觉——这些「写不得」的判断，是 AI 时代的硬通货。
 
 **信号**：[[measurability-gap-agi]] 明确指出，未来的护城河从「拥有数据」转向「拥有验证真相的能力」。
+
+**实证**：Berkeley 研究（95,513 名美国大学生，发表于《Science》）和 Georgetown 研究（37万+ 份高中生文书）共同揭示：频繁使用 AI 的学生虽然产出语言质量上升，但思想多样性下降、作弊率上升（每天用 AI 的学生 26% 承认作弊 vs 每月用的仅 7%）。**判断力基线未建立前使用 AI，反而加速能力空心化**——产出漂亮但内核空洞，且使用者不自知。^[raw/articles/2026-05-30-9.5万大学生和37万高中生数据-AI时代分水岭.md]
+这与[[ai-judgment-baseline]] 的三层结构框架一致。
 
 ### 2. 定义问题的能力：不是解题，是选题
 
@@ -156,6 +159,7 @@ Kevin Kelly 的区分：^[AI时代的乐观主义.md]
 - [[ai-commoditization-boundary]] — 姊妹篇：AI 替代的商品化梯度
 - [[skill-distillation-depth]] — L1/L1.5/L2 精度阶梯：为什么核心判断不可蒸馏
 - [[measurability-gap-agi]] — 验证能力成为新护城河
+- [[ai-judgment-baseline]] — 判断力基线的三层结构框架
 - [[desire-scarcity-migration]] — 稀缺迁移的底层机制
 - [[economics-scarcity-assumption]] — 稀缺性不会消失，只会退守
 - [[harness-engineering]] — 人设环境、定意图、建反馈

@@ -1,10 +1,10 @@
      1|---
-     2|title: AI Coding / Agent 工程
-     3|created: 2026-04-24
-updated: 2026-05-22
+title: AI Coding / Agent 工程
+created: 2026-04-24
+updated: 2026-05-31
 type: concept
 tags: [ml, coding, infra]
-sources: [raw/articles/AI编程的现状与未来.md, raw/articles/Codex的多Agent并行开发指南.md, raw/articles/OpenGame Open Agentic Coding for Games.md, raw/articles/How To Be A World-Class Agentic Engineer.md, raw/articles/消耗了上百亿 Token后， 对于 Agent 时代软件构建、软件形态及未来发展的思考.md, raw/articles/Karpathy 最新访谈：Vibe Coding 只是开始，真正重要的是 Agentic Engineering.md, raw/papers/SWE-chat Coding Agent Interactions From Real Users in the Wild.md, raw/articles/Agent Skills 终极指南：入门、精通、预测.md, raw/articles/OpenClaw和Claude Code只是第一阶段，Github 这两个项目正指向终局——AI 编程三阶段构想（万字长文慎入）.md, raw/articles/有效的 Context 工程（精读、万字梳理）.md]
+sources: [raw/articles/AI编程的现状与未来.md, raw/articles/Codex的多Agent并行开发指南.md, raw/articles/OpenGame Open Agentic Coding for Games.md, raw/articles/How To Be A World-Class Agentic Engineer.md, raw/articles/消耗了上百亿 Token后， 对于 Agent 时代软件构建、软件形态及未来发展的思考.md, raw/articles/Karpathy 最新访谈：Vibe Coding 只是开始，真正重要的是 Agentic Engineering.md, raw/papers/SWE-chat Coding Agent Interactions From Real Users in the Wild.md, raw/articles/Agent Skills 终极指南：入门、精通、预测.md, raw/articles/OpenClaw和Claude Code只是第一阶段，Github 这两个项目正指向终局——AI 编程三阶段构想（万字长文慎入）.md, raw/articles/有效的 Context 工程（精读、万字梳理）.md, raw/articles/编程 Agent 可能是软件开发史上最昂贵的错误之一.md]
      8|confidence: high
      9|---
     10|
@@ -219,3 +219,30 @@ sources: [raw/articles/AI编程的现状与未来.md, raw/articles/Codex的多Ag
 - [[agent-skills]] — Agent Skill 架构与编程范式
 - [[agent-developer-capability]] — Agent开发者的三维能力立方体
 - [[karpathy]] — Karpathy 的 Agentic Engineering 实践
+- [[george-hotz]] — George Hotz 的编程Agent批判立场
+- [[vibe-slop]] — Vibe Slop：AI编程垃圾与Eternal Sloptember
+
+## 批判视角：AI Coding Agent 的警示信号
+
+2026 年 5 月，以 [[george-hotz]]（geohot）、Mario Zechner（Pi/OpenClaw 创建者）和 Armin Ronacher 为代表的资深工程师密集发出警告，认为 AI Coding Agent 的大规模采用可能带来严重负面后果。^[raw/articles/编程 Agent 可能是软件开发史上最昂贵的错误之一.md]
+
+### Hotz 的核心论点
+
+- **Agent 不会编程**：Agent 是统计模型模仿编程分布，生成的东西「坏得越来越隐蔽」
+- **老虎机模式**：Agent 把所有进展提前堆在前面，然后递给你一个老虎机拉杆——总是差那一点
+- **组织不对称**：大组织比小团队更脆弱——反馈循环慢、对齐程度低，缺乏自我检查能力的开发者成为最大使用者，产出「10x 垃圾」
+
+### Zechner & Ronacher 的 Vibe Slop 警告
+
+- **「基础设施正在崩溃，软件比以前漏洞百出」**
+- 短期生产率在换取长期麻烦：初级人才管道干涸、bug 增多、安全漏洞、技术债累积
+- AI Agent 擅长生成新代码，不擅长评估和升级既有遗留系统
+- 对 Claude Code 评价：**「是我这辈子用过的最破碎的软件之一」**
+
+### 经济维度的佐证
+
+- **Uber**：CTO 称 2026 年 Claude Code 预算提前花光；COO 指出 token 消耗与有用功能产出「没有因果关系」
+- **英伟达**（Bryan Catanzaro）：AI 计算成本目前远超员工成本
+- **Duolingo**：将 AI 使用纳入绩效考核引发员工质疑，后撤回
+
+详见 [[vibe-slop]]。
