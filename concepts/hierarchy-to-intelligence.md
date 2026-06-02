@@ -76,3 +76,5 @@ Block（原 Square）提出终极破局答案：用 AI 彻底重构组织，从�
 - [[business-generalist]] — 通用型创业者：个体层面的转变
 - [[jevons-paradox-work]] — 杰文斯悖论与工作替代
 - [[personal-ai-framework]] — 个人 AI 认知框架中的 L2.5 组织适应层
+- [[ai-outcome-pod]] — AI Outcome Pod：面向结果的人机混合单元
+- [[soul-team]] — Soul Team：AI 原生组织的叙事一致性团队

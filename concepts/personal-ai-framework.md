@@ -67,3 +67,5 @@ L3   制度层      权力/治理/地缘（5-20年级）  ← 制度史参照
 - [[one-person-company]] — 一人公司
 - [[stoicism]] — 斯多葛作为 L-1 心性基础
 - [[ai-economy-impact]] — AI 经济影响的 L2 层面
+- [[ai-outcome-pod]] — AI Outcome Pod：L2.5 的组织形态体现
+- [[soul-team]] — Soul Team：L2.5 的新型角色设计

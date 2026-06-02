@@ -476,6 +476,28 @@ Total pages: 129 → 130
 - Updated: [[ai-coding-agent]] — 加入Hotz/Zechner/Ronacher批判视角 + Uber/英伟达成本数据
 - Cross-links to: karpathy, openclaw-runtime, ai-code-adoption, harness-engineering
 
-### Taxonomy update
-- Added `education` tag to SCHEMA.md
-- Index: 150 → 152
+## [2026-06-02] ingest | 2 AI-native 组织形态 raw sources
+
+### Sources ingested
+- raw/articles/2026-06-01-AI-native下组织形式思考.md — AI Outcome Pod / Meta Pods / Microsoft Frontier Firm / McKinsey Agentic Organization
+- raw/articles/2026-06-01-一个理想的组织是AI Agent在组织人.md — ColaOS创始人橘子深度访谈
+
+### Raw file frontmatter updated
+- Both files: added ingested (2026-06-02), sha256, source_url
+
+### New wiki pages (3)
+- concepts/ai-outcome-pod.md — AI Outcome Pod：人机混合结果单元
+- concepts/soul-team.md — Soul Team：AI 原生组织的叙事一致性团队
+- entities/juzi-orange.md — 橘子（冯雷）：ColaOS / ListenHub 创始人
+
+### Existing pages updated (7)
+- concepts/ai-native-organization.md — 新增AI Outcome Pod定义、四类组织原型、行业样本(Meta/Microsoft/McKinsey/Shopify/Duolingo)、ColaOS实战、判断与责任系统框架
+- concepts/one-person-company.md — 新增ListenHub一人公司转型案例（一人+Agents维护20repo，产出提升10倍）
+- concepts/ai-organization-adoption.md — 新增ColaOS采纳周期（不用→过猛→ROI约束）
+- concepts/agent-owner-role.md — 新增「Agent组织人」反向命题（橘子视角 vs Dan Shipper视角互补）
+- concepts/jevons-paradox-work.md — 新增「AI速度必须穿过组织变成成果速度」视角
+- concepts/hierarchy-to-intelligence.md — 新增交叉链接到ai-outcome-pod和soul-team
+- concepts/personal-ai-framework.md — 新增交叉链接到ai-outcome-pod和soul-team
+
+### Index updated
+- Added 3 new pages, updated total to 155

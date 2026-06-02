@@ -1,10 +1,10 @@
 ---
 title: 杰文斯悖论与工作替代
 created: 2026-05-08
-updated: 2026-05-29
+updated: 2026-06-02
 type: concept
 tags: [philosophy, invest, ml]
-sources: [raw/articles/是马还是煤，决定5年后你的工作是否还存在.md, raw/articles/2026-05-28-AI越强人越忙一个住在未来的人说了什么.md]
+sources: [raw/articles/是马还是煤，决定5年后你的工作是否还存在.md, raw/articles/2026-05-28-AI越强人越忙一个住在未来的人说了什么.md, raw/articles/2026-06-01-一个理想的组织是AI Agent在组织人.md]
 confidence: high
 ---
 
@@ -66,6 +66,17 @@ AI 第一轮冲击不是让你失去工作，而是**先让你的工作贬值**�
 
 Andrew Yang 的建议：**防止老板把你的工作自动化掉，最好的办法是自己变成老板。**
 
+## AI 速度必须穿过组织才能变成成果速度
+
+ColaOS 创始人橘子提供了一个杰文斯悖论在组织层面的新视角：**AI 写代码很快只是第一层，真正重要的是组织能不能把这种快穿透到上线、反馈、撤回、修正和再次上线。** 如果中间每一步都要人的讨论、评估和验收，AI 的速度会被流程吸收掉。^[2026-06-01-一个理想的组织是AI Agent在组织人.md]
+
+关键判断：
+- **快的关键**：不是 AI 写代码的速度，而是组织能把 AI 的速度变成成果速度
+- **Soul Team** 的角色就是解决方向一致性，让每个人不需要等对齐就能直接发
+- **一天一版**：错了只持续不到一天，大大降低了「快」的风险
+
+这与 Dan Shipper 的观察（Every 全员 AI 但员工翻倍）形成呼应——AI 越强，组织越需要设计新的协调机制来承接 AI 的生产速度。^[2026-06-01-一个理想的组织是AI Agent在组织人.md]
+
 ## 相关概念
 
 - [[ai-economy-impact]] — AI 对宏观经济的系统性影响
@@ -73,3 +84,5 @@ Andrew Yang 的建议：**防止老板把你的工作自动化掉，最好的办
 - [[second-order-thinking]] — 二阶思维与替代分析
 - [[hierarchy-to-intelligence]] — 组织变革与价值链位置
 - [[ai-human-boundary]] — AI 与人的边界：效率提升反而加深系统嵌入
+- [[soul-team]] — Soul Team：AI 原生组织的叙事一致性团队
+- [[ai-outcome-pod]] — AI Outcome Pod：人机混合结果单元

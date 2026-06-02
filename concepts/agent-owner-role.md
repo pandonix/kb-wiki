@@ -1,10 +1,10 @@
 ---
 title: 每个 Agent 都需要一个人：Agent Owner 角色
 created: 2026-05-29
-updated: 2026-05-29
+updated: 2026-06-02
 type: concept
 tags: [agent, management, coding]
-sources: [raw/articles/2026-05-28-AI越强人越忙一个住在未来的人说了什么.md]
+sources: [raw/articles/2026-05-28-AI越强人越忙一个住在未来的人说了什么.md, raw/articles/2026-06-01-一个理想的组织是AI Agent在组织人.md]
 confidence: high
 ---
 
@@ -42,6 +42,22 @@ Every 内部已经设立了专门维护 Agent 的岗位，Dan 称之为「前沿
 
 这与 [[harness-engineering]] 的框架高度一致——Harness 作为 Agent 的操作系统层，需要有人设计、维护和持续优化。
 
+## 反向命题：Agent 组织人
+
+ColaOS 创始人橘子提出了 Agent Owner 的反向视角：理想组织里，**Agent 在组织人**。^[2026-06-01-一个理想的组织是AI Agent在组织人.md]
+
+核心机制：
+- Agent 会在每个人电脑上弹出消息，告诉你哪里需要输入、哪里需要做一件事
+- Agent 在日常动作层面协调人，但不承担 CEO 角色（方向决策仍由人负责）
+- 真正的方向和决策还是要人来承担，Agent 更像「日常动作层面提醒我们、协调我们」
+
+这与 Dan Shipper 的「Every Agent needs a person」形成互补关系：
+- **Dan 视角**：每个人都需要维护背后的 Agent（人→Agent）
+- **橘子视角**：Agent 反过来组织和协调人的工作流（Agent→人）
+- **综合**：人机关系是双向的——Agent 需要人维护，人也需要 Agent 协调
+
+这个命题在日常实践中表现为 ColaOS 的牵挂系统（Agent 主动提醒用户遗忘的事项）和心迹系统（Agent 自动记录对用户认知的更新）。^[2026-06-01-一个理想的组织是AI Agent在组织人.md]
+
 ## 相关概念
 
 - [[forward-deployed-engineer-ai]] — 前沿部署工程师的具体职责与定位
@@ -49,3 +65,4 @@ Every 内部已经设立了专门维护 Agent 的岗位，Dan 称之为「前沿
 - [[ai-native-organization]] — AI Native 组织的 Agent 主人角色设计
 - [[agentic-ai]] — Agent 系统的设计与运维
 - [[jevons-paradox-work]] — AI 创造新工作而非消灭工作的悖论
+- [[soul-team]] — Soul Team：AI 原生组织的叙事一致性团队

@@ -1,10 +1,10 @@
 ---
 title: AI 组织采纳困境
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-06-02
 type: concept
 tags: [ml, management, thought]
-sources: [raw/articles/AI 时代的魔幻现实：老板向左，员工向右，一个用了求生，一个用了找死.md]
+sources: [raw/articles/AI 时代的魔幻现实：老板向左，员工向右，一个用了求生，一个用了找死.md, raw/articles/2026-06-01-一个理想的组织是AI Agent在组织人.md]
 confidence: medium
 ---
 
@@ -62,6 +62,16 @@ AI 时代最真实的反差：**老板都急疯了，员工按兵不动。老板
 
 很多人对 AI 的认知停留在豆包、DeepSeek 的对话框层面。不知道 Claude Code、没听过 MCP、不知道 Skills 是什么。公司给了 token 额度但不知道用什么模型。前沿每周刷新，但公司里的人像是隔着一堵墙。
 
+## 从抗拒到过猛：AI 采纳的自然周期
+
+ColaOS 创始人橘子描述了一个典型的 AI 采纳时间线：^[2026-06-01-一个理想的组织是AI Agent在组织人.md]
+
+1. **2025年12月**：给团队配了各种 AI 工具，额度都打满，**大家不用**
+2. **2026年1月后**：coding agent 质变，模型能力突破临界点，团队信心改变，**开始大量使用**
+3. **2026年4-5月**：问题从「没人用」变成「**账单太高**——要不要收敛」
+
+这个演化揭示了 AI 组织采纳的自然周期：**技术瓶颈 → 人心抗拒 → 工具质变 → 过猛使用 → ROI 约束**。橘子的结论是：最后还是要提升每个人的判断力，并给 AI 使用加上 ROI 约束。^[2026-06-01-一个理想的组织是AI Agent在组织人.md]
+
 ## 相关概念
 
 - [[ai-coding-agent]] — AI Agent 的技术基础（老板想推的东西）
@@ -72,3 +82,5 @@ AI 时代最真实的反差：**老板都急疯了，员工按兵不动。老板
 - [[jevons-paradox-work]] — AI 提升效率反而增加工作量的悖论
 - [[bank-abcd-tech-strategy]] — ABCD 科技战略中的 CIO 代理人问题与组织约束
 - [[ai-strategy-positioning]] — AI 战略定位与政治博弈
+- [[soul-team]] — Soul Team：AI 原生组织的叙事一致性团队
+- [[ai-outcome-pod]] — AI Outcome Pod：人机混合结果单元

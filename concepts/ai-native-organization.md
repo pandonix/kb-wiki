@@ -1,10 +1,10 @@
 ---
 title: AI Native 组织模式
 created: 2026-05-22
-updated: 2026-05-29
+updated: 2026-06-02
 type: concept
 tags: [management, agent, company]
-sources: [raw/articles/组织能力才是 AI 公司真正的壁垒｜42章经.md, raw/articles/2026-05-28-AI越强人越忙一个住在未来的人说了什么.md]
+sources: [raw/articles/组织能力才是 AI 公司真正的壁垒｜42章经.md, raw/articles/2026-05-28-AI越强人越忙一个住在未来的人说了什么.md, raw/articles/2026-06-01-AI-native下组织形式思考.md, raw/articles/2026-06-01-一个理想的组织是AI Agent在组织人.md]
 confidence: medium
 ---
 
@@ -72,6 +72,71 @@ confidence: medium
 - [[business-generalist]] — 通用型创业者
 - [[ai-native-bank]] — AI 原生银行：金融业的 AI Native 组织形态
 - [[ai-strategy-positioning]] — AI 战略定位与组织形态选择
+- [[ai-outcome-pod]] — AI Outcome Pod：人机混合结果单元
+- [[soul-team]] — Soul Team：AI 原生组织的叙事一致性团队
+
+## AI Outcome Pod：AI-native 的基本组织单元
+
+Source 1 提出了 AI Outcome Pod 作为 AI-native 组织的核心建模概念。未来组织的基本单位不再是部门或岗位，而是由**人、AI Agent、数据、工具流和治理规则组成的结果单元**（Outcome Pod）。^[2026-06-01-AI-native下组织形式思考.md]
+
+### 与传统组织的对比
+
+以「上线一个新支付方式」为例，组织形态演化路径：
+1. **层级制**：产品写需求→研发排期→测试验证→法务审核→运营培训→客服准备话术。每步很稳，周期长
+2. **项目制/矩阵制**：从各部门借人组成临时项目组，效率提高但双重汇报
+3. **敏捷 Pod**：固定小队长期负责，产品、研发、测试、数据同队快速迭代
+4. **AI Outcome Pod**：小队不仅有人，还配置需求拆解 agent、代码生成 agent、测试用例 agent、风控规则检查 agent、客服知识库 agent。人的重点从「亲自做每个环节」转向**定义目标、审核关键判断、处理异常**
+
+关键洞察：技术每降低一次协调成本，组织就有机会向更小、更快、更结果导向的单元迁移。^[2026-06-01-AI-native下组织形式思考.md]
+
+### 行业样本
+
+| 公司 | 实践 | 核心变化 |
+|------|------|----------|
+| Meta | AI-native Pods（Reality Labs 1000人团队试点） | 三个角色：AI Builder / AI Pod Lead / AI Org Lead；岗位边界弱化，结果导向强化 |
+| Microsoft | Frontier Firm / Work Chart | 三阶段：Human with assistant → Human-agent teams → Human-led, agent-operated；传统 org chart 变为围绕目标临时组织的 dynamic Work Chart |
+| McKinsey | Agentic Organization | 从职能孤岛转向跨职能 autonomous agentic teams；从单点 AI 工具转向端到端 agentic workflow；CEO 和业务负责人共同重构运营模式 |
+| Shopify | AI-first 进入管理制度 | AI 使用是基础期待；申请新增人力前要证明 AI 不能完成；AI 使用进入绩效与同事评价 |
+| Duolingo | AI-first 招聘与绩效 | 对 AI 可处理的工作减少承包商依赖；新增 headcount 要证明团队不能进一步自动化 |
+
+Source 1 强调：AI 价值不是来自「买一个工具」，而是来自 **rewiring workflows**——重写组织运行方式。流程没变、决策权没变、数据权限没变、KPI 没变、人机责任边界没变时，AI 只能成为「更快写文档的工具」。^[2026-06-01-AI-native下组织形式思考.md]
+
+### 四类未来组织原型
+
+AI-native 组织不会只有一种形态，更可能出现四种并存：^[2026-06-01-AI-native下组织形式思考.md]
+
+1. **超小型超级公司**：少数高判断力的人 + 大量 agent/自动化工具/外部服务，完成过去几十上百人的产出。出现在软件、内容、咨询、教育、投研、设计、营销等数字化领域
+2. **平台化大组织**：大企业变成能力平台，财务、法务、数据、研发、营销变成可调用服务。业务团队像调用 API 一样调用内部能力
+3. **流动项目网络**：围绕产品/市场机会/研究问题，临时聚合人类专家、AI agent、资金、渠道和供应链，完成后快速解散
+4. **高信任专业组织**：高端咨询、医疗、教育、艺术、品牌等领域，AI 作后台放大器，人出可信判断
+
+底层共同点：组织的价值不再来自拥有劳动力，而来自**如何配置智能、建立信任、沉淀上下文和承担责任**。^[2026-06-01-AI-native下组织形式思考.md]
+
+## ColaOS：AI-native 组织的实战样本
+
+Source 2 中 ColaOS/ListenHub 创始人橘子的实践提供了约 20 人团队的一线经验：^[2026-06-01-一个理想的组织是AI Agent在组织人.md]
+
+### 组织架构：Builder + Explorer + Soul Team
+
+- **管理层**：橘子（CEO）、CTO、COO 定方向
+- **Builder**：Infra Team、Agent Loop Team、App Team
+- **Explorer**：运营增长
+- **Soul Team**：负责产品灵魂、叙事、方向一致性——不走传统品牌职能，而是像游戏制作人，把「一句话方向感」转化成每个产品细节的真实质感
+
+### 关键实践
+
+- **一天一版**：每人做完就放进当天包，自动打包、自动写 changelog。错了只持续不到一天
+- **减少对齐**：每个人都应有把功能发布上线的权利，有问题再返工。中间每加一个讨论/评估/验收卡点都会慢很多
+- **Soul Team 解决方向问题**：AI 开发速度极快，但方向不一致会乱。Soul Team 提供一致的宏大终点，让每个人在其中自由发挥
+- **快的关键**：组织能把 AI 的速度变成成果速度，穿透到上线、反馈、撤回、修正和再次上线
+
+详见 [[soul-team]] 和 [[ai-outcome-pod]]。
+
+## 从劳动分工到判断与责任系统
+
+综合 Source 1 和 Source 2，AI-native 组织的本质变化是：组织的中心从**劳动分工**推向**判断分工**，从**管理人力**推向**治理智能**，从**拥有员工**推向**编排责任网络**。^[2026-06-01-AI-native下组织形式思考.md]
+
+> 真正的 AI-native 组织，最终不是「AI 很多」的组织，而是「智能被制度化、责任被清晰化、学习被自动化、判断被珍视」的组织。
 
 ## Every 实践：Forward Deployed Engineer
 

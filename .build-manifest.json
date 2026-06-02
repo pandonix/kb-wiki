@@ -1,7 +1,7 @@
 {
   "version": 2,
   "last_build": "2026-05-26T18:45:00",
-  "total_raw": 435,
+  "total_raw": 437,
   "files": {
     "raw/马克思讲的异化.md": {
       "sha256": "8045f967752f3f87854c474e836e92508dc81a54fb5d9055614ace4f76f85f2a",
@@ -1275,6 +1275,15 @@
       "built": true,
       "wiki_pages": [],
       "last_ingested": "2026-05-22"
+    },
+    "raw/articles/2026-06-01-AI-native下组织形式思考.md": {
+      "sha256": "758ffd6e9cdaa562c78f84670420f8f7c254a803c463367365cc2f92ad81091f",
+      "built": true,
+      "wiki_pages": [
+        "concepts/ai-native-organization.md",
+        "concepts/ai-outcome-pod.md"
+      ],
+      "last_ingested": ""
     },
     "raw/articles/钟林楠：宏观金融如何从入门到熟悉.md": {
       "sha256": "72221fdaf4dd711a2d5c262f6c07070b0f305004adbc502bb8ef2e15843d9318",
@@ -2681,6 +2690,21 @@
       "built": true,
       "wiki_pages": [],
       "last_ingested": "2026-05-22"
+    },
+    "raw/articles/2026-06-01-一个理想的组织是AI Agent在组织人.md": {
+      "sha256": "1d2200ca7c641b3e04290e7e6d26575b490a62a8ad68fe37eb6a76cbc91ebda5",
+      "built": true,
+      "wiki_pages": [
+        "entities/juzi-orange.md",
+        "concepts/soul-team.md",
+        "concepts/ai-native-organization.md",
+        "concepts/jevons-paradox-work.md",
+        "concepts/one-person-company.md",
+        "concepts/ai-organization-adoption.md",
+        "concepts/ai-outcome-pod.md",
+        "concepts/agent-owner-role.md"
+      ],
+      "last_ingested": ""
     },
     "raw/articles/真实、残酷的AI就业冲击，从一篇精彩的哈佛论文聊起.md": {
       "sha256": "20ba220fa5bfa63d30c1756f3a8f6d848166a393205a6e5cc275e7836b3e64e2",

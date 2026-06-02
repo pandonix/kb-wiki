@@ -1,10 +1,10 @@
 ---
 title: 一人公司：AI 时代单人创业的幻觉与真相
 created: 2026-05-26
-updated: 2026-05-29
+updated: 2026-06-02
 type: concept
 tags: [thought, management, agent]
-sources: [raw/articles/2026年，第一批"一人公司"老板已经退场.md, raw/articles/2026-05-28-AI破晓-生成式AI时代文化产业的重塑跃迁与守望.md]
+sources: [raw/articles/2026年，第一批"一人公司"老板已经退场.md, raw/articles/2026-05-28-AI破晓-生成式AI时代文化产业的重塑跃迁与守望.md, raw/articles/2026-06-01-一个理想的组织是AI Agent在组织人.md]
 confidence: medium
 ---
 
@@ -69,6 +69,17 @@ AI 是概率模型，会顺着用户的话说，像个"只会点头的跟班"。
 
 超创者是一人公司在创作端的最小试验形态，但产业化生产（头部 IP 获取、版权谈判、商业化渠道、合规审核）仍需要组织化能力。详见 [[super-creator]]。^[2026-05-28-AI破晓-生成式AI时代文化产业的重塑跃迁与守望.md]
 
+## ListenHub 的 one-person company 转型
+
+Source 2 中 ColaOS/ListenHub 创始人橘子提供了一个真实案例：2026 年 1 月，团队决定全面转向 ColaOS，将已有收入的 ListenHub 交给一位开发者（Fango）以一人公司模式维护。^[2026-06-01-一个理想的组织是AI Agent在组织人.md]
+
+关键数据：
+- **一人 + 一堆 Agents 维护 20 个 repo**，覆盖产品、设计、前端、后端、测试、运营
+- **实际产出提升 10 倍以上**，DAU 和营收不降反升
+- 核心机制：一个人 owner 模式 + AI Agents 补执行，不再需要完整的组织配置
+
+这个案例揭示了一个新规律：**AI 对旧产品的改变，是把「要不要继续做」的问题，推进到「还需不需要原来那种组织配置」的问题。** OPC（一人公司）模式不限于新创业，也可以用于存量产品的维护和增长。^[2026-06-01-一个理想的组织是AI Agent在组织人.md]
+
 ## 相关概念
 
 - [[ai-economy-impact]] — AI 经济影响中的劳动力转型
@@ -77,3 +88,4 @@ AI 是概率模型，会顺着用户的话说，像个"只会点头的跟班"。
 - [[dan-koe]] — Dan Koe 的一人公司实践（正面案例）
 - [[business-generalist]] — 通用型创业者
 - [[ai-economy-subsidy-crisis]] — AI 经济补贴危机
+- [[juzi-orange]] — 橘子（冯雷）：ColaOS / ListenHub 创始人

@@ -1,6 +1,6 @@
 # Wiki Index
 
-> Content catalog. Last updated: 2026-05-31
+> Content catalog. Last updated: 2026-06-02
 
 ## Entities
 - [[andrew-ng]] — 吴恩达 (Andrew Ng)
@@ -17,6 +17,7 @@
 - [[howard-marks]] — Howard Marks
 - [[hymin-minsky]] — Hyman Minsky
 - [[intj]] — INTJ
+- [[juzi-orange]] — 橘子（冯雷）：ColaOS / ListenHub 创始人
 - [[karpathy]] — Andrej Karpathy
 - [[marcos-lopez-de-prado]] — Marcos López de Prado
 - [[minimax]] — MiniMax
@@ -52,6 +53,7 @@
 - [[ai-native-engineering-management]] — AI 时代工程团队管理
 - [[ai-native-organization]] — AI Native 组织模式
 - [[ai-organization-adoption]] — AI 组织采纳困境
+- [[ai-outcome-pod]] — AI Outcome Pod：人机混合结果单元
 - [[ai-second-half]] — AI 下半场与单位智能经济
 - [[ai-software-form-evolution]] — AI 软件形态演进
 - [[ai-strategy-positioning]] — AI 战略定位与政治博弈
@@ -137,6 +139,7 @@
 - [[skill-distillation-depth]] — Skill 蒸馏深度分析
 - [[social-intelligence-baseline]] — 社会整体智力水位
 - [[software-disposable]] — 软件日抛化
+- [[soul-team]] — Soul Team：AI 原生组织的叙事一致性团队
 - [[stoicism]] — 斯多葛学派
 - [[super-creator]] — 超创者（Super Creator）
 - [[taleb-taoism]] — 塔勒布与道家思想
@@ -162,4 +165,4 @@
 - [[three-career-scripts-analysis]] — 三种职业限制脚本的Wiki交叉分析
 - [[wechat-moat-ai-era]] — 微信护城河在 AI 时代是否会被打破 — Wiki 交叉分析
 
-> Total pages: 152
+> Total pages: 155
