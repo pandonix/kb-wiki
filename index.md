@@ -1,6 +1,6 @@
 # Wiki Index
 
-> Content catalog. Last updated: 2026-06-02
+|> Content catalog. Last updated: 2026-06-03
 
 ## Entities
 - [[andrew-ng]] — 吴恩达 (Andrew Ng)
@@ -24,6 +24,8 @@
 - [[stanford-ai-index-2026]] — Stanford HAI AI Index Report 2026
 - [[veighna]] — VeighNa (vn.py)
 - [[wu-si]] — 吴思
+- [[arvind-krishna]] — Arvind Krishna (IBM CEO)
+- [[elon-musk]] — Elon Musk
 
 ## Concepts
 - [[agent-data-governance]] — 企业Agent数据治理
@@ -37,6 +39,7 @@
 - [[ai-alignment]] — AI Alignment
 - [[ai-aphasia]] — AI 失语与错误谱系
 - [[ai-architecture-governance]] — AI 时代架构治理
+- [[ai-bubble-debate]] — AI 泡沫辩论
 - [[ai-code-adoption]] — AI 代码采纳率
 - [[ai-code-review]] — AI Code Review 实践
 - [[ai-coding-agent]] — AI Coding / Agent 工程
@@ -116,6 +119,7 @@
 - [[measurability-gap-agi]] — 可测量性鸿沟与 AGI 经济
 - [[minsky-financial-instability]] — 金融不稳定假说
 - [[multi-agent-collaboration]] — 多 Agent 协作模式
+- [[musk-algorithm]] — 马斯克五步工作法（The Algorithm）
 - [[mythical-man-month]] — 人月神话
 - [[one-person-company]] — 一人公司：AI 时代单人创业的幻觉与真相
 - [[openclaw-runtime]] — OpenClaw Agent Runtime
@@ -165,4 +169,4 @@
 - [[three-career-scripts-analysis]] — 三种职业限制脚本的Wiki交叉分析
 - [[wechat-moat-ai-era]] — 微信护城河在 AI 时代是否会被打破 — Wiki 交叉分析
 
-> Total pages: 155
+> Total pages: 159

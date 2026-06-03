@@ -65,3 +65,5 @@ AI 不再只在云上，还进入汽车/机器人/边缘设备。模型训练可
 - [[ai-economy-impact]] — AI 经济影响与 capex 传导
 - [[ai-architecture-governance]] — AI 架构治理与基础设施
 - [[duan-yongping]] — 段永平对英伟达/AI capex 的判断
+- [[ai-bubble-debate]] — AI 泡沫辩论：基础设施 capex 是否过度
+- [[arvind-krishna]] — IBM CEO Arvind Krishna 对 AI infra 泡沫的判断

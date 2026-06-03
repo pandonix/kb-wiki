@@ -62,3 +62,4 @@ Anne-Laure Le Cunff 提出的替代传统 SMART 目标的小实验方法论。PA
 - [[think-make-framework]] — PACT 在 Agent 工作法中的具体化
 - [[cognitive-scripts]] — PACT 试图打破的三种思维陷阱
 - [[outsourcing-thinking-ai]] — AI 时代保留主体性的方法论护栏
+- [[musk-algorithm]] — 马斯克五步工作法：与 PACT 互补的流程框架

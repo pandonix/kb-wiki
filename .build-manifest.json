@@ -1,7 +1,7 @@
 {
   "version": 2,
   "last_build": "2026-05-26T18:45:00",
-  "total_raw": 437,
+  "total_raw": 439,
   "files": {
     "raw/马克思讲的异化.md": {
       "sha256": "8045f967752f3f87854c474e836e92508dc81a54fb5d9055614ace4f76f85f2a",
@@ -2931,6 +2931,24 @@
         "comparisons/ai-soe-reform-comparison.md"
       ],
       "last_ingested": "2026-05-27"
+    },
+    "raw/agent/AI到底是不是泡沫.md": {
+      "sha256": "98fdf856e96519e160f0cd516c3757b7556ea5e5cfd53ef2ac997d12adc7fb46",
+      "built": true,
+      "wiki_pages": [
+        "entities/arvind-krishna.md",
+        "concepts/ai-bubble-debate.md"
+      ],
+      "last_ingested": ""
+    },
+    "raw/agent/马斯克五步工作法.md": {
+      "sha256": "c2c8df11cfbe5fce3426f67204fd2b8b5a97e253fc37d8a516084e13c21192bb",
+      "built": true,
+      "wiki_pages": [
+        "entities/elon-musk.md",
+        "concepts/musk-algorithm.md"
+      ],
+      "last_ingested": ""
     },
     "raw/agent/Claude Code.md": {
       "sha256": "00340e7fb493ab7efa7f69c5d993d5c4e55ff501228d61f9670f772b93016d11",

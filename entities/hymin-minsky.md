@@ -53,3 +53,4 @@ confidence: medium
 - [[tech-revolution-financial-capital]] — 两种框架的比较与综合
 - [[minsky-financial-instability]] — 金融不稳定假说概念页
 - [[black-swan-bayesian]] — 黑天鹅与系统性风险
+- [[ai-bubble-debate]] — AI 泡沫辩论（Krishna 的经济账与 Minsky 动力学）

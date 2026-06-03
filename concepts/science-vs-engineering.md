@@ -86,3 +86,4 @@ confidence: high
 - [[harness-engineering]] — Harness工程（工程实践的Agent时代演进）
 - [[second-order-thinking]] — 二阶思维（系统论的核心思维工具）
 - [[declarative-architecture]] — 声明式架构
+- [[musk-algorithm]] — 马斯克五步工作法：工程理性的极致实践

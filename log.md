@@ -18,6 +18,16 @@
 - Cron job + skill updated to include agent vault in daily sync
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-06-03] ingest | Daily sync: Agent vault → raw/agent/
+- Phase: full pipeline (copy → ingest → reconcile)
+- Source: Obsidian agent vault (top-level files)
+- New raw files: 2 (raw/agent/AI到底是不是泡沫.md + 马斯克五步工作法.md)
+- New entities: 2 (arvind-krishna, elon-musk)
+- New concepts: 2 (ai-bubble-debate, musk-algorithm)
+- Updated pages: 2 (hymin-minsky, index.md)
+- Inbound links added: 7 (ai-infra-capex, minsky-financial-instability, harness-engineering, science-vs-engineering, pact-framework + media)
+- Index rebuilt, all manifest marked built
+
 ## [2026-04-24] create | Wiki initialized
 ## [2026-04-24] ingest | Bulk ingest 23 raw sources (2026-04-24 batch)
 
@@ -501,3 +511,19 @@ Total pages: 129 → 130
 
 ### Index updated
 - Added 3 new pages, updated total to 155
+
+## [2026-06-03] ingest | AI bubble debate + Musk 5-step work method
+
+### Raw files processed
+- raw/agent/AI到底是不是泡沫.md — already has frontmatter (ingested: 2026-06-03)
+- raw/agent/马斯克五步工作法.md — already has frontmatter (ingested: 2026-06-03)
+
+### New wiki pages (4)
+- entities/arvind-krishna.md — Arvind Krishna (IBM CEO), AI bubble perspective
+- entities/elon-musk.md — Elon Musk, 5-step work method
+- concepts/ai-bubble-debate.md — AI 泡沫辩论：Krishna 的经济账分析
+- concepts/musk-algorithm.md — 马斯克五步工作法（The Algorithm）
+
+### Existing pages updated (2)
+- entities/hymin-minsky.md — added cross-link to ai-bubble-debate
+- index.md — added 4 new pages, updated total to 159

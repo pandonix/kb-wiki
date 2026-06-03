@@ -137,3 +137,5 @@ Agent 能力很强但会犯错、有随机性、不稳定。工程师的工作�
 - [[multi-agent-collaboration]] — 多 Agent 协作的 harness 设计
 - [[context-engineering]] — 上下文工程是 harness 的关键子系统
 - [[expression-substance-framework]] — Expression-Substance 框架：Harness 就是软件工程中的 Substance 层
+- [[musk-algorithm]] — 马斯克五步工作法：先删再减再优化的工程哲学
+- [[elon-musk]] — Elon Musk 人物页

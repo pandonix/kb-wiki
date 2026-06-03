@@ -49,3 +49,4 @@ Mazzucato、Gabor 等学者尝试综合：Perez 对——技术-金融耦合确�
 - [[tech-revolution-financial-capital]] — 技术革命与金融资本框架
 - [[black-swan-bayesian]] — 黑天鹅与系统性风险
 - [[capitalist-realism]] — 资本主义现实主义
+- [[ai-bubble-debate]] — AI 泡沫辩论：基础设施 capex 的 Minsky 式漂移
