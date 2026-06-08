@@ -1,10 +1,10 @@
 ---
 title: AI 替代边界：商品化梯度与人的价值迁移
 created: 2026-05-26
-updated: 2026-05-26
+updated: 2026-06-08
 type: concept
 tags: [philosophy, ml, invest, thought, agent, coding]
-sources: [raw/articles/起大早，赶晚集.md, raw/articles/AI Alignment与写作.md, raw/articles/大V和散文.md, raw/articles/AI时代的乐观主义.md, raw/articles/经济学的前提假设.md, raw/articles/Token计算：下一个十年的成本战争.md, raw/articles/人的欲望与稀缺迁移.md, raw/articles/是马还是煤，决定5年后你的工作是否还存在.md, raw/articles/人类的意义.md, raw/articles/边界的消融：什么是更好的AI？.md]
+sources: [raw/articles/起大早，赶晚集.md, raw/articles/AI Alignment与写作.md, raw/articles/大V和散文.md, raw/articles/AI时代的乐观主义.md, raw/articles/经济学的前提假设.md, raw/articles/Token计算：下一个十年的成本战争.md, raw/articles/人的欲望与稀缺迁移.md, raw/articles/是马还是煤，决定5年后你的工作是否还存在.md, raw/articles/人类的意义.md, raw/articles/边界的消融：什么是更好的AI？.md, raw/articles/Claude Code之父：品味不是人类护城河；当工程师不再写代码，招聘看什么？.md]
 confidence: high
 ---
 
@@ -83,6 +83,8 @@ OpenAI 的表述：人负责「设环境、定意图、建反馈」，agent 负�
 审美不是装饰，而是**判断力的最终表现形式**。就像巴菲特评价企业，最后那 1% 的「直觉感」和「品味」，是人类作为主权者的最终裁定权。^[AI Alignment与写作.md]
 
 在 AI 写作中，人的角色是「导演」——**设定意图、决定审美、把控结局**。AI 是「影帝」——负责表演、适应风格、不知疲倦重拍。^[AI Alignment与写作.md]
+
+> ⚠️ **Boris Cherny 的挑战**：Anthropic 的 Boris Cherny 认为品味也在被模型快速侵蚀。他自己的编程品味执念（不准用 class）最终被模型推翻，模型直接写 class 且代码不差。他推演 3-6 个月后模型的大部分产品想法都会是好的。**最终剩下的只有价值观**——如何做对的事情，而不仅仅是把事情做对。^[raw/articles/Claude Code之父：品味不是人类护城河；当工程师不再写代码，招聘看什么？.md] 这意味着：审美的稀缺性可能比预想的衰减更快，人的不可替代性继续上移到价值取舍层面。
 
 ### 选择（Choice）
 

@@ -1,12 +1,12 @@
-     1|---
+---
 title: AI Coding / Agent 工程
 created: 2026-04-24
-updated: 2026-05-31
+updated: 2026-06-08
 type: concept
-tags: [ml, coding, infra]
-sources: [raw/articles/AI编程的现状与未来.md, raw/articles/Codex的多Agent并行开发指南.md, raw/articles/OpenGame Open Agentic Coding for Games.md, raw/articles/How To Be A World-Class Agentic Engineer.md, raw/articles/消耗了上百亿 Token后， 对于 Agent 时代软件构建、软件形态及未来发展的思考.md, raw/articles/Karpathy 最新访谈：Vibe Coding 只是开始，真正重要的是 Agentic Engineering.md, raw/papers/SWE-chat Coding Agent Interactions From Real Users in the Wild.md, raw/articles/Agent Skills 终极指南：入门、精通、预测.md, raw/articles/OpenClaw和Claude Code只是第一阶段，Github 这两个项目正指向终局——AI 编程三阶段构想（万字长文慎入）.md, raw/articles/有效的 Context 工程（精读、万字梳理）.md, raw/articles/编程 Agent 可能是软件开发史上最昂贵的错误之一.md]
-     8|confidence: high
-     9|---
+tags: [ml, coding, infra, agent]
+sources: [raw/articles/AI编程的现状与未来.md, raw/articles/Codex的多Agent并行开发指南.md, raw/articles/OpenGame Open Agentic Coding for Games.md, raw/articles/How To Be A World-Class Agentic Engineer.md, raw/articles/消耗了上百亿 Token后， 对于 Agent 时代软件构建、软件形态及未来发展的思考.md, raw/articles/Karpathy 最新访谈：Vibe Coding 只是开始，真正重要的是 Agentic Engineering.md, raw/papers/SWE-chat Coding Agent Interactions From Real Users in the Wild.md, raw/articles/Agent Skills 终极指南：入门、精通、预测.md, raw/articles/OpenClaw和Claude Code只是第一阶段，Github 这两个项目正指向终局——AI 编程三阶段构想（万字长文慎入）.md, raw/articles/有效的 Context 工程（精读、万字梳理）.md, raw/articles/编程 Agent 可能是软件开发史上最昂贵的错误之一.md, raw/articles/Claude Code之父：品味不是人类护城河；当工程师不再写代码，招聘看什么？.md]
+confidence: high
+---
     10|
     11|# AI Coding / Agent 工程
     12|
@@ -199,7 +199,40 @@ sources: [raw/articles/AI编程的现状与未来.md, raw/articles/Codex的多Ag
    199|
 ### Harness 的产业翻译
 
-"竞争焦点从谁能把模型训练得更好，转向谁能为任务提供最丰富、最相关的 context。"——一个能力 80 分的模型配一套 90 分的 Harness，可以碾压一个 95 分但只有裸 API 的竞品。详见 [[harness-engineering]]、[[ai-second-half]]。
+详见 [[vibe-slop]]。
+
+## Boris Cherny：Claude Code 与编程抽象层级上移
+
+Anthropic 的 Boris Cherny（[[boris-cherny]]）提供了 Claude Code 从内部视角的演化观察：^[raw/articles/Claude Code之父：品味不是人类护城河；当工程师不再写代码，招聘看什么？.md]
+
+### Claude Code 的定位
+
+Claude Code 不只是编程工具，更是 Anthropic 用来**观察模型进入真实世界的实验平台**。Coding 拥有极其清晰的反馈机制（代码能否运行、能否通过测试），是研究 Tool Use、Computer Use 和 AI Safety 的理想实验场。
+
+### 真正的跃迁来自模型，不是产品功能
+
+Claude Code 从只能完成 Boris 约 10%-20% 的工作到几乎完全接管，真正的原因只有一个：**模型变强了**（Sonnet 4 → Opus 4 → Opus 4.5）。产品和模型在同一个循环里共同演化——全公司都在用 Claude Code，反馈本身就是日常工作的一部分。
+
+### 编程抽象层级继续上移
+
+Boris 描述了自己工作方式的三阶段演变：
+1. **传统**：打开 IDE、编写代码、偶尔使用自动补全
+2. **Prompt Claude**：向 Claude 描述需求、让 Claude 写代码、自己检查和修正（过渡阶段）
+3. **写 Loops**：编写自动运行的流程和循环，由程序向 Claude 下达指令、协调多个 Claude 实例——**「我的工作已经变成写 Loops」**
+
+他已半年没亲手写代码，甚至卸载了 IDE。通常同时运行 5-10 个 Claude 实例，不同实例负责不同任务，人主要负责监督。
+
+### 组织隐性知识压缩
+
+Claude Code 提升的不只是代码生成速度，而是在**压缩组织内部知识传递的成本**。新工程师从数周熟悉系统压缩到约两天——通过 Claude 查询系统、理解数据库。很多原本需要资深工程师掌握的隐性知识开始被转移到 Agent 身上。
+
+### Coding 的战略意义
+
+对 Anthropic 而言，Coding 的重要性不只是商业价值：
+- 编程有极其清晰的反馈机制（可运行/不可运行）
+- 是研究 Tool Use、Computer Use 的理想实验场
+- 产品与模型在同一个循环里共同演化
+- 详见 [[anthropic]]
 
 ## 相关概念
 
@@ -221,6 +254,8 @@ sources: [raw/articles/AI编程的现状与未来.md, raw/articles/Codex的多Ag
 - [[karpathy]] — Karpathy 的 Agentic Engineering 实践
 - [[george-hotz]] — George Hotz 的编程Agent批判立场
 - [[vibe-slop]] — Vibe Slop：AI编程垃圾与Eternal Sloptember
+- [[boris-cherny]] — Claude Code 之父：从写代码到写 Loops
+- [[anthropic]] — Anthropic：Claude Code 背后的 AI 安全公司
 
 ## 批判视角：AI Coding Agent 的警示信号
 

@@ -1,7 +1,7 @@
 {
   "version": 2,
   "last_build": "2026-05-26T18:45:00",
-  "total_raw": 439,
+  "total_raw": 441,
   "files": {
     "raw/马克思讲的异化.md": {
       "sha256": "8045f967752f3f87854c474e836e92508dc81a54fb5d9055614ace4f76f85f2a",
@@ -83,6 +83,7 @@
       "sha256": "63fd6b8729a3cea76b91390a972d3e2479b8d602fec42407d643ab38c0dd01da",
       "built": true,
       "wiki_pages": [
+        "entities/anthropic.md",
         "concepts/declarative-architecture.md",
         "concepts/ai-architecture-governance.md"
       ],
@@ -983,6 +984,19 @@
       "wiki_pages": [],
       "last_ingested": "2026-05-22"
     },
+    "raw/articles/Claude Code之父：品味不是人类护城河；当工程师不再写代码，招聘看什么？.md": {
+      "sha256": "faee84c9ec6ba216a33d69ae494bee6a8384715d164307145debbcf7f9686005",
+      "built": true,
+      "wiki_pages": [
+        "entities/anthropic.md",
+        "entities/boris-cherny.md",
+        "concepts/ai-coding-agent.md",
+        "concepts/ai-native-organization.md",
+        "concepts/ai-era-scarce-capabilities.md",
+        "concepts/ai-commoditization-boundary.md"
+      ],
+      "last_ingested": "2026-06-08"
+    },
     "raw/articles/中国大众文化50年.md": {
       "sha256": "273166fb9d9a16bbfcf26023a7b052d91c9eb6cc5c03162baf0e11cff18e52ad",
       "built": true,
@@ -1218,6 +1232,17 @@
       "built": true,
       "wiki_pages": [],
       "last_ingested": "2026-05-22"
+    },
+    "raw/articles/AI 不会合作？那是因为他们没见过市场经济｜Hao好聊趋势.md": {
+      "sha256": "8fde5657385c99da8b45970232f130471a2410b83fcff10969a8e04aff2428a3",
+      "built": true,
+      "wiki_pages": [
+        "entities/friedrich-hayek.md",
+        "concepts/solipsistic-superintelligence.md",
+        "concepts/multi-agent-collaboration.md",
+        "concepts/economy-of-minds.md"
+      ],
+      "last_ingested": "2026-06-08"
     },
     "raw/articles/连平：“十五五”中国房地产市场将怎么走？.md": {
       "sha256": "57b6d235e61d1d795d80e03f7dc63a9e281bc7e9064d0617fd6af272fe6f50db",

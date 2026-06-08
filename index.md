@@ -1,31 +1,34 @@
 # Wiki Index
 
-|> Content catalog. Last updated: 2026-06-03
+> Content catalog. Last updated: 2026-06-08
 
 ## Entities
 - [[andrew-ng]] — 吴恩达 (Andrew Ng)
 - [[anne-laure-le-cunff]] — Anne-Laure Le Cunff
+- [[anthropic]] — Anthropic
+- [[arvind-krishna]] — Arvind Krishna
 - [[backtrader]] — Backtrader
 - [[berkshire]] — 伯克希尔·哈撒韦
+- [[boris-cherny]] — Boris Cherny
 - [[carlota-perez]] — Carlota Perez
 - [[dan-koe]] — Dan Koe
 - [[demis-hassabis]] — Demis Hassabis
 - [[duan-yongping]] — 段永平
+- [[elon-musk]] — Elon Musk
 - [[entp]] — ENTP
 - [[fiona-fung]] — Fiona Fung
+- [[friedrich-hayek]] — 哈耶克（Friedrich Hayek）
 - [[george-hotz]] — George Hotz (geohot)
 - [[howard-marks]] — Howard Marks
 - [[hymin-minsky]] — Hyman Minsky
 - [[intj]] — INTJ
-- [[juzi-orange]] — 橘子（冯雷）：ColaOS / ListenHub 创始人
+- [[juzi-orange]] — 橘子（冯雷）— ColaOS / ListenHub 创始人
 - [[karpathy]] — Andrej Karpathy
 - [[marcos-lopez-de-prado]] — Marcos López de Prado
 - [[minimax]] — MiniMax
 - [[stanford-ai-index-2026]] — Stanford HAI AI Index Report 2026
 - [[veighna]] — VeighNa (vn.py)
 - [[wu-si]] — 吴思
-- [[arvind-krishna]] — Arvind Krishna (IBM CEO)
-- [[elon-musk]] — Elon Musk
 
 ## Concepts
 - [[agent-data-governance]] — 企业Agent数据治理
@@ -89,6 +92,7 @@
 - [[dual-role-management]] — 兼岗分析
 - [[duan-yongping-investing]] — 段永平投资体系
 - [[economics-scarcity-assumption]] — 经济学的前提假设：稀缺性
+- [[economy-of-minds]] — Economy of Minds — 市场经济式多 Agent 协调
 - [[effective-rest]] — 高强度用脑者的有效休息
 - [[emergency-psychological-response]] — 突发事件后的正常心理反应
 - [[energy-transition-geopolitics]] — 能源转型与全球格局
@@ -143,6 +147,7 @@
 - [[skill-distillation-depth]] — Skill 蒸馏深度分析
 - [[social-intelligence-baseline]] — 社会整体智力水位
 - [[software-disposable]] — 软件日抛化
+- [[solipsistic-superintelligence]] — 唯我论超级智能（Solipsistic Superintelligence）
 - [[soul-team]] — Soul Team：AI 原生组织的叙事一致性团队
 - [[stoicism]] — 斯多葛学派
 - [[super-creator]] — 超创者（Super Creator）
@@ -169,4 +174,4 @@
 - [[three-career-scripts-analysis]] — 三种职业限制脚本的Wiki交叉分析
 - [[wechat-moat-ai-era]] — 微信护城河在 AI 时代是否会被打破 — Wiki 交叉分析
 
-> Total pages: 159
+> Total pages: 164

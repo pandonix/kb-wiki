@@ -4,6 +4,25 @@
 > Format: `## [YYYY-MM-DD] action | subject`
 > Actions: ingest, update, query, lint, create, archive, delete
 
+## [2026-06-08] ingest | 2 raw articles: Multi-Agent coordination + Claude Code org
+- Ingested 2 raw source files from Obsidian notes
+- Raw file 1: "AI 不会合作？那是因为他们没见过市场经济｜Hao好聊趋势" — frontmatter: url→source_url, +ingested, +sha256
+- Raw file 2: "Claude Code之父：品味不是人类护城河" — frontmatter: url→source_url, +ingested, +sha256
+- **New entities (3)**:
+  - [[anthropic]] — Anthropic: AI safety company behind Claude Code
+  - [[boris-cherny]] — Boris Cherny: Claude Code core builder
+  - [[friedrich-hayek]] — Friedrich Hayek: knowledge problem & multi-agent mapping
+- **New concepts (2)**:
+  - [[economy-of-minds]] — market-based multi-agent coordination (auction + bucket-brigade + natural selection)
+  - [[solipsistic-superintelligence]] — why LLMs fail at cooperation (MDP vs Markov Game)
+- **Updated pages (5)**:
+  - [[multi-agent-collaboration]] — added orchestrator-worker critique, DPBench, More Capable Less Cooperative, Economy of Minds paradigm shift
+  - [[ai-coding-agent]] — added Boris Cherny section: Claude Code as experiment platform, loops, knowledge compression
+  - [[ai-native-organization]] — added Anthropic section: MTS, Generalist golden age, token budget advice, org knowledge compression
+  - [[ai-commoditization-boundary]] — added Boris's challenge: taste also being eroded, only values remain
+  - [[ai-era-scarce-capabilities]] — added Boris's taste erosion insight, re-evaluating L1.5 vs L2 boundary
+- Index updated: 159 → 164 total pages
+
 ## [2026-05-27] ingest | Agent vault initial import
 - Phase: full pipeline (copy → batch ingest → reconcile)
 - Source: Obsidian agent vault → raw/agent/
@@ -527,3 +546,12 @@ Total pages: 129 → 130
 ### Existing pages updated (2)
 - entities/hymin-minsky.md — added cross-link to ai-bubble-debate
 - index.md — added 4 new pages, updated total to 159
+## [2026-06-08] ingest | Obsidian notes daily sync
+- Phase: incremental (copy → single ingest → reconcile)
+- New raw files: 2
+  - Claude Code之父：品味不是人类护城河；当工程师不再写代码，招聘看什么？.md
+  - AI 不会合作？那是因为他们没见过市场经济｜Hao好聊趋势.md
+- New entities: 3 (anthropic, boris-cherny, friedrich-hayek)
+- New concepts: 2 (economy-of-minds, solipsistic-superintelligence)
+- Updated pages: 5 (multi-agent-collaboration, ai-coding-agent, ai-native-organization, ai-commoditization-boundary, ai-era-scarce-capabilities)
+- Total wiki pages: 164

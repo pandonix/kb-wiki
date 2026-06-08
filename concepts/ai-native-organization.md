@@ -1,10 +1,10 @@
 ---
 title: AI Native 组织模式
 created: 2026-05-22
-updated: 2026-06-02
+updated: 2026-06-08
 type: concept
 tags: [management, agent, company]
-sources: [raw/articles/组织能力才是 AI 公司真正的壁垒｜42章经.md, raw/articles/2026-05-28-AI越强人越忙一个住在未来的人说了什么.md, raw/articles/2026-06-01-AI-native下组织形式思考.md, raw/articles/2026-06-01-一个理想的组织是AI Agent在组织人.md]
+sources: [raw/articles/组织能力才是 AI 公司真正的壁垒｜42章经.md, raw/articles/2026-05-28-AI越强人越忙一个住在未来的人说了什么.md, raw/articles/2026-06-01-AI-native下组织形式思考.md, raw/articles/2026-06-01-一个理想的组织是AI Agent在组织人.md, raw/articles/Claude Code之父：品味不是人类护城河；当工程师不再写代码，招聘看什么？.md]
 confidence: medium
 ---
 
@@ -74,6 +74,8 @@ confidence: medium
 - [[ai-strategy-positioning]] — AI 战略定位与组织形态选择
 - [[ai-outcome-pod]] — AI Outcome Pod：人机混合结果单元
 - [[soul-team]] — Soul Team：AI 原生组织的叙事一致性团队
+- [[boris-cherny]] — Anthropic MTS：Generalist 黄金时代与 Token 预算
+- [[anthropic]] — Anthropic 的组织实践：MTS、Builder、少招人多给 Token
 
 ## AI Outcome Pod：AI-native 的基本组织单元
 
@@ -131,6 +133,40 @@ Source 2 中 ColaOS/ListenHub 创始人橘子的实践提供了约 20 人团队�
 - **快的关键**：组织能把 AI 的速度变成成果速度，穿透到上线、反馈、撤回、修正和再次上线
 
 详见 [[soul-team]] 和 [[ai-outcome-pod]]。
+
+## Anthropic 的组织实践：MTS、Generalist 与 Token 预算
+
+Boris Cherny（[[boris-cherny]]）在访谈中揭示了 Anthropic 作为 AI Native 组织的内部实践：^[raw/articles/Claude Code之父：品味不是人类护城河；当工程师不再写代码，招聘看什么？.md]
+
+### Member of Technical Staff（MTS）：对未来的预演
+
+Anthropic 很多人只有一个头衔：MTS——不区分设计师、工程师、经理。Boris 认为这是对「职能边界消失」的预演：
+
+- **消除「礼貌性服从」**：如果给人「高级」头衔，别人会因为 deference 而不好意思反驳他的坏主意。把所有人放在平等场域里，迫使大家用想法而非资历竞争
+- **经验在 AI 时代可能是负债**：有 20-30 年经验的资深工程师要花好几个月「unlearn」旧习惯；新人反而天然用模型思维思考
+- **每次新模型出来，所有人都要 recalibrate**
+
+### Generalist 的黄金时代
+
+Claude Code 团队最喜欢的一类人是 **Generalist（通才）**。过去的软件组织有明确分工（用户研究员 → 设计师 → PM → 工程师），但在 Anthropic 内部这种分工正在迅速瓦解：
+
+- 团队里每个工程师每天都在做各种「不属于工程师职责范围」的事
+- 设计师也在写代码，财务同事也在写代码
+- Satya Nadella 管这种角色叫 **Builder**——比「工程师」更准确，真正的边界不是「会不会写代码」，而是「能不能把一件事从想法变成现实」
+- AI 正在降低能力之间的迁移成本，最有优势的人是能快速跨越不同领域、不断整合资源的人
+
+### 「少招人，多给 Token」
+
+Boris 给创始人的具体建议：
+
+1. **尽量多给 tokens**，让大家疯狂实验
+2. **每个项目故意少放人**——如果你觉得需要四个工程师，就只放两个人，然后给他们大量 token，让他们自己想办法
+
+这不仅是降本，而是用**自动化资产替代持续人力摩擦**的组织设计。前期成本（upfront cost）抬高，但持续成本（ongoing cost）大幅降低——像 pre-compiling。
+
+### Claude Code 压缩组织隐性知识
+
+Claude Code 的组织价值不只是写代码更快：新工程师从数周熟悉系统压缩到约两天。过去「数据库怎么查」需要在 Slack 上找人问；现在标准答案是「打开 Claude，让 Claude 去查数据库」。**组织内部隐性知识被转移到 Agent 身上。**
 
 ## 从劳动分工到判断与责任系统
 

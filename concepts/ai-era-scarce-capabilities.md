@@ -1,10 +1,10 @@
 ---
 title: AI 时代的稀缺能力：哪些变贵了，哪些贬值了
 created: 2026-05-26
-updated: 2026-05-31
+updated: 2026-06-08
 type: concept
 tags: [philosophy, ml, invest, thought, agent, coding, management]
-sources: [raw/articles/担心被Skill替代的打工人发现：「根本不是那么回事」.md, raw/articles/严肃聊聊，Skill到底能蒸馏我们的几分之几？｜Hao好聊趋势.md, raw/articles/经济学的前提假设.md, raw/articles/人的欲望与稀缺迁移.md, raw/articles/AI时代的乐观主义.md, raw/articles/AI Alignment与写作.md, raw/articles/起大早，赶晚集.md, raw/articles/Token计算：下一个十年的成本战争.md, raw/articles/是马还是煤，决定5年后你的工作是否还存在.md, raw/articles/人类的意义.md, raw/articles/2026年，第一批一人公司老板已经退场.md, raw/articles/人应成为AI发展的尺度.md, raw/articles/2026-05-28-AI破晓-生成式AI时代文化产业的重塑跃迁与守望.md, raw/articles/2026-05-30-9.5万大学生和37万高中生数据-AI时代分水岭.md]
+sources: [raw/articles/担心被Skill替代的打工人发现：「根本不是那么回事」.md, raw/articles/严肃聊聊，Skill到底能蒸馏我们的几分之几？｜Hao好聊趋势.md, raw/articles/经济学的前提假设.md, raw/articles/人的欲望与稀缺迁移.md, raw/articles/AI时代的乐观主义.md, raw/articles/AI Alignment与写作.md, raw/articles/起大早，赶晚集.md, raw/articles/Token计算：下一个十年的成本战争.md, raw/articles/是马还是煤，决定5年后你的工作是否还存在.md, raw/articles/人类的意义.md, raw/articles/2026年，第一批一人公司老板已经退场.md, raw/articles/人应成为AI发展的尺度.md, raw/articles/2026-05-28-AI破晓-生成式AI时代文化产业的重塑跃迁与守望.md, raw/articles/2026-05-30-9.5万大学生和37万高中生数据-AI时代分水岭.md, raw/articles/Claude Code之父：品味不是人类护城河；当工程师不再写代码，招聘看什么？.md]
 confidence: high
 ---
 
@@ -73,6 +73,8 @@ confidence: high
 [[one-person-company]] 的观察一针见血：「AI 可以让一个人更快地生产东西，但不能替他创造真实需求。真正稀缺的仍是：需求洞察、内容判断、**审美**、叙事能力和分发信任。」
 
 审美不是装饰——它是**判断力的最终表现形式**。在 AI 写作中，人的角色是「导演（设定意图、决定审美、把控结局）」。品味筛选是人类作为主权者的最终裁定权。^[AI Alignment与写作.md]
+
+> ⚠️ **Boris Cherny 的挑战**：Anthropic 的 Boris Cherny 认为品味也在被模型快速侵蚀。他自己的编程品味执念（不准用 class）最终被模型推翻。他推演 3-6 个月后模型的大部分产品想法都会是好的。**最终剩下的只有价值观**。^[raw/articles/Claude Code之父：品味不是人类护城河；当工程师不再写代码，招聘看什么？.md] 这迫使重新评估 L2（不可蒸馏的判断）的内部结构：品味可能属于 L1.5 而非 L2，价值观才是真正的 L2。
 
 ### 5. 独特经验：不是通用知识，是「只有你活过」的部分
 
