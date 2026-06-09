@@ -4,6 +4,22 @@
 > Format: `## [YYYY-MM-DD] action | subject`
 > Actions: ingest, update, query, lint, create, archive, delete
 
+## [2026-06-09] ingest | batch 2/2: AI tools & tech concepts (3 files)
+- Ingested 3 raw source files from Obsidian notes
+- Raw file 1: "LLMs are eroding my software engineering career" — frontmatter: url→source_url, +ingested, +sha256
+- Raw file 2: "Token经济进入结果层" — frontmatter: url→source_url, +ingested, +sha256
+- Raw file 3: "控制论与智能体编码中的人在环上" — frontmatter: url→source_url, +ingested, +sha256
+- **New concepts (2)**:
+  - [[senior-engineer-moat-migration]] — 高级工程师护城河迁移模型：三层侵蚀（领域知识/排障/代码品味）→新护城河（工作流设计/质量验收/组织记忆/结果owner）
+  - [[human-on-the-loop]] — 人在环上（HOTL）：控制论视角下的Agent编码范式转移，衰减+放大+Gemba
+- **Updated pages (5)**:
+  - [[token-economics]] — added 三层计价结构、Intercom Fin case ($0.99/outcome)、结果型AI四个成立条件、场景适配性
+  - [[harness-engineering]] — added HOTL connection section, linked to new page
+  - [[ai-coding-agent]] — added links to both new pages, updated sources
+  - [[ai-era-scarce-capabilities]] — added link to senior-engineer-moat-migration
+  - [[ai-judgment-baseline]] — added link to senior-engineer-moat-migration
+- Index updated: 164 → 166 total pages
+
 ## [2026-06-08] ingest | 2 raw articles: Multi-Agent coordination + Claude Code org
 - Ingested 2 raw source files from Obsidian notes
 - Raw file 1: "AI 不会合作？那是因为他们没见过市场经济｜Hao好聊趋势" — frontmatter: url→source_url, +ingested, +sha256
@@ -555,3 +571,28 @@ Total pages: 129 → 130
 - New concepts: 2 (economy-of-minds, solipsistic-superintelligence)
 - Updated pages: 5 (multi-agent-collaboration, ai-coding-agent, ai-native-organization, ai-commoditization-boundary, ai-era-scarce-capabilities)
 - Total wiki pages: 164
+
+## [2026-06-09] ingest | Batch 1/2: 汤道生 x 姚顺雨对话（汤姚对话、腾讯AI下半场、腾讯被错判了？）
+- Raw files updated (frontmatter): 2
+  - raw/articles/2026-06-05-汤道生 x 姚顺雨：腾讯AI下半场.md (added source_url, ingested, sha256)
+  - raw/articles/2026-06-08-腾讯被错判了？.md (added source_url, ingested, sha256)
+- Raw file already had frontmatter: raw/agent/汤姚对话.md
+- New entities: 3 (tencent, tang-daosheng, yao-shunyu)
+- New concepts: 1 (co-design-ai)
+- Updated pages: 1 (ai-second-half — added 万能锤子 framing, triangle model, context护城河论, Co-Design)
+- Total wiki pages: 170
+
+## [2026-06-09] ingest | Batch 2/2: AI tools & tech (LLMs eroding career, Token经济, 控制论/HOTL)
+- Raw files updated (frontmatter): 3
+  - raw/articles/2026-06-06-LLMs-are-eroding-my-software-engineering-career.md (url→source_url, +ingested, +sha256)
+  - raw/articles/2026-06-08-Token经济进入结果层.md (url→source_url, +ingested, +sha256)
+  - raw/articles/2026-06-08-控制论与智能体编码中的人在环上.md (url→source_url, +ingested, +sha256)
+- New concepts: 2 (senior-engineer-moat-migration, human-on-the-loop)
+- Updated pages: 5 (token-economics, harness-engineering, ai-coding-agent, ai-era-scarce-capabilities, ai-judgment-baseline)
+
+## [2026-06-09] reconcile | Post-ingest reconciliation
+- Index rebuilt from filesystem: 170 pages
+- All 6 new pages have 2-4 inbound links each (no orphan fixes needed)
+- 3 pre-existing broken wikilinks noted (claude-code, context-rot, first-principles-thinking)
+- All raw frontmatter validated (6/6 have ingested + sha256)
+- Manifest updated: 447 files, all marked built

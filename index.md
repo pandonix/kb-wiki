@@ -1,6 +1,7 @@
 # Wiki Index
 
-> Content catalog. Last updated: 2026-06-08
+> Content catalog. Every wiki page listed under its type with a one-line summary.
+> Last updated: 2026-06-09
 
 ## Entities
 - [[andrew-ng]] — 吴恩达 (Andrew Ng)
@@ -27,8 +28,11 @@
 - [[marcos-lopez-de-prado]] — Marcos López de Prado
 - [[minimax]] — MiniMax
 - [[stanford-ai-index-2026]] — Stanford HAI AI Index Report 2026
+- [[tang-daosheng]] — 汤道生（Tang Daosheng）
+- [[tencent]] — 腾讯（Tencent）
 - [[veighna]] — VeighNa (vn.py)
 - [[wu-si]] — 吴思
+- [[yao-shunyu]] — 姚顺雨（Yao Shunyu）
 
 ## Concepts
 - [[agent-data-governance]] — 企业Agent数据治理
@@ -81,6 +85,7 @@
 - [[capitalist-realism]] — 资本主义现实主义
 - [[causality-philosophy]] — 因果：从休谟到珀尔的哲学追问
 - [[claw-code-runtime]] — Claw Code Agent Runtime
+- [[co-design-ai]] — AI 产品与模型 Co-Design 协同设计
 - [[cognitive-scripts]] — 认知脚本（Cognitive Scripts）
 - [[confucius-life-stages]] — 孔子人生三境界：不惑、知天命、耳顺
 - [[context-engineering]] — 上下文工程
@@ -109,6 +114,7 @@
 - [[howard-marks-investing]] — 霍华德·马克斯投资思维
 - [[human-ai-scale]] — 人应成为 AI 的尺度
 - [[human-meaning-agi]] — 人类的意义与AGI
+- [[human-on-the-loop]] — 人在环上（Human-on-the-Loop）
 - [[internet-dead-agent-alive]] — 互联网已死，Agent 永生
 - [[jevons-paradox-work]] — 杰文斯悖论与工作替代
 - [[kondratiev-wave]] — 康波周期：技术革命与长期经济波动
@@ -143,6 +149,7 @@
 - [[science-vs-engineering]] — 科学与工程：两种理性，解释世界与改造世界
 - [[second-order-thinking]] — 二阶思维
 - [[selling-in-value-investing]] — 投资大师很少谈卖出
+- [[senior-engineer-moat-migration]] — 高级工程师护城河迁移模型
 - [[sincerity-communication]] — 真诚才是必杀技
 - [[skill-distillation-depth]] — Skill 蒸馏深度分析
 - [[social-intelligence-baseline]] — 社会整体智力水位
@@ -174,4 +181,4 @@
 - [[three-career-scripts-analysis]] — 三种职业限制脚本的Wiki交叉分析
 - [[wechat-moat-ai-era]] — 微信护城河在 AI 时代是否会被打破 — Wiki 交叉分析
 
-> Total pages: 164
+> Total pages: 170

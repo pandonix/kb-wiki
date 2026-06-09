@@ -1,10 +1,10 @@
 ---
 title: AI 下半场与单位智能经济
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-06-09
 type: concept
 tags: [ml, infra, agent, invest, company]
-sources: [raw/articles/从 Hy3 preview 看 AI 下半场：单位智能时代的一次工程答卷.md]
+sources: [raw/articles/从 Hy3 preview 看 AI 下半场：单位智能时代的一次工程答卷.md, raw/articles/2026-06-05-汤道生 x 姚顺雨：腾讯AI下半场.md, raw/articles/2026-06-08-腾讯被错判了？.md, raw/agent/汤姚对话.md]
 confidence: medium
 ---
 
@@ -34,7 +34,24 @@ Harness（脚手架）的本质：用工程手段把不可能三角的平衡点�
 
 Harness 包含：Tool Use、上下文工程、多步规划、缓存复用、与业务系统的打通。
 
-## 理论 → 学术 → 工程 → 用户闭环
+## 「万能锤子」与寻找好问题（2026 更新）
+
+在 2026 年 6 月与汤道生的对谈中，姚顺雨进一步深化了下半场定义：
+
+> 去年之前 AI 发展了几十年，核心是寻找解决问题的方法；但预训练和后训练成熟后，我们有了「万能锤子」，反而更难的是寻找值得解决的好问题。^[raw/articles/2026-06-05-汤道生 x 姚顺雨：腾讯AI下半场.md]
+
+这是一个 **meta-shift**：方法论成熟后，难点从「怎么解决」迁移到「解决什么」。姚强调下半场最重要的事是「能不能诚实面对自己、能不能 Be Real、能不能看到 feedback 然后改变、能不能保持长期耐心」——核心能力从技术变成了判断力和自我校正。
+
+**Context 护城河论**：当模型越来越擅长把复杂输入变成标准输出，竞争壁垒转移到了最原始的输入端——「你知不知道这个人在干什么，知不知道企业的各种信息」。这也是姚加入腾讯的首要原因：腾讯的社交、办公、游戏、云等多场景提供了独一无二的 context 数据。^[raw/articles/2026-06-05-汤道生 x 姚顺雨：腾讯AI下半场.md]
+
+## 三角形组织模型
+
+姚顺雨提出的 AI 组织三足支撑：
+- **foundation**：预训练 + 后训练，资源要充足，做事方式要正确
+- **product**：把技术落地为价值，需要有产品 sense 的人
+- **frontier**：探索新研究范式、新机会——姚承认「中国今天所做的前沿探索不够多」
+
+三者均衡，缺一即跛。腾讯的实践：Co-Design 是连接 foundation 和 product 的关键机制。^[raw/articles/2026-06-05-汤道生 x 姚顺雨：腾讯AI下半场.md]
 
 一条完整时间线：
 1. **理论**（2025.4）：姚顺雨《The Second Half》
@@ -75,9 +92,14 @@ Harness 包含：Tool Use、上下文工程、多步规划、缓存复用、与�
 
 ## 相关概念
 
+- [[yao-shunyu]] — 姚顺雨，AI 下半场理论提出者
+- [[tang-daosheng]] — 汤道生，Co-Design 实践推动者
+- [[tencent]] — 腾讯，下半场实践的主场之一
+- [[co-design-ai]] — AI 产品与模型 Co-Design 协同设计
 - [[ai-coding-agent]] — Agent 工程时代的技术基础
 - [[ai-economy-impact]] — AI 经济影响与单位智能成本
 - [[ai-software-form-evolution]] — 软件形态从固定到意图驱动
 - [[ai-infra-capex]] — 推理成本背后的基础设施经济学
 - [[token-economics]] — Token 作为智能经济计量单位
 - [[ai-organization-adoption]] — AI 采纳中的组织悖论
+- [[ai-native-organization]] — AI Native 组织模式

@@ -53,6 +53,7 @@ AI 未必立刻让你失业，但可能先把「本来会做这件事」的手�
 
 ## 相关概念
 
+- [[senior-engineer-moat-migration]] — 高级工程师护城河迁移：工程职业的判断力基线案例
 - [[outsourcing-thinking-ai]] — AI 时代的外包思考风险
 - [[ai-era-scarce-capabilities]] — AI 时代的稀缺能力：判断力、审美、问题定义
 - [[ai-human-boundary]] — AI 与人的边界：效率解放 vs 系统加速

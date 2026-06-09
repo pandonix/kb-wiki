@@ -162,6 +162,7 @@ Kevin Kelly 的区分：^[AI时代的乐观主义.md]
 - [[skill-distillation-depth]] — L1/L1.5/L2 精度阶梯：为什么核心判断不可蒸馏
 - [[measurability-gap-agi]] — 验证能力成为新护城河
 - [[ai-judgment-baseline]] — 判断力基线的三层结构框架
+- [[senior-engineer-moat-migration]] — 工程职业版：高级工程师护城河迁移的三层侵蚀模型
 - [[desire-scarcity-migration]] — 稀缺迁移的底层机制
 - [[economics-scarcity-assumption]] — 稀缺性不会消失，只会退守
 - [[harness-engineering]] — 人设环境、定意图、建反馈

@@ -1,10 +1,10 @@
 ---
 title: Harness Engineering
 created: 2026-04-24
-updated: 2026-05-29
+updated: 2026-06-09
 type: concept
 tags: [infra, agent, coding]
-sources: [raw/articles/Harness工程与领导力.md, raw/articles/Codex的多Agent并行开发指南.md, raw/articles/从 iproduct 重构到 harness 方法论：为什么 V1 应先做最小真实闭环.md, raw/articles/Karpathy 最新访谈：Vibe Coding 只是开始，真正重要的是 Agentic Engineering.md, raw/articles/一文读懂Harness Engineering：从14篇工程文章中，寻找那个让AI不再离经叛道的壳｜Hao好聊趋势.md, raw/articles/2026-05-27-需要自进化的不是Agent而是Harness.md]
+sources: [raw/articles/Harness工程与领导力.md, raw/articles/Codex的多Agent并行开发指南.md, raw/articles/从 iproduct 重构到 harness 方法论：为什么 V1 应先做最小真实闭环.md, raw/articles/Karpathy 最新访谈：Vibe Coding 只是开始，真正重要的是 Agentic Engineering.md, raw/articles/一文读懂Harness Engineering：从14篇工程文章中，寻找那个让AI不再离经叛道的壳｜Hao好聊趋势.md, raw/articles/2026-05-27-需要自进化的不是Agent而是Harness.md, raw/articles/2026-06-08-控制论与智能体编码中的人在环上.md]
 confidence: high
 ---
 
@@ -108,6 +108,15 @@ V1 应优先串行闭环，**不要过早并行**。过早进入多 worktree、�
 Harness工程与领导力.md
 ]
 
+## Harness 与 Human-on-the-Loop（人在环上）
+
+Harness Engineering 是 [[human-on-the-loop]]（HOTL）的工程实现层。HOTL 的两个核心动作——衰减（过滤机器侧多样性）和放大（增强人类侧意图）——正是 Harness 的设计目标：
+
+- **衰减**：通过仪表盘、阈值告警、Agent 间互相验证（如 QA agent 独立检查）、聚合报告来避免人类过载
+- **放大**：通过全局策略编码、统一知识库、平台工程团队分工来规模化人类影响力
+
+HOTL 的理论根基来自控制论（Cybernetics）——Norbert Wiener、Stafford Beer 的 VSM、Ross Ashby 的必要多样性定律——为 Harness Engineering 提供了形式化的设计语言。详见 [[human-on-the-loop]]。
+
 ## Karpathy 的 Agentic Engineering 视角
 
 Karpathy 将 Agentic Engineering 定义为一种工程纪律：如何设计、协调、监督一组 AI Agent，让它们在不牺牲质量、安全、可维护性的情况下加速开发。^[
@@ -139,3 +148,4 @@ Agent 能力很强但会犯错、有随机性、不稳定。工程师的工作�
 - [[expression-substance-framework]] — Expression-Substance 框架：Harness 就是软件工程中的 Substance 层
 - [[musk-algorithm]] — 马斯克五步工作法：先删再减再优化的工程哲学
 - [[elon-musk]] — Elon Musk 人物页
+- [[human-on-the-loop]] — 人在环上：HOTL 是 Harness 的控制论理论基础

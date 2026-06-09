@@ -1,7 +1,7 @@
 {
   "version": 2,
   "last_build": "2026-05-26T18:45:00",
-  "total_raw": 441,
+  "total_raw": 447,
   "files": {
     "raw/马克思讲的异化.md": {
       "sha256": "8045f967752f3f87854c474e836e92508dc81a54fb5d9055614ace4f76f85f2a",
@@ -636,6 +636,14 @@
       "wiki_pages": [],
       "last_ingested": "2026-05-22"
     },
+    "raw/articles/2026-06-08-Token经济进入结果层.md": {
+      "sha256": "83e13c1f3cb396a4957a23ada0f6eebc9d0e384f3319ec9b94211340133153f8",
+      "built": true,
+      "wiki_pages": [
+        "concepts/token-economics.md"
+      ],
+      "last_ingested": "2026-06-09"
+    },
     "raw/articles/AI革命的企业落地困境.md": {
       "sha256": "3bc66a310455bf99b783697de2659cb3fc466b80e4cb4ea0dea6ffbe7c246da8",
       "built": true,
@@ -872,6 +880,15 @@
       "built": true,
       "wiki_pages": [],
       "last_ingested": "2026-05-22"
+    },
+    "raw/articles/2026-06-06-LLMs-are-eroding-my-software-engineering-career.md": {
+      "sha256": "08f67f76c63ca611a749e5eed14ea6d14925b5bddaf9240c8e4153d8da098bbf",
+      "built": true,
+      "wiki_pages": [
+        "concepts/ai-coding-agent.md",
+        "concepts/senior-engineer-moat-migration.md"
+      ],
+      "last_ingested": "2026-06-09"
     },
     "raw/articles/CIO 正在抛弃 AI 生码率：一场关于什么才算产研提效的实践复盘.md": {
       "sha256": "78f242d12436eec4b4f68f9f623eb4152e35e9da466e7314406d9d05b64dc59c",
@@ -1197,6 +1214,16 @@
       "wiki_pages": [],
       "last_ingested": "2026-05-22"
     },
+    "raw/articles/2026-06-08-控制论与智能体编码中的人在环上.md": {
+      "sha256": "eb1235531955dc28249dee37c1ea6acd7647e46433560b704402999d73075233",
+      "built": true,
+      "wiki_pages": [
+        "concepts/ai-coding-agent.md",
+        "concepts/harness-engineering.md",
+        "concepts/human-on-the-loop.md"
+      ],
+      "last_ingested": "2026-06-09"
+    },
     "raw/articles/LLM将是又一个“惨痛教训”？强化学习之父Sutton再放炮：万亿美金AI泡沫可能破裂.md": {
       "sha256": "a90405a1574210a8fcfc5cbb41b477a4636a18c9d38d16596991bc458c8cf48e",
       "built": true,
@@ -1308,7 +1335,7 @@
         "concepts/ai-native-organization.md",
         "concepts/ai-outcome-pod.md"
       ],
-      "last_ingested": ""
+      "last_ingested": "2026-06-09"
     },
     "raw/articles/钟林楠：宏观金融如何从入门到熟悉.md": {
       "sha256": "72221fdaf4dd711a2d5c262f6c07070b0f305004adbc502bb8ef2e15843d9318",
@@ -2180,6 +2207,18 @@
       "wiki_pages": [],
       "last_ingested": "2026-05-22"
     },
+    "raw/articles/2026-06-05-汤道生 x 姚顺雨：腾讯AI下半场.md": {
+      "sha256": "aaa601cc0d21503af5814c1c3116ff7540460731360dfeeb412bcada95ddbbd4",
+      "built": true,
+      "wiki_pages": [
+        "entities/tang-daosheng.md",
+        "entities/tencent.md",
+        "entities/yao-shunyu.md",
+        "concepts/co-design-ai.md",
+        "concepts/ai-second-half.md"
+      ],
+      "last_ingested": "2026-06-09"
+    },
     "raw/articles/杰文斯悖论（Jevons' Paradox）.md": {
       "sha256": "fbba1bede74464be36198d78932f27aa4479c383e439bd3942a766c6746b4032",
       "built": true,
@@ -2525,6 +2564,17 @@
       "wiki_pages": [],
       "last_ingested": "2026-05-22"
     },
+    "raw/articles/2026-06-08-腾讯被错判了？.md": {
+      "sha256": "473f6c00b9c0dcc2b52db7ad4cbedb80f93d18572a150298a2d5a09e7ab41d29",
+      "built": true,
+      "wiki_pages": [
+        "entities/tencent.md",
+        "entities/yao-shunyu.md",
+        "concepts/co-design-ai.md",
+        "concepts/ai-second-half.md"
+      ],
+      "last_ingested": "2026-06-09"
+    },
     "raw/articles/OpenAI前VP联手DeepMind大神创业，目标打造AI科学家，a16z领投3亿美元.md": {
       "sha256": "742b739bd7356d2fec290699b14e49b2a78f1f459afced6ce04434edf529323b",
       "built": true,
@@ -2729,7 +2779,7 @@
         "concepts/ai-outcome-pod.md",
         "concepts/agent-owner-role.md"
       ],
-      "last_ingested": ""
+      "last_ingested": "2026-06-09"
     },
     "raw/articles/真实、残酷的AI就业冲击，从一篇精彩的哈佛论文聊起.md": {
       "sha256": "20ba220fa5bfa63d30c1756f3a8f6d848166a393205a6e5cc275e7836b3e64e2",
@@ -2826,6 +2876,18 @@
       "built": true,
       "wiki_pages": [],
       "last_ingested": "2026-05-22"
+    },
+    "raw/agent/汤姚对话.md": {
+      "sha256": "f9963d7b6fb51d91fc47480c071e0eed96a7b2ba465c5c5a4775bf785441c5e4",
+      "built": true,
+      "wiki_pages": [
+        "entities/tang-daosheng.md",
+        "entities/tencent.md",
+        "entities/yao-shunyu.md",
+        "concepts/co-design-ai.md",
+        "concepts/ai-second-half.md"
+      ],
+      "last_ingested": "2026-06-09"
     },
     "raw/agent/企业级智能体实践.md": {
       "sha256": "033828164be15a07de79786748cdf38925af9014ea699a3c499095da1ef7a8f3",
@@ -2964,7 +3026,7 @@
         "entities/arvind-krishna.md",
         "concepts/ai-bubble-debate.md"
       ],
-      "last_ingested": ""
+      "last_ingested": "2026-06-09"
     },
     "raw/agent/马斯克五步工作法.md": {
       "sha256": "c2c8df11cfbe5fce3426f67204fd2b8b5a97e253fc37d8a516084e13c21192bb",
@@ -2973,7 +3035,7 @@
         "entities/elon-musk.md",
         "concepts/musk-algorithm.md"
       ],
-      "last_ingested": ""
+      "last_ingested": "2026-06-09"
     },
     "raw/agent/Claude Code.md": {
       "sha256": "00340e7fb493ab7efa7f69c5d993d5c4e55ff501228d61f9670f772b93016d11",
