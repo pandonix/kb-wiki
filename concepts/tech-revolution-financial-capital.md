@@ -85,3 +85,5 @@ Carlota Perez 提出的统一框架，将过去两百年的五次技术革命归
 - [[ai-economy-impact]] — AI 经济影响
 - [[capitalist-realism]] — 资本主义现实主义
 - [[kondratiev-wave]] — 康波周期（互补长波理论）
+- [[annalee-saxenian]] — AnnaLee Saxenian：《区域优势》作者，产业集群胜负手在社会结构
+- [[future-society-social-infrastructure]] — 未来社会与社会基础设施

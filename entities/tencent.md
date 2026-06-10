@@ -1,10 +1,10 @@
 ---
 title: 腾讯（Tencent）
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-06-10
 type: entity
 tags: [company, agent, ml, management]
-sources: [raw/articles/2026-06-05-汤道生 x 姚顺雨：腾讯AI下半场.md, raw/articles/2026-06-08-腾讯被错判了？.md, raw/agent/汤姚对话.md]
+sources: [raw/articles/2026-06-05-汤道生 x 姚顺雨：腾讯AI下半场.md, raw/articles/2026-06-08-腾讯被错判了？.md, raw/agent/汤姚对话.md, raw/agent/微信AI Agent.md]
 confidence: high
 ---
 
@@ -30,6 +30,14 @@ confidence: high
 - **WorkBuddy**：国内类 Claude Code 生产力智能体市场第一
 - **ima**：知识管理产品
 - **微信 AI**：与手机厂商合作，将社交关系链能力开放给系统级 AI 助手调用，微信可能成为全球最大智能体平台 ^[raw/articles/2026-06-08-腾讯被错判了？.md]
+
+### 微信 AI Agent（2026 年最高优先级秘密项目）
+
+微信正在开发的原生 AI 智能体，内嵌在微信聊天界面，核心依托小程序生态完成真实世界任务（打车、订餐、订票、支付等），目标是成为每个用户的"私人生活管家"。项目从 2025 年上半年启动，原型测试已完成，2026 年 6 月进入合规审批阶段。^[raw/agent/微信AI Agent.md]
+
+**核心张力**：Agent 调度必然需要的选择权集中 vs 张小龙坚持的去中心化哲学。项目直接向张小龙汇报，本质是一场关于"走哪条路"的价值观裁决。^[raw/agent/微信AI Agent.md]
+
+**战略定位**：马化腾定性为防御性追赶——"一年前以为上了 AI 的船，后来发现那个船漏水了"。本质是怕 14 亿入口在 Agent 时代被架空成哑管道。产品在战略生死性上比小程序更重，但在概念革新性上远不如——越重要，越不新。^[raw/agent/微信AI Agent.md]
 
 ## 组织特征与挑战
 
@@ -67,3 +75,7 @@ confidence: high
 - [[enterprise-agent-practice]] — 企业级智能体实践
 - [[token-economics]] — Token 经济
 - [[hierarchy-to-intelligence]] — 科层制到智慧型组织
+- [[wechat-ai-agent]] — 微信 AI Agent 的产品形态与张力
+- [[zhang-xiaolong]] — 张小龙（微信之父）
+- [[platform-agent-centralization]] — 平台 Agent 的中心化张力
+- [[delegation-interaction-paradigm]] — 委托式交互范式

@@ -1,7 +1,7 @@
 {
   "version": 2,
   "last_build": "2026-05-26T18:45:00",
-  "total_raw": 447,
+  "total_raw": 450,
   "files": {
     "raw/马克思讲的异化.md": {
       "sha256": "8045f967752f3f87854c474e836e92508dc81a54fb5d9055614ace4f76f85f2a",
@@ -689,6 +689,16 @@
       ],
       "last_ingested": "2026-05-26"
     },
+    "raw/articles/2026-06-09-Claude-Code一周年回顾-两次认知跃迁.md": {
+      "sha256": "2039e14cc057eb2e8f3c77f16ce571a8d40939618b58c83e3bf9f92648efd040",
+      "built": true,
+      "wiki_pages": [
+        "entities/claude-code.md",
+        "concepts/multi-agent-collaboration.md",
+        "concepts/agent-routine-loop.md"
+      ],
+      "last_ingested": "2026-06-10"
+    },
     "raw/articles/不藏了！OpenAI 2025开发者日：ChatGPT要变成操作系统，8分钟拖拽可构建超复杂Agent.md": {
       "sha256": "e55b3fe65168adda277cb26f54ac3b3c28ce5d7061eaf1ccfd7d642ab736860d",
       "built": true,
@@ -960,7 +970,7 @@
       "last_ingested": "2026-05-22"
     },
     "raw/articles/拆解Anthropic：最好的AI公司，可能也是一种组织发明.md": {
-      "sha256": "43ec583e0659194b393c7f6a42cf9cd7a652b27798d7b71b7563245a1012bb51",
+      "sha256": "3f665ce509cda4ed64dc47e21b100ba1b397ccf548648fc9fa295d4c37335be5",
       "built": true,
       "wiki_pages": [],
       "last_ingested": "2026-05-25"
@@ -1006,6 +1016,7 @@
       "built": true,
       "wiki_pages": [
         "entities/anthropic.md",
+        "entities/claude-code.md",
         "entities/boris-cherny.md",
         "concepts/ai-coding-agent.md",
         "concepts/ai-native-organization.md",
@@ -2409,6 +2420,16 @@
       "wiki_pages": [],
       "last_ingested": "2026-05-22"
     },
+    "raw/articles/2026-06-08-人人都聊未来产业无人关心未来社会.md": {
+      "sha256": "a52cd35eaebe96e5cf5ff57c4f599df3c2fcf68cce3d98ba75c222df4cc0603d",
+      "built": true,
+      "wiki_pages": [
+        "entities/lyu-peng.md",
+        "entities/annalee-saxenian.md",
+        "concepts/future-society-social-infrastructure.md"
+      ],
+      "last_ingested": "2026-06-10"
+    },
     "raw/articles/人工智能：AI大模型在银行领域的应用.md": {
       "sha256": "ff981ed7a0816b41ad37e6eafd31ceae02be8deae10ffc38bd2f92c8c4d60eb4",
       "built": true,
@@ -3082,6 +3103,20 @@
         "concepts/causality-philosophy.md"
       ],
       "last_ingested": "2026-05-27"
+    },
+    "raw/agent/微信AI Agent.md": {
+      "sha256": "36f4755bcb43f4269db212f4ab1cbffab8e5f413d86ca8086995bfa6835f3b7b",
+      "built": true,
+      "wiki_pages": [
+        "entities/zhang-xiaolong.md",
+        "entities/tencent.md",
+        "entities/ma-huateng.md",
+        "concepts/platform-agent-centralization.md",
+        "concepts/wechat-ai-agent.md",
+        "concepts/agent-delegation-trap.md",
+        "concepts/delegation-interaction-paradigm.md"
+      ],
+      "last_ingested": "2026-06-10"
     },
     "raw/agent/Agent岗位要求.md": {
       "sha256": "6ad30aa7146423db6b093416a282284ae2d14d137c4ec2c5bc138d46bbcb3fb7",

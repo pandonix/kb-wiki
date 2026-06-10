@@ -32,6 +32,23 @@ Boris Cherny 指出，Anthropic 从成立开始最核心的使命一直是 AI �
 - 从 CLI → 桌面端/移动端/Slack/GitHub 等多场景扩展
 - 产品和模型在同一个循环里共同演化——全公司都在用 Claude Code
 
+### 一周年：两次认知跃迁（2026.6）
+
+上线一年后，Anthropic 内部经历了两次认知跃迁：^[raw/articles/2026-06-09-Claude-Code一周年回顾-两次认知跃迁.md]
+
+1. **第一次**：工程师意识到不必亲手写代码，可以用自然语言让 Agent 写代码
+2. **第二次**：工程师不再直接对话单个 Agent，而是通过 loop、routine、agent view、remote control 等机制调度一批 Agent——Boris 的工作方式变成用一个 Agent 驱动一批 Agent，再由这些拆出更多 Agent，形成树状并行任务结构
+3. **第三次（进行中）**：Agent 运行时间更长、自主性更强、并发数量更大
+
+### Routine / Loop 模式
+工程师可以让 Claude Code Agent 常驻监听 GitHub issue、bug 反馈、CI、review、rebase 等事件，满足规则后自动修复、提交 PR、通知 owner。这代表了从"人驱动 Agent"到"Agent 主动运作"的质变。^[raw/articles/2026-06-09-Claude-Code一周年回顾-两次认知跃迁.md]
+
+### Auto Mode 安全逻辑
+不要让人审批每一个工具调用，而是用另一个模型筛选风险，把人的注意力集中到真正重要的请求上。这被认为比大量弹窗式人工确认更安全。^[raw/articles/2026-06-09-Claude-Code一周年回顾-两次认知跃迁.md]
+
+### 跨职能扩散
+Claude Code 使用已跨出工程团队：设计师改代码、产品经理改功能、财务团队做预测、数据科学家当标配工具。代码执行能力开始把产品、设计、财务、工程等角色边界拉近。^[raw/articles/2026-06-09-Claude-Code一周年回顾-两次认知跃迁.md]
+
 ## 组织文化
 
 ### Member of Technical Staff（MTS）
@@ -65,3 +82,5 @@ Boris 的建议：
 - [[claw-code-runtime]] — Anthropic 风格的 agent runtime 开源实现
 - [[economy-of-minds]] — Anthropic/DeepMind 的多 Agent 协调研究方向
 - [[solipsistic-superintelligence]] — DeepMind 对 LLM 合作能力的诊断
+- [[agent-routine-loop]] — Routine/Loop：Agent 常驻监听事件的自主运行模式
+- [[claude-code]] — Claude Code 产品与一周年回顾

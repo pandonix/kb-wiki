@@ -21,6 +21,7 @@ Boris Cherny 是 Anthropic 的技术成员（Member of Technical Staff），Clau
 - Claude Code 不是单纯的编程工具，而是 Anthropic 用来**观察模型进入真实世界的实验平台** ^[raw/articles/Claude Code之父：品味不是人类护城河；当工程师不再写代码，招聘看什么？.md]
 - 真正决定 Claude Code 上限的是底层模型能力提升（Sonnet 4 → Opus 4 → Opus 4.5），而非产品功能
 - 他自己已有半年没有亲手写代码，工作变成写 Loops——程序替他向 Claude 下达指令
+- 一周年时，Boris 的工作方式已进化成：用一个 Agent 驱动一批 Agent，再由这些 Agent 拆出更多 Agent，形成**树状并行任务结构** ^[raw/articles/2026-06-09-Claude-Code一周年回顾-两次认知跃迁.md]
 
 ### 编程抽象层级上移
 
@@ -49,3 +50,6 @@ Boris Cherny 是 Anthropic 的技术成员（Member of Technical Staff），Clau
 - [[ai-native-organization]] — MTS 头衔、Generalist、token 预算等组织实践
 - [[ai-commoditization-boundary]] — 品味被侵蚀，价值观成为最后防线
 - [[ai-era-scarce-capabilities]] — 人的稀缺性继续上移到价值取舍
+- [[agent-routine-loop]] — Loop/树状 Agent 协调是 Boris 工作方式的核心
+- [[multi-agent-collaboration]] — 树状并行任务结构的多 Agent 实践
+- [[claude-code]] — Claude Code 产品

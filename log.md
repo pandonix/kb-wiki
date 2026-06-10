@@ -596,3 +596,16 @@ Total pages: 129 → 130
 - 3 pre-existing broken wikilinks noted (claude-code, context-rot, first-principles-thinking)
 - All raw frontmatter validated (6/6 have ingested + sha256)
 - Manifest updated: 447 files, all marked built
+
+## [2026-06-10] ingest | Obsidian notes daily sync
+- Phase: full pipeline (copy → batch ingest → reconcile → audit)
+- Source: 3 new files from Obsidian (2 articles + 1 agent vault)
+- New raw files: raw/articles/2026-06-08-人人都聊未来产业无人关心未来社会.md, raw/articles/2026-06-09-Claude-Code一周年回顾-两次认知跃迁.md, raw/agent/微信AI Agent.md
+- New entities: annalee-saxenian, claude-code, lyu-peng, zhang-xiaolong, ma-huateng (5)
+- New concepts: agent-routine-loop, delegation-interaction-paradigm, future-society-social-infrastructure, platform-agent-centralization, wechat-ai-agent, agent-delegation-trap (6)
+- Updated pages: anthropic, boris-cherny, tencent, context-engineering, multi-agent-collaboration, future-society-social-infrastructure, tech-revolution-financial-capital (7)
+- Orphans fixed: annalee-saxenian, lyu-peng (added inbound links from related pages)
+- Broken wikilinks fixed: ma-huateng, agent-delegation-trap (created stub pages)
+- Wiki total: 170 → 181 pages
+- Manifest: 447 → 450 raw files, all marked built
+

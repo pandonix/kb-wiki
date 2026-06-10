@@ -74,3 +74,10 @@ Chroma 团队的实验揭示了三大因素：
 - [[agent-skills]] — Agent Skills
 - [[context-rot]] — Context Rot 专项深入（待建）
 - [[multi-agent-collaboration]] — 多 Agent 协作模式
+- [[agent-routine-loop]] — Routine/Loop 模式下 Agent 自主检索上下文
+
+## 方向转变：从塞上下文到给途径
+
+Anthropic 内部观察到上下文工程的新方向：从"精心塞上下文"转向"给 Agent 获取上下文的途径"——减少微观管理，让模型自行拉取必要信息。^[raw/articles/2026-06-09-Claude-Code一周年回顾-两次认知跃迁.md]
+
+这与此前的 Just-in-Time Context 策略一脉相承，但更进一步：不仅是"动态获取"，而是让 Agent 具备可追溯的上下文入口（如 `CLAUDE.md`、skill 文件、项目文档），自主决定何时及如何检索信息，而非由人微观管理全部背景。^[raw/articles/2026-06-09-Claude-Code一周年回顾-两次认知跃迁.md]
