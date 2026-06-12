@@ -1,10 +1,10 @@
 ---
 title: AI 基础设施资本开支
 created: 2026-05-08
-updated: 2026-05-08
+updated: 2026-06-12
 type: concept
-tags: [invest, infra, growing]
-sources: [raw/articles/以下分析基于过去 18 个月对全球 AI 基础设施 capex 的跟踪，博采多位机构和民间分析师思想精华, 并基于全球领先的金融AI —— BeanBag AI进行的深度研究。这不是一篇消费股推荐, 这是一篇被忽.md]
+tags: [invest, infra, energy, growing]
+sources: [raw/articles/以下分析基于过去 18 个月对全球 AI 基础设施 capex 的跟踪，博采多位机构和民间分析师思想精华, 并基于全球领先的金融AI —— BeanBag AI进行的深度研究。这不是一篇消费股推荐, 这是一篇被忽.md, raw/articles/2026-06-12-AI原生能源公司正在成为硅谷新物种.md]
 confidence: medium
 ---
 
@@ -67,3 +67,5 @@ AI 不再只在云上，还进入汽车/机器人/边缘设备。模型训练可
 - [[duan-yongping]] — 段永平对英伟达/AI capex 的判断
 - [[ai-bubble-debate]] — AI 泡沫辩论：基础设施 capex 是否过度
 - [[arvind-krishna]] — IBM CEO Arvind Krishna 对 AI infra 泡沫的判断
+- [[ai-native-energy-company]] — AI 原生能源公司：电力瓶颈的软件解法
+- [[energy-transition-geopolitics]] — 能源转型与全球格局

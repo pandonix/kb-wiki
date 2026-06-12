@@ -31,4 +31,4 @@ Musk 在 SpaceX 和 Tesla 的工程与生产实践中总结出一套**流程改�
 - [[musk-algorithm]] — 马斯克五步工作法详解
 - [[harness-engineering]] — 驾驭工程方法论
 - [[pact-framework]] — PACT 实验框架（另一种工作方法论）
-- [[first-principles-thinking]] — 第一性原理（Musk 标志性思维方法）
+- 第一性原理思维（First Principles Thinking）— Musk 标志性思维方法

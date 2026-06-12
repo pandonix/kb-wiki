@@ -1,10 +1,10 @@
 ---
 title: AI 时代的外包思考风险
 created: 2026-05-29
-updated: 2026-05-29
+updated: 2026-06-12
 type: concept
 tags: [philosophy, agent, thought]
-sources: [raw/articles/谷歌辞职、创业失败、重读神经科学，她说 AI 时代最危险的事是外包你的思考 ｜ 万有引力.md]
+sources: [raw/articles/谷歌辞职、创业失败、重读神经科学，她说 AI 时代最危险的事是外包你的思考 ｜ 万有引力.md, raw/articles/2026-06-11-人是最慢的节点还怎么管AI-Agent.md]
 confidence: high
 ---
 
@@ -52,3 +52,5 @@ Anne-Laure 引用神经科学中的「生成效应」：当你用自己的语言
 - [[pact-framework]] — PACT 小实验方法论
 - [[cognitive-scripts]] — 认知剧本：续集、讨好者、史诗
 - 生成效应（Generation Effect）与自我输出
+- [[zhang-jiayuan]] — 张佳圆：AI 时代思考退化的亲历者视角
+- [[agent-idle-rate]] — Agent 空闲率：人成为瓶颈的另一面

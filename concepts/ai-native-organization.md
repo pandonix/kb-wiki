@@ -1,10 +1,10 @@
 ---
 title: AI Native 组织模式
 created: 2026-05-22
-updated: 2026-06-08
+updated: 2026-06-12
 type: concept
-tags: [management, agent, company]
-sources: [raw/articles/组织能力才是 AI 公司真正的壁垒｜42章经.md, raw/articles/2026-05-28-AI越强人越忙一个住在未来的人说了什么.md, raw/articles/2026-06-01-AI-native下组织形式思考.md, raw/articles/2026-06-01-一个理想的组织是AI Agent在组织人.md, raw/articles/Claude Code之父：品味不是人类护城河；当工程师不再写代码，招聘看什么？.md]
+tags: [management, agent, company, ml]
+sources: [raw/articles/组织能力才是 AI 公司真正的壁垒｜42章经.md, raw/articles/2026-05-28-AI越强人越忙一个住在未来的人说了什么.md, raw/articles/2026-06-01-AI-native下组织形式思考.md, raw/articles/2026-06-01-一个理想的组织是AI Agent在组织人.md, raw/articles/Claude Code之父：品味不是人类护城河；当工程师不再写代码，招聘看什么？.md, raw/articles/2026-06-11-人是最慢的节点还怎么管AI-Agent.md]
 confidence: medium
 ---
 
@@ -76,6 +76,40 @@ confidence: medium
 - [[soul-team]] — Soul Team：AI 原生组织的叙事一致性团队
 - [[boris-cherny]] — Anthropic MTS：Generalist 黄金时代与 Token 预算
 - [[anthropic]] — Anthropic 的组织实践：MTS、Builder、少招人多给 Token
+- [[multica]] — Multica：4 人 + 几十 Agent 的 AI 原生组织样本
+- [[zhang-jiayuan]] — 张佳圆：人是 AI 原生组织的效率瓶颈
+- [[agent-idle-rate]] — Agent 空闲率
+
+## AI Outcome Pod：AI-native 的基本组织单元
+
+## Multica：4 人 + 几十 Agent 的极限样本
+
+[[zhang-jiayuan]] 的 Multica（[[multica]]）提供了最小规模 AI Native 组织的实战样本：4 人团队 + 几十个 Agent（常用约 10-15 个）。^[raw/articles/2026-06-11-人是最慢的节点还怎么管AI-Agent.md]
+
+### 组织变革：去掉中间传递层
+- 去掉人与 Agent 之间的中间传递层——过去多人协作中 context 经人传递再给 AI 造成信息损耗
+- 一人端到端负责完整环节（PRD → 研发 → 测试 → 验收）
+- 所有人都是 builder，没有固定岗位边界
+
+### 工作节奏
+- **周一 weekly planning**：Agent 提前准备会议文档和数据分析
+- **每晚 6 点 demo 站会**：Agent 整理当天提交，demo 后直接部署，不 review 代码
+- 其余时间：每个人和自己的 Agent 完成本周任务
+
+### 核心指标：Agent idle 率
+通过 Agent 空闲率衡量组织 AI Native 程度。张佳圆指出多数人 Agent 满载仅 2-3 小时/天，20+ 小时闲置。「假设 Agent 可以一天运行 24 小时，你为什么让它只运行 14 个小时？」详见 [[agent-idle-rate]]。
+
+### Agent 淘汰制与分工
+- 已上岗 Agent 岗位：coding（每人本地 + 公共 Mac Mini）、数据分析、部署运维、GTM
+- 一键淘汰无效 Agent
+- 判断标准：需要和人沟通的工作（用户运营/访谈）给人类，其余配 Agent + 人 review
+
+### 招募标准：high agency
+「你再怎么强，也很难强过 Agent。」招人看自主能动性，不在意背景/专业/经验。
+
+### 未解张力
+- **信任**：1000+ 完成的任务仍在等待人工 review
+- **思考退化**：AI 大量介入后，人的思考过程在降低。张佳圆每天刻意写 journal 保留独立思考
 
 ## AI Outcome Pod：AI-native 的基本组织单元
 

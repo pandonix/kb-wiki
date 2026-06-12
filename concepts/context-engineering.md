@@ -72,7 +72,7 @@ Chroma 团队的实验揭示了三大因素：
 - [[ai-coding-agent]] — AI Coding Agent 工程方法论
 - [[agent-memory]] — Agent 记忆系统
 - [[agent-skills]] — Agent Skills
-- [[context-rot]] — Context Rot 专项深入（待建）
+- Context Rot — 上下文腐烂现象（待深入研究）
 - [[multi-agent-collaboration]] — 多 Agent 协作模式
 - [[agent-routine-loop]] — Routine/Loop 模式下 Agent 自主检索上下文
 

@@ -609,3 +609,19 @@ Total pages: 129 → 130
 - Wiki total: 170 → 181 pages
 - Manifest: 447 → 450 raw files, all marked built
 
+## [2026-06-12] ingest | Daily sync batch: 3 raw source files
+- Source files: 2026-06-11-人是最慢的节点还怎么管AI-Agent.md (52KB, 腾讯研究院/Multica访谈), 2026-06-11-构建OpenAI做不了的双边网络这家AI原生营销平台增长凶猛.md (16KB, 36氪/AhaCreator), 2026-06-12-AI原生能源公司正在成为硅谷新物种.md (16KB, 腾讯科技/AI能源)
+- Raw frontmatter: added ingested + sha256 + source_url to all 3 files
+- SCHEMA.md: added `energy` and `marketing` tags to taxonomy
+- New entities: zhang-jiayuan, multica, ahacreator (3)
+- New concepts: agent-idle-rate, ai-bilateral-platform-moat, ai-native-energy-company (3)
+- Updated pages: multi-agent-collaboration (O/W/V三类角色+两层结构+单vs多Agent漂移), ai-native-organization (Multica 4人+Agent样本+Agent idle率), outsourcing-thinking-ai (张佳圆思考退化), agent-delegation-trap (人类review瓶颈), ai-infra-capex (能源瓶颈细节) (5)
+- Wiki total: 181 → 187 pages
+
+## [2026-06-12] reconcile | Post-ingest reconciliation
+- Index rebuilt from filesystem: 187 pages
+- Broken wikilinks fixed: [[first-principles-thinking]] → plain text in elon-musk.md, [[context-rot]] → plain text in context-engineering.md (2/2)
+- Orphans detected: 8 pre-existing (analogical-overshadowing, antique-market-lemons, ba-vs-sa-boundary, emergency-psychological-response, hidden-fatigue, lee-kuan-yew-leadership, sincerity-communication, three-career-scripts-analysis)
+- Frontmatter validated: all 3 new raw files OK
+- Manifest: 453/453 marked built
+

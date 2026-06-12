@@ -1,10 +1,10 @@
 ---
 title: 多 Agent 协作模式
 created: 2026-04-24
-updated: 2026-06-10
+updated: 2026-06-12
 type: concept
-tags: [ml, coding, infra, agent]
-sources: [raw/articles/Codex的多Agent并行开发指南.md, raw/articles/How To Be A World-Class Agentic Engineer.md, raw/papers/MATRAG Multi-Agent Transparent Retrieval-Augmented Generation for Explainable Recommendations.md, raw/articles/新一代记忆智能体框架MIA：让智能体告别「失忆式工作」，在持续进化中变强.md, raw/articles/可能是目前最好的Agent课程！吴恩达官宣新课《Agentic AI》，手把手教你构建AI智能体.md, raw/articles/来自BlackRock的AlphaAgents 基于多Agents的LLM在股票研究和投资组合管理中的应用.md, raw/articles/AI 不会合作？那是因为他们没见过市场经济｜Hao好聊趋势.md, raw/articles/2026-06-09-Claude-Code一周年回顾-两次认知跃迁.md]
+tags: [ml, coding, infra, agent, management]
+sources: [raw/articles/Codex的多Agent并行开发指南.md, raw/articles/How To Be A World-Class Agentic Engineer.md, raw/papers/MATRAG Multi-Agent Transparent Retrieval-Augmented Generation for Explainable Recommendations.md, raw/articles/新一代记忆智能体框架MIA：让智能体告别「失忆式工作」，在持续进化中变强.md, raw/articles/可能是目前最好的Agent课程！吴恩达官宣新课《Agentic AI》，手把手教你构建AI智能体.md, raw/articles/来自BlackRock的AlphaAgents 基于多Agents的LLM在股票研究和投资组合管理中的应用.md, raw/articles/AI 不会合作？那是因为他们没见过市场经济｜Hao好聊趋势.md, raw/articles/2026-06-09-Claude-Code一周年回顾-两次认知跃迁.md, raw/articles/2026-06-11-人是最慢的节点还怎么管AI-Agent.md]
 confidence: high
 ---
 
@@ -55,6 +55,23 @@ SkillsBench 数据显示 2-3 个 Skill/Agent 协同效果最好（+18.6pp），4
 ## Orchestrator-Worker 的结构性局限
 
 当前最受欢迎的多 Agent 架构是 Orchestrator-Worker（编排者-执行者）模式——一个中心 Agent 负责理解需求、拆解任务、路由分发、汇总结果。但这套"计划经济"系统面临三个结构性绝境：^[raw/articles/AI 不会合作？那是因为他们没见过市场经济｜Hao好聊趋势.md]
+
+### Multica 的三类角色模型
+
+[[zhang-jiayuan]] 将 Agent 协作归结为三类角色：^[raw/articles/2026-06-11-人是最慢的节点还怎么管AI-Agent.md]
+
+- **Orchestrator（协调者）**：类似项目经理，做任务拆分和分配
+- **Worker（执行者）**：接到 task 开始干活
+- **Validator（验证者）**：对执行结果做验证
+
+层级建议最多两层——人类组织需要多层是因为人的带宽有限，但 Agent 没有这个限制。「建太多层级，是对人类这种低效组织的一个拙劣模仿。」^[raw/articles/2026-06-11-人是最慢的节点还怎么管AI-Agent.md]
+
+### 单 Agent vs 多 Agent：漂移与 Bias
+
+单 Agent 处理长 session 的问题：^[raw/articles/2026-06-11-人是最慢的节点还怎么管AI-Agent.md]
+- **漂移（Drift）**：session 长后 compact 压缩造成信息损失，Agent 不再 follow 之前讨论
+- **Bias（偏见）**：同一 Agent 既做裁判又做运动员，天然偏向自己的结果
+- Multica 的解法：不给 Agent 强制规定必须读哪些上下文，让它动态判断用什么工具、读哪些上下文
 
 ### 生产实践中的树状嵌套模式
 
@@ -120,6 +137,8 @@ UIUC 等联合研究：10 个 Agent、20 轮交互，零成本合作（帮别人
 - [[friedrich-hayek]] — 哈耶克的知识分散诅咒与多 Agent 系统的映射
 - [[agent-routine-loop]] — Routine/Loop：Agent 常驻监听与事件驱动的树状并行结构
 - [[claude-code]] — Claude Code 上的多 Agent 实践
+- [[multica]] — Multica 开源 Agent 编排平台
+- [[agent-idle-rate]] — Agent 空闲率
 
 ## MATRAG：推荐系统中的多 Agent 拆分
 

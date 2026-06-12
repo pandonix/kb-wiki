@@ -1,19 +1,20 @@
 # Wiki Index
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
-> Last updated: 2026-06-10
+> Last updated: 2026-06-12
 
 ## Entities
+- [[ahacreator]] — AhaCreator
 - [[andrew-ng]] — 吴恩达 (Andrew Ng)
+- [[annalee-saxenian]] — AnnaLee Saxenian
 - [[anne-laure-le-cunff]] — Anne-Laure Le Cunff
-- [[annalee-saxenian]] — AnnaLee Saxenian：《区域优势》作者，产业集群胜负手在社会结构
 - [[anthropic]] — Anthropic
 - [[arvind-krishna]] — Arvind Krishna
 - [[backtrader]] — Backtrader
 - [[berkshire]] — 伯克希尔·哈撒韦
 - [[boris-cherny]] — Boris Cherny
 - [[carlota-perez]] — Carlota Perez
-- [[claude-code]] — Claude Code：Anthropic AI 编程 Agent，一周年两次认知跃迁
+- [[claude-code]] — Claude Code
 - [[dan-koe]] — Dan Koe
 - [[demis-hassabis]] — Demis Hassabis
 - [[duan-yongping]] — 段永平
@@ -27,25 +28,28 @@
 - [[intj]] — INTJ
 - [[juzi-orange]] — 橘子（冯雷）— ColaOS / ListenHub 创始人
 - [[karpathy]] — Andrej Karpathy
-- [[lyu-peng]] — 吕鹏：中国社科院社会学研究员，未来产业 vs 未来社会不对称
-- [[ma-huateng]] — 马化腾（Pony Ma）：腾讯创始人，去中心化产品哲学
+- [[lyu-peng]] — 吕鹏（Lyu Peng）
+- [[ma-huateng]] — 马化腾（Ma Huateng / Pony Ma）
 - [[marcos-lopez-de-prado]] — Marcos López de Prado
 - [[minimax]] — MiniMax
+- [[multica]] — Multica
 - [[stanford-ai-index-2026]] — Stanford HAI AI Index Report 2026
 - [[tang-daosheng]] — 汤道生（Tang Daosheng）
 - [[tencent]] — 腾讯（Tencent）
 - [[veighna]] — VeighNa (vn.py)
 - [[wu-si]] — 吴思
 - [[yao-shunyu]] — 姚顺雨（Yao Shunyu）
-- [[zhang-xiaolong]] — 张小龙：微信之父，去中心化产品哲学与 Agent 张力的裁决者
+- [[zhang-jiayuan]] — 张佳圆
+- [[zhang-xiaolong]] — 张小龙（Zhang Xiaolong）
 
 ## Concepts
 - [[agent-data-governance]] — 企业Agent数据治理
-- [[agent-delegation-trap]] — Agent 委托陷阱：自主权越大，用户对执行链条的理解越空洞
+- [[agent-delegation-trap]] — Agent 委托陷阱
 - [[agent-developer-capability]] — Agent 开发者的三维能力立方体
+- [[agent-idle-rate]] — Agent 空闲率
 - [[agent-memory]] — Agent 记忆系统
 - [[agent-owner-role]] — 每个 Agent 都需要一个人：Agent Owner 角色
-- [[agent-routine-loop]] — Agent Routine/Loop 模式：常驻监听事件、自主触发、闭环处理
+- [[agent-routine-loop]] — Agent Routine / Loop 模式
 - [[agent-skills]] — Agent Skills
 - [[agentic-ai]] — Agentic AI（智能体 AI）
 - [[agentic-forecasting]] — Agentic Forecasting
@@ -53,6 +57,7 @@
 - [[ai-alignment]] — AI Alignment
 - [[ai-aphasia]] — AI 失语与错误谱系
 - [[ai-architecture-governance]] — AI 时代架构治理
+- [[ai-bilateral-platform-moat]] — AI 双边平台护城河
 - [[ai-bubble-debate]] — AI 泡沫辩论
 - [[ai-code-adoption]] — AI 代码采纳率
 - [[ai-code-review]] — AI Code Review 实践
@@ -67,6 +72,7 @@
 - [[ai-infra-capex]] — AI 基础设施资本开支
 - [[ai-judgment-baseline]] — AI 时代的判断力基线
 - [[ai-native-bank]] — AI 原生银行
+- [[ai-native-energy-company]] — AI 原生能源公司
 - [[ai-native-engineering-management]] — AI 时代工程团队管理
 - [[ai-native-organization]] — AI Native 组织模式
 - [[ai-organization-adoption]] — AI 组织采纳困境
@@ -99,7 +105,7 @@
 - [[copilot-learning]] — Copilot 与学习效果
 - [[declarative-architecture]] — 声明式架构
 - [[deepseek-v4-architecture]] — DeepSeek-V4 长上下文架构
-- [[delegation-interaction-paradigm]] — 委托式交互范式：从直接操作到委托 Agent 的交互跃迁
+- [[delegation-interaction-paradigm]] — 委托式交互范式
 - [[desire-scarcity-migration]] — 人的欲望与稀缺迁移
 - [[dialectical-materialism]] — 辩证唯物主义
 - [[dual-role-management]] — 兼岗分析
@@ -115,7 +121,7 @@
 - [[fixed-income-vs-equity]] — 固收与股权投资的差异
 - [[flow-2dot0]] — 流量 2.0
 - [[forward-deployed-engineer-ai]] — 前沿部署工程师（Forward Deployed Engineer for AI）
-- [[future-society-social-infrastructure]] — 未来社会与社会基础设施：产业需要社会底座的五个维度
+- [[future-society-social-infrastructure]] — 未来社会与社会基础设施
 - [[harness-engineering]] — Harness Engineering
 - [[hidden-fatigue]] — 隐形过度疲劳
 - [[hierarchy-to-intelligence]] — 科层制到智慧型组织
@@ -149,7 +155,7 @@
 - [[pareto-inefficiency]] — 帕累托无效与共谋均衡
 - [[people-goods-scene-banking]] — 人货场视角下的银行金融服务
 - [[personal-ai-framework]] — 个人 AI 认知框架（六层结构）
-- [[platform-agent-centralization]] — 平台 Agent 的中心化张力：四股引力与去中心化难题
+- [[platform-agent-centralization]] — 平台 Agent 的中心化张力
 - [[private-fund-evaluation]] — 私募产品能力评估
 - [[psychological-scripts]] — 心理脚本：主体性外化的三种生存策略
 - [[psychological-survival]] — 心理生存与身份守护
@@ -178,7 +184,7 @@
 - [[utility-vs-skill]] — Utility与Skill：为什么判断力写不进规则
 - [[vibe-reading]] — Vibe Reading
 - [[vibe-slop]] — Vibe Slop：AI 编程垃圾与 Eternal Sloptember
-- [[wechat-ai-agent]] — 微信 AI Agent：聊天即执行，小程序生态的 Agent 化
+- [[wechat-ai-agent]] — 微信 AI Agent
 - [[wechat-relationship-chain-value]] — 微信关系链的四层价值模型
 - [[writing-techniques]] — 公众号写作技巧
 
@@ -192,4 +198,4 @@
 - [[three-career-scripts-analysis]] — 三种职业限制脚本的Wiki交叉分析
 - [[wechat-moat-ai-era]] — 微信护城河在 AI 时代是否会被打破 — Wiki 交叉分析
 
-> Total pages: 181
+> Total pages: 187

@@ -1,10 +1,10 @@
 ---
 title: Agent 委托陷阱
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-06-12
 type: concept
 tags: [agent, alignment, thought]
-sources: [raw/agent/微信AI Agent.md]
+sources: [raw/agent/微信AI Agent.md, raw/articles/2026-06-11-人是最慢的节点还怎么管AI-Agent.md]
 confidence: medium
 ---
 
@@ -33,3 +33,5 @@ Agent 委托陷阱指：当用户将任务委托给 Agent 后，由于信息不�
 - [[wechat-ai-agent]] — 微信 AI Agent
 - [[outsourcing-thinking-ai]] — AI 时代的外包思考风险
 - [[human-on-the-loop]] — 人在环上
+- [[multica]] — Multica：1000+ 任务等待人工 review 的信任鸿沟
+- [[zhang-jiayuan]] — 张佳圆：人是组织效率瓶颈
