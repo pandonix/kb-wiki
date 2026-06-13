@@ -1061,7 +1061,10 @@
     "raw/articles/2026-06-12-AI原生能源公司正在成为硅谷新物种.md": {
       "sha256": "5d6d579d3c32b33eab897785ace8c1dff5b1d302f570d4359eb4835e9c37e93f",
       "built": true,
-      "wiki_pages": [],
+      "wiki_pages": [
+        "concepts/ai-infra-capex.md",
+        "concepts/ai-native-energy-company.md"
+      ],
       "last_ingested": "2026-06-12"
     },
     "raw/articles/当AI恐慌席卷硅谷，这位管理2000人的CEO却说：AI不会抢你的工作.md": {
@@ -1808,7 +1811,15 @@
     "raw/articles/2026-06-11-人是最慢的节点还怎么管AI-Agent.md": {
       "sha256": "561dd04cec7a00451096f559128c5ee56315a6095a2620ecc88d6744351ee5f3",
       "built": true,
-      "wiki_pages": [],
+      "wiki_pages": [
+        "entities/multica.md",
+        "entities/zhang-jiayuan.md",
+        "concepts/outsourcing-thinking-ai.md",
+        "concepts/ai-native-organization.md",
+        "concepts/multi-agent-collaboration.md",
+        "concepts/agent-delegation-trap.md",
+        "concepts/agent-idle-rate.md"
+      ],
       "last_ingested": "2026-06-12"
     },
     "raw/articles/《生成式人工智能服务安全基本要求》-全国网络安全标准化技术委员会.pdf.md": {
@@ -2039,7 +2050,10 @@
     "raw/articles/2026-06-11-构建OpenAI做不了的双边网络这家AI原生营销平台增长凶猛.md": {
       "sha256": "4d19c94ff138aba8ec8cfdcef005f12af641330c735f6f059058d0a86cff269e",
       "built": true,
-      "wiki_pages": [],
+      "wiki_pages": [
+        "entities/ahacreator.md",
+        "concepts/ai-bilateral-platform-moat.md"
+      ],
       "last_ingested": "2026-06-12"
     },
     "raw/articles/4 人起步，Next.js 之父带队冲出Agent爆款：开发者用户一年超过去十年，一秒生成 7 个应用！.md": {
