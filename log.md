@@ -625,3 +625,21 @@ Total pages: 129 → 130
 - Frontmatter validated: all 3 new raw files OK
 - Manifest: 453/453 marked built
 
+## [2026-06-16] ingest | batch 1/1: 技术革命泡沫 + Token资本 (2 files)
+- Ingested 2 raw source files
+- Raw file 1: `2026-06-14-"技术革命200年"系列之四：穿越泡沫.md` — url→source_url, +ingested, +sha256 (ce4497f6)
+- Raw file 2: `2026-06-15-微软CEO长文提出新概念token资本-AI时代企业生死的关键.md` — url→source_url, +ingested, +sha256 (d441c3ac)
+- **New concepts (3)**:
+  - [[productivity-j-curve]] — 生产率J曲线：GPT引入后生产率先下降后加速的组织重构滞后规律
+  - [[two-stage-tech-bubble]] — 两阶段技术泡沫模型：基建泡沫→应用泡沫的历史规律与AI三种路径
+  - [[token-capital]] — Token资本：Nadella的"人力资本+Token资本"双框架，企业AI学习闭环与主权
+- **New entities (2)**:
+  - [[satya-nadella]] — 萨提亚·纳德拉：微软CEO，Token资本/Build/算力集群等概念提出者
+  - [[microsoft]] — 微软：AI时代核心玩家，OpenAI最大投资者，Azure云基础设施
+- **Updated pages (3)**:
+  - [[ai-native-organization]] — +token-capital cross-reference, +soul-team restored
+  - [[ai-bubble-debate]] — +two-stage-tech-bubble, +productivity-j-curve cross-references
+  - [[tech-revolution-financial-capital]] — +productivity-j-curve, +two-stage-tech-bubble cross-references, updated date
+- Wiki total: 187 → 192 pages
+
+

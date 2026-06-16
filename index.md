@@ -1,9 +1,10 @@
 # Wiki Index
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
-> Last updated: 2026-06-12
+> Last updated: 2026-06-16
 
-## Entities
+## Entities (39)
+
 - [[ahacreator]] — AhaCreator
 - [[andrew-ng]] — 吴恩达 (Andrew Ng)
 - [[annalee-saxenian]] — AnnaLee Saxenian
@@ -31,8 +32,10 @@
 - [[lyu-peng]] — 吕鹏（Lyu Peng）
 - [[ma-huateng]] — 马化腾（Ma Huateng / Pony Ma）
 - [[marcos-lopez-de-prado]] — Marcos López de Prado
+- [[microsoft]] — 微软
 - [[minimax]] — MiniMax
 - [[multica]] — Multica
+- [[satya-nadella]] — 萨提亚·纳德拉
 - [[stanford-ai-index-2026]] — Stanford HAI AI Index Report 2026
 - [[tang-daosheng]] — 汤道生（Tang Daosheng）
 - [[tencent]] — 腾讯（Tencent）
@@ -42,7 +45,8 @@
 - [[zhang-jiayuan]] — 张佳圆
 - [[zhang-xiaolong]] — 张小龙（Zhang Xiaolong）
 
-## Concepts
+## Concepts (147)
+
 - [[agent-data-governance]] — 企业Agent数据治理
 - [[agent-delegation-trap]] — Agent 委托陷阱
 - [[agent-developer-capability]] — Agent 开发者的三维能力立方体
@@ -157,6 +161,7 @@
 - [[personal-ai-framework]] — 个人 AI 认知框架（六层结构）
 - [[platform-agent-centralization]] — 平台 Agent 的中心化张力
 - [[private-fund-evaluation]] — 私募产品能力评估
+- [[productivity-j-curve]] — 生产率 J 曲线
 - [[psychological-scripts]] — 心理脚本：主体性外化的三种生存策略
 - [[psychological-survival]] — 心理生存与身份守护
 - [[quant-backtesting]] — 量化回测框架
@@ -180,7 +185,9 @@
 - [[technology-trap]] — 技术陷阱
 - [[think-make-framework]] — Think/Make 精力分配框架
 - [[three-poisons]] — 佛家三毒：贪嗔痴
+- [[token-capital]] — Token 资本
 - [[token-economics]] — Token 经济
+- [[two-stage-tech-bubble]] — 两阶段技术泡沫模型
 - [[utility-vs-skill]] — Utility与Skill：为什么判断力写不进规则
 - [[vibe-reading]] — Vibe Reading
 - [[vibe-slop]] — Vibe Slop：AI 编程垃圾与 Eternal Sloptember
@@ -188,14 +195,16 @@
 - [[wechat-relationship-chain-value]] — 微信关系链的四层价值模型
 - [[writing-techniques]] — 公众号写作技巧
 
-## Comparisons
+## Comparisons (3)
+
 - [[ai-code-adoption-vs-review]] — AI 代码采纳率 vs AI Code Review
 - [[ai-soe-reform-comparison]] — AI浪潮与90年代国企改革：两种劳动再配置
 - [[nev-vs-real-estate-macro]] — 新能源车与房地产的宏观角色对比
 
-## Queries
+## Queries (3)
+
 - [[ai-writing-literary-mistake]] — AI 写作是否是文学史上最大的错误 — Wiki 交叉分析
 - [[three-career-scripts-analysis]] — 三种职业限制脚本的Wiki交叉分析
 - [[wechat-moat-ai-era]] — 微信护城河在 AI 时代是否会被打破 — Wiki 交叉分析
 
-> Total pages: 187
+> Total pages: 192

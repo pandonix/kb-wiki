@@ -1,7 +1,7 @@
 ---
 title: 技术革命与金融资本
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-06-16
 type: concept
 tags: [invest, political-economy, philosophy, summary]
 sources: [raw/papers/技术革命与金融资本.md]
@@ -85,5 +85,7 @@ Carlota Perez 提出的统一框架，将过去两百年的五次技术革命归
 - [[ai-economy-impact]] — AI 经济影响
 - [[capitalist-realism]] — 资本主义现实主义
 - [[kondratiev-wave]] — 康波周期（互补长波理论）
+- [[productivity-j-curve]] — 生产率 J 曲线
+- [[two-stage-tech-bubble]] — 两阶段技术泡沫模型
 - [[annalee-saxenian]] — AnnaLee Saxenian：《区域优势》作者，产业集群胜负手在社会结构
 - [[future-society-social-infrastructure]] — 未来社会与社会基础设施

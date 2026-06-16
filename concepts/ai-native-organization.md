@@ -1,7 +1,7 @@
 ---
 title: AI Native 组织模式
 created: 2026-05-22
-updated: 2026-06-12
+updated: 2026-06-16
 type: concept
 tags: [management, agent, company, ml]
 sources: [raw/articles/组织能力才是 AI 公司真正的壁垒｜42章经.md, raw/articles/2026-05-28-AI越强人越忙一个住在未来的人说了什么.md, raw/articles/2026-06-01-AI-native下组织形式思考.md, raw/articles/2026-06-01-一个理想的组织是AI Agent在组织人.md, raw/articles/Claude Code之父：品味不是人类护城河；当工程师不再写代码，招聘看什么？.md, raw/articles/2026-06-11-人是最慢的节点还怎么管AI-Agent.md]
@@ -73,12 +73,13 @@ confidence: medium
 - [[ai-native-bank]] — AI 原生银行：金融业的 AI Native 组织形态
 - [[ai-strategy-positioning]] — AI 战略定位与组织形态选择
 - [[ai-outcome-pod]] — AI Outcome Pod：人机混合结果单元
-- [[soul-team]] — Soul Team：AI 原生组织的叙事一致性团队
+- [[agent-idle-rate]] — Agent 空闲率
+- [[token-capital]] — Token 资本：Nadella 的双资本框架
 - [[boris-cherny]] — Anthropic MTS：Generalist 黄金时代与 Token 预算
 - [[anthropic]] — Anthropic 的组织实践：MTS、Builder、少招人多给 Token
 - [[multica]] — Multica：4 人 + 几十 Agent 的 AI 原生组织样本
 - [[zhang-jiayuan]] — 张佳圆：人是 AI 原生组织的效率瓶颈
-- [[agent-idle-rate]] — Agent 空闲率
+- [[soul-team]] — Soul Team：AI 原生组织的叙事一致性团队
 
 ## AI Outcome Pod：AI-native 的基本组织单元
 

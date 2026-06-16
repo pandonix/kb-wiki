@@ -1,7 +1,7 @@
 ---
 title: AI 泡沫辩论
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-06-16
 type: concept
 tags: [invest, infra, ml, summary]
 sources: [raw/agent/AI到底是不是泡沫.md]
@@ -50,3 +50,5 @@ Krishna 的担忧本质上符合 Minsky 金融不稳定假说：繁荣期投资�
 - [[ai-economy-impact]] — AI 经济影响全景
 - [[ai-second-half]] — AI 下半场与单位智能经济
 - [[ai-economy-subsidy-crisis]] — AI 补贴危机
+- [[two-stage-tech-bubble]] — 两阶段技术泡沫模型
+- [[productivity-j-curve]] — 生产率 J 曲线

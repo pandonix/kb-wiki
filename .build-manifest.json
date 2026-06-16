@@ -1,7 +1,7 @@
 {
   "version": 2,
   "last_build": "2026-05-26T18:45:00",
-  "total_raw": 453,
+  "total_raw": 455,
   "files": {
     "raw/马克思讲的异化.md": {
       "sha256": "8045f967752f3f87854c474e836e92508dc81a54fb5d9055614ace4f76f85f2a",
@@ -2480,6 +2480,12 @@
       "wiki_pages": [],
       "last_ingested": "2026-05-22"
     },
+    "raw/articles/2026-06-14-“技术革命200年”系列之四：穿越泡沫.md": {
+      "sha256": "e0d9e2bc3ce51b0461ef6ace948c330825b63b066a671d9d2836bd6d1a45f782",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": null
+    },
     "raw/articles/塔勒布：我从未见过有钱的预言家，在“肥尾”世界里普通人该怎么投？.md": {
       "sha256": "88d7e2457342f5e73a8ae55bfff60ea0dfa83f9007e2c00731057376d80584f5",
       "built": true,
@@ -2530,6 +2536,12 @@
       "built": true,
       "wiki_pages": [],
       "last_ingested": "2026-05-22"
+    },
+    "raw/articles/2026-06-15-微软CEO长文提出新概念token资本-AI时代企业生死的关键.md": {
+      "sha256": "750186ef9f9eb2f385f66d0ed0e0d029469903e7b8835484e071af539cff98fd",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": null
     },
     "raw/articles/8-解读《资治通鉴》 汉献帝篇.pdf.md": {
       "sha256": "943259079320885ec1499b5633991253a27869106d601f89ceb51c2c7d4908da",
