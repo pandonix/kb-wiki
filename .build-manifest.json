@@ -2483,7 +2483,10 @@
     "raw/articles/2026-06-14-“技术革命200年”系列之四：穿越泡沫.md": {
       "sha256": "e0d9e2bc3ce51b0461ef6ace948c330825b63b066a671d9d2836bd6d1a45f782",
       "built": true,
-      "wiki_pages": [],
+      "wiki_pages": [
+        "concepts/two-stage-tech-bubble.md",
+        "concepts/productivity-j-curve.md"
+      ],
       "last_ingested": null
     },
     "raw/articles/塔勒布：我从未见过有钱的预言家，在“肥尾”世界里普通人该怎么投？.md": {
@@ -2540,7 +2543,11 @@
     "raw/articles/2026-06-15-微软CEO长文提出新概念token资本-AI时代企业生死的关键.md": {
       "sha256": "750186ef9f9eb2f385f66d0ed0e0d029469903e7b8835484e071af539cff98fd",
       "built": true,
-      "wiki_pages": [],
+      "wiki_pages": [
+        "entities/microsoft.md",
+        "entities/satya-nadella.md",
+        "concepts/token-capital.md"
+      ],
       "last_ingested": null
     },
     "raw/articles/8-解读《资治通鉴》 汉献帝篇.pdf.md": {
