@@ -134,4 +134,5 @@ BlackTrader.md
 - [[backtrader]] — Python 经典回测框架（详细评测见实体页）
 - [[veighna]] — 国内最活跃量化框架（详细评测见实体页）
 - [[risk-management-ergodicity]] — 风险管理与遍历性
+- [[ergodicity-economics]] — 遍历经济学：回测中的时间平均与群体平均
 - [[options-basics]] — 期权基础

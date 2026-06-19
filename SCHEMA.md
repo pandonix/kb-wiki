@@ -67,6 +67,8 @@ contradictions: [other-page-slug]
 - `research` — 研究报告/指数
 - `safety` — 安全性/风险控制
 - `decision-making` — 决策方法
+- `economics` — 经济学/遍历经济学
+- `ergodicity` — 遍历性
 - `political-economy` — 政治经济学/制度经济学/暴力经济学
 - `education` — 教育/学习/高等教育
 - `energy` — 能源/电力/电网

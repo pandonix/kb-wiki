@@ -46,3 +46,5 @@ López de Prado 的核心观点：大多数量化研究人员发现的模式实�
 - [[quant-backtesting]] — 量化回测框架与方法论
 - [[backtesting-overfitting]] — 回测过拟合：DSR、FST 与稳健性验证
 - [[risk-management-ergodicity]] — 风险管理与遍历性
+- [[ergodicity-economics]] — 遍历经济学：群体平均与时间平均的区分
+- [[ole-peters]] — Ole Peters：遍历经济学的理论来源

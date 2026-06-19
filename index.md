@@ -1,10 +1,9 @@
 # Wiki Index
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
-> Last updated: 2026-06-16
+> Last updated: 2026-06-19
 
-## Entities (39)
-
+## Entities (40)
 - [[ahacreator]] — AhaCreator
 - [[andrew-ng]] — 吴恩达 (Andrew Ng)
 - [[annalee-saxenian]] — AnnaLee Saxenian
@@ -35,6 +34,7 @@
 - [[microsoft]] — 微软
 - [[minimax]] — MiniMax
 - [[multica]] — Multica
+- [[ole-peters]] — Ole Peters
 - [[satya-nadella]] — 萨提亚·纳德拉
 - [[stanford-ai-index-2026]] — Stanford HAI AI Index Report 2026
 - [[tang-daosheng]] — 汤道生（Tang Daosheng）
@@ -45,8 +45,7 @@
 - [[zhang-jiayuan]] — 张佳圆
 - [[zhang-xiaolong]] — 张小龙（Zhang Xiaolong）
 
-## Concepts (147)
-
+## Concepts (149)
 - [[agent-data-governance]] — 企业Agent数据治理
 - [[agent-delegation-trap]] — Agent 委托陷阱
 - [[agent-developer-capability]] — Agent 开发者的三维能力立方体
@@ -120,6 +119,7 @@
 - [[emergency-psychological-response]] — 突发事件后的正常心理反应
 - [[energy-transition-geopolitics]] — 能源转型与全球格局
 - [[enterprise-agent-practice]] — 企业级智能体实践：从Copilot到数字员工
+- [[ergodicity-economics]] — 遍历经济学
 - [[expression-substance-framework]] — Expression-Substance 框架：AI 的边界与人的不可替代性
 - [[financial-knowledge-system]] — 金融知识体系
 - [[fixed-income-vs-equity]] — 固收与股权投资的差异
@@ -136,6 +136,7 @@
 - [[human-on-the-loop]] — 人在环上（Human-on-the-Loop）
 - [[internet-dead-agent-alive]] — 互联网已死，Agent 永生
 - [[jevons-paradox-work]] — 杰文斯悖论与工作替代
+- [[kelly-criterion]] — Kelly 公式（Kelly Criterion）
 - [[kondratiev-wave]] — 康波周期：技术革命与长期经济波动
 - [[leadership-self-exploration]] — 领导力的深度自我探索
 - [[leadership-short-termism]] — 领导短期主义与任期错配
@@ -196,15 +197,13 @@
 - [[writing-techniques]] — 公众号写作技巧
 
 ## Comparisons (3)
-
 - [[ai-code-adoption-vs-review]] — AI 代码采纳率 vs AI Code Review
 - [[ai-soe-reform-comparison]] — AI浪潮与90年代国企改革：两种劳动再配置
 - [[nev-vs-real-estate-macro]] — 新能源车与房地产的宏观角色对比
 
 ## Queries (3)
-
 - [[ai-writing-literary-mistake]] — AI 写作是否是文学史上最大的错误 — Wiki 交叉分析
 - [[three-career-scripts-analysis]] — 三种职业限制脚本的Wiki交叉分析
 - [[wechat-moat-ai-era]] — 微信护城河在 AI 时代是否会被打破 — Wiki 交叉分析
 
-> Total pages: 192
+> Total pages: 195

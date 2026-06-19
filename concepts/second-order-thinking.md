@@ -59,3 +59,4 @@ confidence: high
 - [[howard-marks-investing]] — 霍华德·马克斯哲学中的二阶应用
 - [[intj]] — INTJ 的长期建模思维与二阶思维天然契合
 - [[risk-management-ergodicity]] — 乱纪元中防御决策本身是二阶思维的应用
+- [[ergodicity-economics]] — 遍历经济学：二阶追问"群体平均能代表个人路径吗？"

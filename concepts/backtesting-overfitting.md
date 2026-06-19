@@ -44,3 +44,4 @@ López de Prado 为解决回测过拟合提出的方法。DSR 通过考虑多重
 - [[quant-backtesting]] — 量化回测框架
 - [[marcos-lopez-de-prado]] — Marcos López de Prado 人物页
 - [[risk-management-ergodicity]] — 风险管理与遍历性
+- [[ergodicity-economics]] — 遍历经济学：多重测试与遍历性缺失共享底层逻辑

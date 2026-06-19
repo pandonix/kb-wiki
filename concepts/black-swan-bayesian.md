@@ -81,6 +81,7 @@ confidence: high
 ## 相关概念
 
 - [[risk-management-ergodicity]] — 遍历性、非平稳世界中的生存策略
+- [[ergodicity-economics]] — 遍历经济学：期望值在非遍历系统中的边界
 - [[second-order-thinking]] — "然后呢？"对尾部后果的逐层追问
 - [[agentic-forecasting]] — 贝叶斯更新在 Agent 预测中的应用
 - [[fixed-income-vs-equity]] — 肥尾世界中的股权 vs 固收风险暴露

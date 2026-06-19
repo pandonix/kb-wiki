@@ -4,6 +4,15 @@
 > Format: `## [YYYY-MM-DD] action | subject`
 > Actions: ingest, update, query, lint, create, archive, delete
 
+## [2026-06-19] ingest | Ergodicity economics papers (Ole Peters, 2 papers)
+- Raw files: 2 new papers from Obsidian notes → raw/papers/
+  - Evaluating gambles using dynamics (Peters & Gell-Mann, 2016)
+  - The ergodicity problem in economics (Peters, 2019)
+- New entities: ole-peters
+- New concepts: ergodicity-economics, kelly-criterion
+- Updated pages: 8 (back-links added to existing pages referencing ergodicity)
+- Raw files frontmatter: +ingested (2026-06-19), +sha256
+
 ## [2026-06-09] ingest | batch 2/2: AI tools & tech concepts (3 files)
 - Ingested 3 raw source files from Obsidian notes
 - Raw file 1: "LLMs are eroding my software engineering career" — frontmatter: url→source_url, +ingested, +sha256

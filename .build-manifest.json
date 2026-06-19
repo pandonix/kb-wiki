@@ -1,7 +1,7 @@
 {
   "version": 2,
   "last_build": "2026-05-26T18:45:00",
-  "total_raw": 455,
+  "total_raw": 457,
   "files": {
     "raw/马克思讲的异化.md": {
       "sha256": "8045f967752f3f87854c474e836e92508dc81a54fb5d9055614ace4f76f85f2a",
@@ -615,6 +615,12 @@
       ],
       "last_ingested": "2026-05-25"
     },
+    "raw/papers/2026-06-18-Evaluating-gambles-using-dynamics.md": {
+      "sha256": "2c502c7c240de1516d9b4a5771fdba4cbe1c66ca7bb30990cd9b7c76ea33dbfa",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-06-19"
+    },
     "raw/papers/SWE-chat Coding Agent Interactions From Real Users in the Wild.md": {
       "sha256": "76cea3641869711f0200b586ea5486e71a6cfa239670a2596dade1c33deae2a0",
       "built": true,
@@ -623,6 +629,12 @@
         "concepts/copilot-learning.md"
       ],
       "last_ingested": "2026-05-11"
+    },
+    "raw/papers/2026-06-18-The-ergodicity-problem-in-economics.md": {
+      "sha256": "fa5e63cd05acfc1863e47ee3c3e9ef160897064cc7c1b883b97619041a4f7627",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-06-19"
     },
     "raw/articles/三篇论文，写清楚了Agent元年的困境｜Hao好聊趋势.md": {
       "sha256": "ea1f7554775c09b142ac14bc911981f5f416e5be9f81ead1e1322b1f6109655b",
@@ -2487,7 +2499,7 @@
         "concepts/two-stage-tech-bubble.md",
         "concepts/productivity-j-curve.md"
       ],
-      "last_ingested": null
+      "last_ingested": "2026-06-19"
     },
     "raw/articles/塔勒布：我从未见过有钱的预言家，在“肥尾”世界里普通人该怎么投？.md": {
       "sha256": "88d7e2457342f5e73a8ae55bfff60ea0dfa83f9007e2c00731057376d80584f5",
@@ -2548,7 +2560,7 @@
         "entities/satya-nadella.md",
         "concepts/token-capital.md"
       ],
-      "last_ingested": null
+      "last_ingested": "2026-06-19"
     },
     "raw/articles/8-解读《资治通鉴》 汉献帝篇.pdf.md": {
       "sha256": "943259079320885ec1499b5633991253a27869106d601f89ceb51c2c7d4908da",

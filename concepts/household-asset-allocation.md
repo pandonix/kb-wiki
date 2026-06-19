@@ -74,6 +74,7 @@ confidence: high
 
 - [[fixed-income-vs-equity]] — 固收与股权的角色分工
 - [[risk-management-ergodicity]] — 防住风险就是收益
+- [[ergodicity-economics]] — 遍历经济学：家庭长期路径中乘法动态与破产边界
 - [[duan-yongping-investing]] — 段永平"不懂不碰"与能力圈
 - [[selling-in-value-investing]] — 长期持有的复利逻辑
 - [[private-fund-evaluation]] — 私募产品评估框架

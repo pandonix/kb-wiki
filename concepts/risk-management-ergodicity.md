@@ -68,3 +68,5 @@ confidence: high
 - [[howard-marks-investing]] — 周期判断与风险优先
 - [[berkshire]] — 巴菲特如何用保险浮存金实践"不输"哲学
 - [[capitalist-realism]] — 系统性风险与想象力问题
+- [[ergodicity-economics]] — 遍历经济学：遍历性缺失、乘法动态与时间平均增长率
+- [[ole-peters]] — Ole Peters：遍历经济学的核心理论来源

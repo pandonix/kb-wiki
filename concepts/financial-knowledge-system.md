@@ -77,5 +77,6 @@ confidence: medium
 - [[macroeconomic-investment-framework]] — 宏观经济投资框架
 - [[howard-marks-investing]] — 霍华德·马克斯投资哲学
 - [[risk-management-ergodicity]] — 风险管理与遍历性
+- [[ergodicity-economics]] — 遍历经济学：金融决策中群体平均与个人路径的差异
 - [[second-order-thinking]] — 二阶思维在金融中的应用
 - [[quant-backtesting]] — 量化回测方法论
