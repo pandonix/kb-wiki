@@ -651,4 +651,33 @@ Total pages: 129 → 130
   - [[tech-revolution-financial-capital]] — +productivity-j-curve, +two-stage-tech-bubble cross-references, updated date
 - Wiki total: 187 → 192 pages
 
+## [2026-06-20] ingest | 6 finance/investing raw source files ingested
+
+### Raw files with frontmatter added/updated
+- raw/agent/Regime.md — prepended frontmatter (source_url, ingested: 2026-06-20, sha256)
+- raw/agent/凯利公式.md — prepended frontmatter (source_url, ingested: 2026-06-20, sha256)
+- raw/agent/夏普、IR、索提诺、卡玛比.md — prepended frontmatter (source_url, ingested: 2026-06-20, sha256)
+- raw/papers/2026-06-19-Advances-in-Financial-Machine-Learning.md — source→source_url, +ingested, +sha256
+- raw/papers/2026-06-19-Pseudo-Mathematics-and-Financial-Charlatanism.md — source→source_url, +ingested, +sha256
+- raw/papers/2026-06-19-The-Probability-of-Backtest-Overfitting.md — source→source_url, +ingested, +sha256
+
+### New concept pages (6)
+- [[investment-regime]] — 投资 Regime（市场运行环境）：Trend/Cycle/Regime 区分，四维判断框架
+- [[sharpe-ratio]] — 夏普比率与索提诺比率：风险调整收益的核心指标，对照读法
+- [[information-ratio]] — 信息比率：剥离 β 后的主动管理能力，Grinold 基本法则 IC×√BR
+- [[calmar-ratio]] — 卡玛比率：每单位最坏回撤的回报，路径依赖与生存约束
+- [[fund-evaluation-framework]] — 基金评价全景框架：六维坐标（风险调整/归因/不对称/尾部/成本与结构）
+- [[financial-ml-research-hygiene]] — 金融ML研究卫生：Triple-Barrier、Purged CV、Meta-Labeling、Fractional Differentiation、三层防线体系
+
+### Updated pages (6)
+- [[kelly-criterion]] — 新增 Edge/Odds 深度拆解、退出规则概率曲面、时间平均≠系综平均、塔勒布闭环、实战三陷阱
+- [[backtesting-overfitting]] — 新增 MinBTL、Hidden Trials、PBO/CSCV、Performance Degradation、Stochastic Dominance、三层防线体系
+- [[marcos-lopez-de-prado]] — 新增 3 篇论文源、financial-ml-research-hygiene 和 sharpe-ratio 交叉链接
+- [[quant-backtesting]] — 新增 financial-ml-research-hygiene、sharpe-ratio、information-ratio、calmar-ratio、investment-regime 交叉链接
+- [[ergodicity-economics]] — 新增 investment-regime、financial-ml-research-hygiene 交叉链接
+- [[risk-management-ergodicity]] — 新增 kelly-criterion、investment-regime、calmar-ratio 交叉链接
+
+### Index updated
+Total pages: 195 → 201
+
 

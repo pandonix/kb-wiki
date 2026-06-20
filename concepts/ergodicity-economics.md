@@ -92,6 +92,8 @@ Kelly 公式 `g(f) = p⋅log(1+bf) + q⋅log(1-f)` 正是遍历经济学在乘�
 - [[quant-backtesting]] — 量化回测框架：遍历性缺失与回测过拟合共享底层逻辑
 - [[backtesting-overfitting]] — 回测过拟合：时间序列中的多重测试问题
 - [[marcos-lopez-de-prado]] — 量化金融方法论的批判与重建
+- [[investment-regime]] — 投资 Regime：regime 切换中遍历性缺失的典型场景
+- [[financial-ml-research-hygiene]] — 金融ML研究卫生：研究流程中的遍历性陷阱
 - [[howard-marks-investing]] — 周期思维与风险优先
 - [[berkshire]] — 巴菲特/芒格的「不输」哲学与长期复合增长
 - [[household-asset-allocation]] — 家庭资产配置中的本金保全

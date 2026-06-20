@@ -1,10 +1,14 @@
 ---
 title: Marcos López de Prado
 created: 2026-05-22
-updated: 2026-05-22
+updated: 2026-06-20
 type: entity
 tags: [person, invest, ml]
-sources: [raw/articles/回测不是研究工具！专访Marcos López de Prado.md]
+sources:
+  - raw/articles/回测不是研究工具！专访Marcos López de Prado.md
+  - raw/papers/2026-06-19-Advances-in-Financial-Machine-Learning.md
+  - raw/papers/2026-06-19-Pseudo-Mathematics-and-Financial-Charlatanism.md
+  - raw/papers/2026-06-19-The-Probability-of-Backtest-Overfitting.md
 confidence: medium
 ---
 
@@ -44,7 +48,9 @@ López de Prado 的核心观点：大多数量化研究人员发现的模式实�
 ## 相关概念
 
 - [[quant-backtesting]] — 量化回测框架与方法论
-- [[backtesting-overfitting]] — 回测过拟合：DSR、FST 与稳健性验证
+- [[backtesting-overfitting]] — 回测过拟合：DSR、FST、MinBTL、PBO 与稳健性验证
+- [[financial-ml-research-hygiene]] — 金融ML研究卫生：Triple-Barrier、Purged CV、Meta-Labeling 的完整工具链
 - [[risk-management-ergodicity]] — 风险管理与遍历性
 - [[ergodicity-economics]] — 遍历经济学：群体平均与时间平均的区分
 - [[ole-peters]] — Ole Peters：遍历经济学的理论来源
+- [[sharpe-ratio]] — 夏普比率：deflated Sharpe 修正的对象

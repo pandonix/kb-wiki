@@ -1,9 +1,10 @@
 # Wiki Index
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
-> Last updated: 2026-06-19
+> Last updated: 2026-06-20 | Auto-generated from filesystem
 
-## Entities (40)
+## Entities
+
 - [[ahacreator]] — AhaCreator
 - [[andrew-ng]] — 吴恩达 (Andrew Ng)
 - [[annalee-saxenian]] — AnnaLee Saxenian
@@ -45,7 +46,8 @@
 - [[zhang-jiayuan]] — 张佳圆
 - [[zhang-xiaolong]] — 张小龙（Zhang Xiaolong）
 
-## Concepts (149)
+## Concepts
+
 - [[agent-data-governance]] — 企业Agent数据治理
 - [[agent-delegation-trap]] — Agent 委托陷阱
 - [[agent-developer-capability]] — Agent 开发者的三维能力立方体
@@ -98,6 +100,7 @@
 - [[blood-money-law]] — 血酬定律
 - [[business-generalist]] — 通用型创业者
 - [[bytedance-douyin-analysis]] — 字节与抖音
+- [[calmar-ratio]] — 卡玛比率（Calmar Ratio）
 - [[capitalist-realism]] — 资本主义现实主义
 - [[causality-philosophy]] — 因果：从休谟到珀尔的哲学追问
 - [[claw-code-runtime]] — Claw Code Agent Runtime
@@ -122,9 +125,11 @@
 - [[ergodicity-economics]] — 遍历经济学
 - [[expression-substance-framework]] — Expression-Substance 框架：AI 的边界与人的不可替代性
 - [[financial-knowledge-system]] — 金融知识体系
+- [[financial-ml-research-hygiene]] — 金融ML研究卫生（Research Hygiene）
 - [[fixed-income-vs-equity]] — 固收与股权投资的差异
 - [[flow-2dot0]] — 流量 2.0
 - [[forward-deployed-engineer-ai]] — 前沿部署工程师（Forward Deployed Engineer for AI）
+- [[fund-evaluation-framework]] — 基金评价全景框架
 - [[future-society-social-infrastructure]] — 未来社会与社会基础设施
 - [[harness-engineering]] — Harness Engineering
 - [[hidden-fatigue]] — 隐形过度疲劳
@@ -134,7 +139,9 @@
 - [[human-ai-scale]] — 人应成为 AI 的尺度
 - [[human-meaning-agi]] — 人类的意义与AGI
 - [[human-on-the-loop]] — 人在环上（Human-on-the-Loop）
+- [[information-ratio]] — 信息比率（Information Ratio）
 - [[internet-dead-agent-alive]] — 互联网已死，Agent 永生
+- [[investment-regime]] — 投资 Regime（市场运行环境）
 - [[jevons-paradox-work]] — 杰文斯悖论与工作替代
 - [[kelly-criterion]] — Kelly 公式（Kelly Criterion）
 - [[kondratiev-wave]] — 康波周期：技术革命与长期经济波动
@@ -172,6 +179,7 @@
 - [[second-order-thinking]] — 二阶思维
 - [[selling-in-value-investing]] — 投资大师很少谈卖出
 - [[senior-engineer-moat-migration]] — 高级工程师护城河迁移模型
+- [[sharpe-ratio]] — 夏普比率（Sharpe Ratio）与索提诺比率（Sortino Ratio）
 - [[sincerity-communication]] — 真诚才是必杀技
 - [[skill-distillation-depth]] — Skill 蒸馏深度分析
 - [[social-intelligence-baseline]] — 社会整体智力水位
@@ -196,14 +204,16 @@
 - [[wechat-relationship-chain-value]] — 微信关系链的四层价值模型
 - [[writing-techniques]] — 公众号写作技巧
 
-## Comparisons (3)
+## Comparisons
+
 - [[ai-code-adoption-vs-review]] — AI 代码采纳率 vs AI Code Review
 - [[ai-soe-reform-comparison]] — AI浪潮与90年代国企改革：两种劳动再配置
 - [[nev-vs-real-estate-macro]] — 新能源车与房地产的宏观角色对比
 
-## Queries (3)
+## Queries
+
 - [[ai-writing-literary-mistake]] — AI 写作是否是文学史上最大的错误 — Wiki 交叉分析
 - [[three-career-scripts-analysis]] — 三种职业限制脚本的Wiki交叉分析
 - [[wechat-moat-ai-era]] — 微信护城河在 AI 时代是否会被打破 — Wiki 交叉分析
 
-> Total pages: 195
+> Total pages: 201

@@ -68,5 +68,8 @@ confidence: high
 - [[howard-marks-investing]] — 周期判断与风险优先
 - [[berkshire]] — 巴菲特如何用保险浮存金实践"不输"哲学
 - [[capitalist-realism]] — 系统性风险与想象力问题
+- [[kelly-criterion]] — Kelly 公式：分数凯利的分仓防御
 - [[ergodicity-economics]] — 遍历经济学：遍历性缺失、乘法动态与时间平均增长率
 - [[ole-peters]] — Ole Peters：遍历经济学的核心理论来源
+- [[investment-regime]] — 投资 Regime：regime 切换触发破产边界的遍历性机制
+- [[calmar-ratio]] — 卡玛比率：最大回撤是生存的硬约束

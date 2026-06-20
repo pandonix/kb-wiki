@@ -1,7 +1,7 @@
 ---
 title: 量化回测框架
 created: 2026-04-24
-updated: 2026-05-22
+updated: 2026-06-20
 type: concept
 tags: [infra, coding, invest]
 sources: [raw/articles/Backtrader.md, raw/articles/Vn.py.md, raw/articles/BlackTrader.md, raw/articles/回测不是研究工具！专访Marcos López de Prado.md]
@@ -128,8 +128,13 @@ BlackTrader.md
 
 ## 相关概念
 
-- [[backtesting-overfitting]] — 回测过拟合：DSR、FST 与稳健性验证
+- [[backtesting-overfitting]] — 回测过拟合：DSR、FST、MinBTL、PBO 与稳健性验证
 - [[marcos-lopez-de-prado]] — Marcos López de Prado 人物页
+- [[financial-ml-research-hygiene]] — 金融ML研究卫生：Triple-Barrier、Purged CV 等防污染工具
+- [[sharpe-ratio]] — 夏普比率与索提诺比率
+- [[information-ratio]] — 信息比率：IR 在回测策略评估中的使用
+- [[calmar-ratio]] — 卡玛比率：最大回撤与路径依赖
+- [[investment-regime]] — 投资 Regime：regime 覆盖是回测真实性的核心检验
 - [[ai-coding-agent]] — 量化场景下的 AI Coding 探索
 - [[backtrader]] — Python 经典回测框架（详细评测见实体页）
 - [[veighna]] — 国内最活跃量化框架（详细评测见实体页）

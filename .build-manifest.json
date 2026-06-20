@@ -1,7 +1,7 @@
 {
   "version": 2,
   "last_build": "2026-05-26T18:45:00",
-  "total_raw": 457,
+  "total_raw": 463,
   "files": {
     "raw/马克思讲的异化.md": {
       "sha256": "8045f967752f3f87854c474e836e92508dc81a54fb5d9055614ace4f76f85f2a",
@@ -574,6 +574,18 @@
       ],
       "last_ingested": "2026-05-25"
     },
+    "raw/papers/2026-06-19-The-Probability-of-Backtest-Overfitting.md": {
+      "sha256": "a61b85a5eee30816b200ab8de3b59cdbcc2be7d04ecd21a44ae1cd7cebf67b23",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-06-20"
+    },
+    "raw/papers/2026-06-19-Advances-in-Financial-Machine-Learning.md": {
+      "sha256": "9e9c473286a636a4ecd98b5f236d39315010f57991b20e2ecf10bdf539cbca7a",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-06-20"
+    },
     "raw/papers/20260529T100332--paper-deepseek-v4.md": {
       "sha256": "88983d1a2602803e8b58b13d2e14a50beda90d748eb64322b32e61863de646d2",
       "built": true,
@@ -635,6 +647,12 @@
       "built": true,
       "wiki_pages": [],
       "last_ingested": "2026-06-19"
+    },
+    "raw/papers/2026-06-19-Pseudo-Mathematics-and-Financial-Charlatanism.md": {
+      "sha256": "2ec113f8b6c8e5d8b577e818fba6cf4703f683f6ba5bf0224fa425efba2db649",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-06-20"
     },
     "raw/articles/三篇论文，写清楚了Agent元年的困境｜Hao好聊趋势.md": {
       "sha256": "ea1f7554775c09b142ac14bc911981f5f416e5be9f81ead1e1322b1f6109655b",
@@ -2982,6 +3000,12 @@
       ],
       "last_ingested": "2026-05-27"
     },
+    "raw/agent/凯利公式.md": {
+      "sha256": "6afed8ba5ac52a1c19f45cba44c1b7f76ebc5e41954c60716cdb10290751990b",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-06-20"
+    },
     "raw/agent/宏观经济学习路径.md": {
       "sha256": "f9e278a181d296f56e6d6873e8497711f071e5dec0b0c96f9033b0beb8495116",
       "built": true,
@@ -3095,6 +3119,12 @@
       ],
       "last_ingested": "2026-05-29"
     },
+    "raw/agent/Regime.md": {
+      "sha256": "5c13e6fd5c31fb7d1359b61926ee1b6449780394c66b11732233f6780f45fde3",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-06-20"
+    },
     "raw/agent/90年代国企改革与AI浪潮.md": {
       "sha256": "5d2eb6e899114c642b556e45dbe46fad10a611f22ca5ab083ce961b612d8984c",
       "built": true,
@@ -3120,6 +3150,12 @@
         "concepts/musk-algorithm.md"
       ],
       "last_ingested": "2026-06-09"
+    },
+    "raw/agent/夏普、IR、索提诺、卡玛比.md": {
+      "sha256": "ee6c2a64f3edc74fbe1798b7d46b50bb856d014d30e761647116818dbb1d0589",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-06-20"
     },
     "raw/agent/Claude Code.md": {
       "sha256": "00340e7fb493ab7efa7f69c5d993d5c4e55ff501228d61f9670f772b93016d11",
