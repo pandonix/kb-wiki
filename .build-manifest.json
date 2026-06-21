@@ -2178,9 +2178,7 @@
       "sha256": "a6811a596dc56b6504653a4f55f8e7f41f678a8d96301cb6d515ded87b7bd67b",
       "built": true,
       "wiki_pages": [
-        "entities/marcos-lopez-de-prado.md",
-        "concepts/quant-backtesting.md",
-        "concepts/backtesting-overfitting.md"
+        "concepts/quant-backtesting.md"
       ],
       "last_ingested": "2026-05-22"
     },
@@ -3001,7 +2999,7 @@
       "last_ingested": "2026-05-27"
     },
     "raw/agent/凯利公式.md": {
-      "sha256": "6afed8ba5ac52a1c19f45cba44c1b7f76ebc5e41954c60716cdb10290751990b",
+      "sha256": "cda236a33c0b2b49d9eaccaf389351b33f2c4936bddbf6f656e576c665834ce2",
       "built": true,
       "wiki_pages": [],
       "last_ingested": "2026-06-20"
@@ -3120,9 +3118,11 @@
       "last_ingested": "2026-05-29"
     },
     "raw/agent/Regime.md": {
-      "sha256": "5c13e6fd5c31fb7d1359b61926ee1b6449780394c66b11732233f6780f45fde3",
+      "sha256": "e4acaf5bd1fe1fa68f8261e855bc066f95dfb01fcc541a60d8dec0b54344f8c7",
       "built": true,
-      "wiki_pages": [],
+      "wiki_pages": [
+        "concepts/investment-regime.md"
+      ],
       "last_ingested": "2026-06-20"
     },
     "raw/agent/90年代国企改革与AI浪潮.md": {
@@ -3152,9 +3152,14 @@
       "last_ingested": "2026-06-09"
     },
     "raw/agent/夏普、IR、索提诺、卡玛比.md": {
-      "sha256": "ee6c2a64f3edc74fbe1798b7d46b50bb856d014d30e761647116818dbb1d0589",
+      "sha256": "3693d5e6aa7c8267861e05ad882cb5091cc212ce64340e7f13278cab3d7f8d43",
       "built": true,
-      "wiki_pages": [],
+      "wiki_pages": [
+        "concepts/calmar-ratio.md",
+        "concepts/fund-evaluation-framework.md",
+        "concepts/sharpe-ratio.md",
+        "concepts/information-ratio.md"
+      ],
       "last_ingested": "2026-06-20"
     },
     "raw/agent/Claude Code.md": {
