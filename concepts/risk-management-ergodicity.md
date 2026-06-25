@@ -73,3 +73,4 @@ confidence: high
 - [[ole-peters]] — Ole Peters：遍历经济学的核心理论来源
 - [[investment-regime]] — 投资 Regime：regime 切换触发破产边界的遍历性机制
 - [[calmar-ratio]] — 卡玛比率：最大回撤是生存的硬约束
+- [[structural-follower-disadvantage]] — 结构性追随者劣势：不安全感 → 高贴现率 → 长久期资产现值坍塌的遍历性解释 ^[raw/agent/中国企业为何陷入内卷竞争.md]

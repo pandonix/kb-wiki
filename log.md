@@ -4,6 +4,22 @@
 > Format: `## [YYYY-MM-DD] action | subject`
 > Actions: ingest, update, query, lint, create, archive, delete
 
+## [2026-06-25] ingest | 中国企业为何陷入内卷竞争（1 raw file → 5 new concepts + 4 updates）
+- Raw file: raw/agent/中国企业为何陷入内卷竞争.md (+frontmatter: source_url, ingested, sha256)
+- New concepts (5):
+  - [[involution-structural-equilibrium]] — 内卷作为结构理性均衡：核心框架，四个结构条件 + N 变量
+  - [[survivor-count-pricing-power]] — 幸存者数量 N 与定价权：N=3 寡头均衡 vs N=50 商品化均衡
+  - [[exit-too-hard-trap]] — 退出太难陷阱：财政分权 × 政治锦标赛 × 软预算约束
+  - [[scale-not-roic-trap]] — 规模非 ROIC 目标函数陷阱：资本纪律缺失与公共品博弈
+  - [[structural-follower-disadvantage]] — 结构性追随者劣势：低毛利 → 无 R&D → 锁死前沿之下
+- Updated pages (4):
+  - [[pareto-inefficiency]] — added links: N=50 的「1 元均衡」作为帕累托无效宏观版本
+  - [[tech-revolution-financial-capital]] — added links: 部署期产能过度积累 → 内卷症状
+  - [[risk-management-ergodicity]] — added link: 不安全感 → 高贴现率 → 护城河现值坍塌
+  - [[second-order-thinking]] — added link: 结构分析作为系统性的二阶思维应用
+- SCHEMA: added `game-theory` tag to taxonomy
+- Index updated: 201 → 206 total pages
+
 ## [2026-06-19] ingest | Ergodicity economics papers (Ole Peters, 2 papers)
 - Raw files: 2 new papers from Obsidian notes → raw/papers/
   - Evaluating gambles using dynamics (Peters & Gell-Mann, 2016)

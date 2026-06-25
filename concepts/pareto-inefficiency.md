@@ -98,6 +98,8 @@ confidence: medium
 
 ## 相关概念
 
+- [[involution-structural-equilibrium]] — 内卷作为结构理性均衡：N=50 的「1 元均衡」是帕累托无效但纳什稳定的宏观版本 ^[raw/agent/中国企业为何陷入内卷竞争.md]
+- [[survivor-count-pricing-power]] — 幸存者数量 N：卡特尔稳定性随 N 单调下降，N=50 时密约瓦解
 - [[capitalist-realism]] — 资本主义现实主义，另一种「知其不可而为之」的系统性困境
 - [[second-order-thinking]] — 二阶思维，理解共谋均衡需要跳出表面行为分析深层激励
 - [[hierarchy-to-intelligence]] — 科层制到智慧型组织，打破共谋均衡的组织变革方向

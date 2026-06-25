@@ -59,4 +59,5 @@ confidence: high
 - [[howard-marks-investing]] — 霍华德·马克斯哲学中的二阶应用
 - [[intj]] — INTJ 的长期建模思维与二阶思维天然契合
 - [[risk-management-ergodicity]] — 乱纪元中防御决策本身是二阶思维的应用
-- [[ergodicity-economics]] — 遍历经济学：二阶追问"群体平均能代表个人路径吗？"
+- [[ergodicity-economics]] — 遍历经济学：二阶追问「群体平均能代表个人路径吗？」
+- [[involution-structural-equilibrium]] — 内卷分析：从「为什么中国企业不聪明」到「什么结构条件决定均衡」正是二阶思维的系统应用 ^[raw/agent/中国企业为何陷入内卷竞争.md]

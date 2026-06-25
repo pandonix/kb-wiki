@@ -1,7 +1,7 @@
 {
   "version": 2,
   "last_build": "2026-05-26T18:45:00",
-  "total_raw": 463,
+  "total_raw": 464,
   "files": {
     "raw/马克思讲的异化.md": {
       "sha256": "8045f967752f3f87854c474e836e92508dc81a54fb5d9055614ace4f76f85f2a",
@@ -3116,6 +3116,18 @@
         "concepts/wechat-relationship-chain-value.md"
       ],
       "last_ingested": "2026-05-29"
+    },
+    "raw/agent/中国企业为何陷入内卷竞争.md": {
+      "sha256": "63749d73e6d24e1d43a6d2cc6cddf688a0e95ccd84b4628e3d31b760ad709849",
+      "built": true,
+      "wiki_pages": [
+        "concepts/involution-structural-equilibrium.md",
+        "concepts/structural-follower-disadvantage.md",
+        "concepts/scale-not-roic-trap.md",
+        "concepts/survivor-count-pricing-power.md",
+        "concepts/exit-too-hard-trap.md"
+      ],
+      "last_ingested": "2026-06-25"
     },
     "raw/agent/Regime.md": {
       "sha256": "e4acaf5bd1fe1fa68f8261e855bc066f95dfb01fcc541a60d8dec0b54344f8c7",

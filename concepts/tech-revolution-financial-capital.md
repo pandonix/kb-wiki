@@ -87,5 +87,7 @@ Carlota Perez 提出的统一框架，将过去两百年的五次技术革命归
 - [[kondratiev-wave]] — 康波周期（互补长波理论）
 - [[productivity-j-curve]] — 生产率 J 曲线
 - [[two-stage-tech-bubble]] — 两阶段技术泡沫模型
+- [[involution-structural-equilibrium]] — 内卷是部署期产能过度积累的典型症状：每次技术革命的扩散后期都会出现（铁路、汽车都卷死过一大批），中国靠地方财政把出清拖成了慢性病 ^[raw/agent/中国企业为何陷入内卷竞争.md]
+- [[exit-too-hard-trap]] — 退出太难陷阱：中国式部署期出清失效的制度机制
 - [[annalee-saxenian]] — AnnaLee Saxenian：《区域优势》作者，产业集群胜负手在社会结构
 - [[future-society-social-infrastructure]] — 未来社会与社会基础设施

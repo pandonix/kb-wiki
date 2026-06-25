@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
-> Last updated: 2026-06-20 | Auto-generated from filesystem
+> Last updated: 2026-06-25 | Auto-generated from filesystem
 
 ## Entities
 
@@ -123,6 +123,7 @@
 - [[energy-transition-geopolitics]] — 能源转型与全球格局
 - [[enterprise-agent-practice]] — 企业级智能体实践：从Copilot到数字员工
 - [[ergodicity-economics]] — 遍历经济学
+- [[exit-too-hard-trap]] — 退出太难陷阱：僵尸产能、软预算约束与出清失效
 - [[expression-substance-framework]] — Expression-Substance 框架：AI 的边界与人的不可替代性
 - [[financial-knowledge-system]] — 金融知识体系
 - [[financial-ml-research-hygiene]] — 金融ML研究卫生（Research Hygiene）
@@ -142,6 +143,7 @@
 - [[information-ratio]] — 信息比率（Information Ratio）
 - [[internet-dead-agent-alive]] — 互联网已死，Agent 永生
 - [[investment-regime]] — 投资 Regime（市场运行环境）
+- [[involution-structural-equilibrium]] — 内卷作为结构理性均衡
 - [[jevons-paradox-work]] — 杰文斯悖论与工作替代
 - [[kelly-criterion]] — Kelly 公式（Kelly Criterion）
 - [[kondratiev-wave]] — 康波周期：技术革命与长期经济波动
@@ -175,6 +177,7 @@
 - [[quant-backtesting]] — 量化回测框架
 - [[risk-management-ergodicity]] — 风险管理与遍历性
 - [[saas-bench]] — SaaS-Bench：Agent 真实办公能力评测
+- [[scale-not-roic-trap]] — 规模非 ROIC 目标函数陷阱
 - [[science-vs-engineering]] — 科学与工程：两种理性，解释世界与改造世界
 - [[second-order-thinking]] — 二阶思维
 - [[selling-in-value-investing]] — 投资大师很少谈卖出
@@ -187,7 +190,9 @@
 - [[solipsistic-superintelligence]] — 唯我论超级智能（Solipsistic Superintelligence）
 - [[soul-team]] — Soul Team：AI 原生组织的叙事一致性团队
 - [[stoicism]] — 斯多葛学派
+- [[structural-follower-disadvantage]] — 结构性追随者劣势
 - [[super-creator]] — 超创者（Super Creator）
+- [[survivor-count-pricing-power]] — 幸存者数量 N 与定价权
 - [[taleb-taoism]] — 塔勒布与道家思想
 - [[tech-revolution-financial-capital]] — 技术革命与金融资本
 - [[technology-containment-history]] — 大国技术遏制史
@@ -216,4 +221,4 @@
 - [[three-career-scripts-analysis]] — 三种职业限制脚本的Wiki交叉分析
 - [[wechat-moat-ai-era]] — 微信护城河在 AI 时代是否会被打破 — Wiki 交叉分析
 
-> Total pages: 201
+> Total pages: 206
