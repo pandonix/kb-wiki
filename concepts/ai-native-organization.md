@@ -80,6 +80,9 @@ confidence: medium
 - [[multica]] — Multica：4 人 + 几十 Agent 的 AI 原生组织样本
 - [[zhang-jiayuan]] — 张佳圆：人是 AI 原生组织的效率瓶颈
 - [[soul-team]] — Soul Team：AI 原生组织的叙事一致性团队
+- [[super-team]] — 超级团队：三种形态（节点辐射型/网络协作型/AI 中枢型）
+- [[super-individual]] — 超级个体：AI Native 组织的核心构成单元
+- [[organization-competitiveness-formula]] — 组织竞争力 = 人才密度 × AI 杠杆 / 组织摩擦
 
 ## AI Outcome Pod：AI-native 的基本组织单元
 

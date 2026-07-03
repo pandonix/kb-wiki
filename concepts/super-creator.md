@@ -63,3 +63,4 @@ AI 已经成为创作者群体的刚性生产工具：
 - [[ai-era-scarce-capabilities]] — 创意力、审美力作为稀缺能力
 - [[think-make-framework]] — Think/Make 精力分配框架
 - [[harness-engineering]] — Harness 作为 Agent 的操作系统层
+- [[super-individual]] — 超级个体：超创者在更大范围内的组织对应概念

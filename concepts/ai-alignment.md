@@ -1,7 +1,7 @@
 ---
 title: AI Alignment
 created: 2026-04-24
-updated: 2026-05-30
+updated: 2026-07-03
 type: concept
 tags: [ml, alignment, safety, research]
 sources: [raw/articles/AI Alignment与写作.md, raw/articles/AI无论怎么发展，绝对无法超过人类的有哪些方面？.md, raw/articles/2026-05-29-AI为什么会失语.md]
@@ -102,8 +102,24 @@ AI Alignment与写作.md
 
 > 注：该源文件正文尚未完整抓取，以上为基于题目与分类的初步提炼，待补全后深化。
 
+## 双向对齐：人类也在向 AI 对齐
+
+传统 AI 对齐研究聚焦于「让机器对齐人」的单向问题，但 2026 年的多项研究揭示了一个被忽视的反向过程：**人类在不知不觉中向 AI 对齐。** AI 正通过语言模仿、权威感、从众机制、认知省力和情绪传染，改变人的表达、学习、判断、信念和文化模式。^[raw/articles/人机对齐？不，是人正在向机器对齐.md]
+
+关键证据：
+- **语言**：ChatGPT 高频词汇（delve、realm、meticulous 等）从书面文本外溢到口语场景——马克斯-普朗克研究所分析 36 万条视频与 77 万期播客证实
+- **学习**：PNAS 2025 年随机对照实验——无护栏 AI 提升练习表现但闭卷独立成绩下降 17%
+- **认知**：ICLR 2025——人通过「传染」和「从众」向 AI 对齐，表现为简化思考、固化思维、认知同质化
+- **信念**：DeepMind 2026——受试者信念可被 AI 操纵增强或反转
+- **工作**：ActivTrak 2026——人机协作 +34%，周末工作 +40%，聚焦时间为三年新低
+
+这为对齐研究增加了一个维度：**对齐不仅是技术安全工程，也是社会心理问题。AI 的文化影响力不只是「工具好不好用」，而是「长期暴露如何改变人的思维模式」。**
+
+→ 详见 [[human-aligning-to-ai]]
+
 ## 相关概念
 
+- [[human-aligning-to-ai]] — 双向对齐：人向 AI 对齐的六大维度和实证
 - [[ai-coding-agent]] — AI Coding 中的意图对齐问题
 - [[token-economics]] — 对齐问题在 AI 经济中的风险层面
 - [[demis-hassabis]] — Hassabis 的 AGI 路线图

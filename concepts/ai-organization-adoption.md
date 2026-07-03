@@ -1,10 +1,10 @@
 ---
 title: AI 组织采纳困境
 created: 2026-05-18
-updated: 2026-06-02
+updated: 2026-07-03
 type: concept
 tags: [ml, management, thought]
-sources: [raw/articles/AI 时代的魔幻现实：老板向左，员工向右，一个用了求生，一个用了找死.md, raw/articles/2026-06-01-一个理想的组织是AI Agent在组织人.md]
+sources: [raw/articles/AI 时代的魔幻现实：老板向左，员工向右，一个用了求生，一个用了找死.md, raw/articles/2026-06-01-一个理想的组织是AI Agent在组织人.md, raw/articles/为何企业80%的AI投入看不到效果？｜AI时代企业变革的认知方法论与战略判断框架.md]
 confidence: medium
 ---
 
@@ -74,6 +74,7 @@ ColaOS 创始人橘子描述了一个典型的 AI 采纳时间线：^[2026-06-01
 
 ## 相关概念
 
+- [[ai-business-roi-framework]] — AI 企业 ROI 认知框架：80% 无效果的宏观解释
 - [[ai-coding-agent]] — AI Agent 的技术基础（老板想推的东西）
 - [[ai-cognitive-debt]] — AI 过度依赖的认知代价（另一个"用了找死"的维度）
 - [[copilot-learning]] — Copilot 对学习效果的双刃剑

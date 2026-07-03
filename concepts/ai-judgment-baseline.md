@@ -1,10 +1,10 @@
 ---
 title: AI 时代的判断力基线
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-07-03
 type: concept
 tags: [agent, thought, education, decision-making]
-sources: [raw/articles/2026-05-30-9.5万大学生和37万高中生数据-AI时代分水岭.md]
+sources: [raw/articles/2026-05-30-9.5万大学生和37万高中生数据-AI时代分水岭.md, raw/articles/人机对齐？不，是人正在向机器对齐.md]
 confidence: high
 ---
 
@@ -17,6 +17,7 @@ AI 时代真正的分水岭不在「用 AI vs 不用 AI」，而在 **「用 AI 
 ## 实证数据
 
 - **Berkeley 研究**（95,513 名美国公立研究型大学本科生，发表于《Science》）：2/3 本科生用过生成式 AI，~40% 每月至少用一次，9% 承认用 AI 作弊。每天用 AI 的学生中 26% 承认作弊，每月用的只有 7%。
+- **PNAS 2025 研究**（美国 9-11 年级学生，50 个班级随机对照实验）：AI 工具显著提升练习阶段表现，但导致**闭卷独立考试成绩下降 17%**。无护栏 AI 绕开了必要的低速训练过程——学生会对 AI 产生对齐和盲从，自主学习能力下降。^[raw/articles/人机对齐？不，是人正在向机器对齐.md]
 - **Georgetown 研究**（37万+ 份高中生大学申请文书，Adam Green 团队）：使用 AI 后语言质量整体上升，但**思想多样性显著下降**——AI 对最独特的人伤害最大：少数族裔、神经多样性、非母语者的独特表达最容易被动拉回均值。^[raw/articles/2026-05-30-9.5万大学生和37万高中生数据-AI时代分水岭.md]
 
 ## 三大悖论
@@ -53,6 +54,7 @@ AI 未必立刻让你失业，但可能先把「本来会做这件事」的手�
 
 ## 相关概念
 
+- [[human-aligning-to-ai]] — 人向 AI 对齐：认知投降的社会心理机制
 - [[senior-engineer-moat-migration]] — 高级工程师护城河迁移：工程职业的判断力基线案例
 - [[outsourcing-thinking-ai]] — AI 时代的外包思考风险
 - [[ai-era-scarce-capabilities]] — AI 时代的稀缺能力：判断力、审美、问题定义

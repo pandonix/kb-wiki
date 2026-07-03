@@ -1,10 +1,10 @@
 # Wiki Index
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
-> Last updated: 2026-06-25 | Auto-generated from filesystem
+> Read this first to find relevant pages for any query.
+> Last updated: 2026-07-03 | Total pages: 216
 
 ## Entities
-
 - [[ahacreator]] — AhaCreator
 - [[andrew-ng]] — 吴恩达 (Andrew Ng)
 - [[annalee-saxenian]] — AnnaLee Saxenian
@@ -16,6 +16,7 @@
 - [[boris-cherny]] — Boris Cherny
 - [[carlota-perez]] — Carlota Perez
 - [[claude-code]] — Claude Code
+- [[codebanana]] — CodeBanana
 - [[dan-koe]] — Dan Koe
 - [[demis-hassabis]] — Demis Hassabis
 - [[duan-yongping]] — 段永平
@@ -29,11 +30,13 @@
 - [[intj]] — INTJ
 - [[juzi-orange]] — 橘子（冯雷）— ColaOS / ListenHub 创始人
 - [[karpathy]] — Andrej Karpathy
+- [[li-zhifei]] — 李志飞（Li Zhifei）
 - [[lyu-peng]] — 吕鹏（Lyu Peng）
 - [[ma-huateng]] — 马化腾（Ma Huateng / Pony Ma）
 - [[marcos-lopez-de-prado]] — Marcos López de Prado
 - [[microsoft]] — 微软
 - [[minimax]] — MiniMax
+- [[mobvoi]] — 出门问问（Mobvoi）
 - [[multica]] — Multica
 - [[ole-peters]] — Ole Peters
 - [[satya-nadella]] — 萨提亚·纳德拉
@@ -47,7 +50,6 @@
 - [[zhang-xiaolong]] — 张小龙（Zhang Xiaolong）
 
 ## Concepts
-
 - [[agent-data-governance]] — 企业Agent数据治理
 - [[agent-delegation-trap]] — Agent 委托陷阱
 - [[agent-developer-capability]] — Agent 开发者的三维能力立方体
@@ -64,6 +66,7 @@
 - [[ai-architecture-governance]] — AI 时代架构治理
 - [[ai-bilateral-platform-moat]] — AI 双边平台护城河
 - [[ai-bubble-debate]] — AI 泡沫辩论
+- [[ai-business-roi-framework]] — AI 企业 ROI 认知框架
 - [[ai-code-adoption]] — AI 代码采纳率
 - [[ai-code-review]] — AI Code Review 实践
 - [[ai-coding-agent]] — AI Coding / Agent 工程
@@ -123,7 +126,7 @@
 - [[energy-transition-geopolitics]] — 能源转型与全球格局
 - [[enterprise-agent-practice]] — 企业级智能体实践：从Copilot到数字员工
 - [[ergodicity-economics]] — 遍历经济学
-- [[exit-too-hard-trap]] — 退出太难陷阱：僵尸产能、软预算约束与出清失效
+- [[exit-too-hard-trap]] — 退出太难陷阱
 - [[expression-substance-framework]] — Expression-Substance 框架：AI 的边界与人的不可替代性
 - [[financial-knowledge-system]] — 金融知识体系
 - [[financial-ml-research-hygiene]] — 金融ML研究卫生（Research Hygiene）
@@ -138,6 +141,7 @@
 - [[household-asset-allocation]] — 家庭资产配置
 - [[howard-marks-investing]] — 霍华德·马克斯投资思维
 - [[human-ai-scale]] — 人应成为 AI 的尺度
+- [[human-aligning-to-ai]] — 人向 AI 对齐
 - [[human-meaning-agi]] — 人类的意义与AGI
 - [[human-on-the-loop]] — 人在环上（Human-on-the-Loop）
 - [[information-ratio]] — 信息比率（Information Ratio）
@@ -163,6 +167,7 @@
 - [[one-person-company]] — 一人公司：AI 时代单人创业的幻觉与真相
 - [[openclaw-runtime]] — OpenClaw Agent Runtime
 - [[options-basics]] — 期权基础
+- [[organization-competitiveness-formula]] — 组织竞争力公式
 - [[outsourcing-thinking-ai]] — AI 时代的外包思考风险
 - [[pact-framework]] — PACT 框架
 - [[palantir-ontology]] — Palantir Ontology 与 AIP
@@ -172,6 +177,7 @@
 - [[platform-agent-centralization]] — 平台 Agent 的中心化张力
 - [[private-fund-evaluation]] — 私募产品能力评估
 - [[productivity-j-curve]] — 生产率 J 曲线
+- [[prototype-driven-workflow]] — 原型驱动工作流（Prototype-Driven Workflow）
 - [[psychological-scripts]] — 心理脚本：主体性外化的三种生存策略
 - [[psychological-survival]] — 心理生存与身份守护
 - [[quant-backtesting]] — 量化回测框架
@@ -192,7 +198,10 @@
 - [[stoicism]] — 斯多葛学派
 - [[structural-follower-disadvantage]] — 结构性追随者劣势
 - [[super-creator]] — 超创者（Super Creator）
+- [[super-individual]] — 超级个体（Super Individual）
+- [[super-team]] — 超级团队（Super Team）
 - [[survivor-count-pricing-power]] — 幸存者数量 N 与定价权
+- [[system-designer]] — 系统设计师（System Designer）
 - [[taleb-taoism]] — 塔勒布与道家思想
 - [[tech-revolution-financial-capital]] — 技术革命与金融资本
 - [[technology-containment-history]] — 大国技术遏制史
@@ -210,15 +219,11 @@
 - [[writing-techniques]] — 公众号写作技巧
 
 ## Comparisons
-
 - [[ai-code-adoption-vs-review]] — AI 代码采纳率 vs AI Code Review
 - [[ai-soe-reform-comparison]] — AI浪潮与90年代国企改革：两种劳动再配置
 - [[nev-vs-real-estate-macro]] — 新能源车与房地产的宏观角色对比
 
 ## Queries
-
 - [[ai-writing-literary-mistake]] — AI 写作是否是文学史上最大的错误 — Wiki 交叉分析
 - [[three-career-scripts-analysis]] — 三种职业限制脚本的Wiki交叉分析
 - [[wechat-moat-ai-era]] — 微信护城河在 AI 时代是否会被打破 — Wiki 交叉分析
-
-> Total pages: 206

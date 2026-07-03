@@ -89,3 +89,4 @@ Source 2 中 ColaOS/ListenHub 创始人橘子提供了一个真实案例：2026 
 - [[business-generalist]] — 通用型创业者
 - [[ai-economy-subsidy-crisis]] — AI 经济补贴危机
 - [[juzi-orange]] — 橘子（冯雷）：ColaOS / ListenHub 创始人
+- [[super-individual]] — 超级个体：一人公司在 AI 时代的能力跃迁形态

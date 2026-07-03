@@ -78,3 +78,5 @@ Block（原 Square）提出终极破局答案：用 AI 彻底重构组织，从�
 - [[personal-ai-framework]] — 个人 AI 认知框架中的 L2.5 组织适应层
 - [[ai-outcome-pod]] — AI Outcome Pod：面向结果的人机混合单元
 - [[soul-team]] — Soul Team：AI 原生组织的叙事一致性团队
+- [[super-individual]] — 超级个体：从个体觉醒到智慧型组织的涌现路径
+- [[organization-competitiveness-formula]] — 组织竞争力 = 人才密度 × AI 杠杆 / 组织摩擦

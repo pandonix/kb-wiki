@@ -697,3 +697,58 @@ Total pages: 129 → 130
 Total pages: 195 → 201
 
 
+## [2026-07-03] ingest | batch 2/2: AI alignment + business ROI topics
+
+### raw frontmatter updated
+- raw/articles/人机对齐？不，是人正在向机器对齐.md — added ingested, sha256, renamed url→source_url
+- raw/articles/为何企业80%的AI投入看不到效果？｜AI时代企业变革的认知方法论与战略判断框架.md — added ingested, sha256, renamed url→source_url
+
+### New pages created
+- concepts/human-aligning-to-ai.md — 人向 AI 对齐：六大对齐维度、双向对齐框架
+- concepts/ai-business-roi-framework.md — AI 企业 ROI 认知框架：17 变量体系（V1-V17）、AI 认知五层级（L1-L5）、六大竞争优势机制、AI 乘号隐喻
+
+### Pages updated
+- concepts/ai-alignment.md — added "双向对齐：人类也在向 AI 对齐" section with key evidence; +1 source
+- concepts/ai-organization-adoption.md — added link to ai-business-roi-framework; +1 source
+- concepts/ai-judgment-baseline.md — added PNAS 2025 study (闭卷成绩下降17%); link to human-aligning-to-ai; +1 source
+- concepts/outsourcing-thinking-ai.md — added cognitive surrender / ICLR conformity mechanisms; link to human-aligning-to-ai; +1 source
+
+### Index updated
+Total pages: 206 → 208 → 216
+
+## [2026-07-03] ingest | batch 1/2: 超级个体/组织变革 topics (2 raw files → 8 new pages + 4 updates)
+
+### raw frontmatter updated
+- raw/articles/超级个体时代｜腾讯研究院3万字报告_腾讯新闻.md — added ingested, sha256, renamed url→source_url
+- raw/articles/如何把超级个体的产能，转化成组织能力？ AI跃迁者调研_腾讯新闻.md — added ingested, sha256, renamed url→source_url
+
+### New pages created (8)
+**Concepts (5):**
+- concepts/super-individual.md — 超级个体：定义、四特征、三条觉醒路径、能力排序洗牌、分化加速器
+- concepts/super-team.md — 超级团队：聚合四重原因、协作本质变化、四种涌现路径、三种形态（节点辐射/网络协作/AI中枢）、运作机制
+- concepts/organization-competitiveness-formula.md — 组织竞争力 = 人才密度 × AI 杠杆 / 组织摩擦
+- concepts/system-designer.md — 系统设计师：AI 原生组织非产研新角色
+- concepts/prototype-driven-workflow.md — 原型驱动工作流：线性流水线→原型驱动
+
+**Entities (3):**
+- entities/li-zhifei.md — 李志飞：出门问问创始人，超级个体→超级组织实践者
+- entities/mobvoi.md — 出门问问（Mobvoi）：AI 公司，激进全栈组织转型
+- entities/codebanana.md — CodeBanana：出门问问自研的 AI 原生组织操作系统
+
+### Pages updated (4)
+- concepts/super-creator.md — added cross-link to super-individual
+- concepts/one-person-company.md — added cross-link to super-individual
+- concepts/ai-native-organization.md — added cross-links to super-team, super-individual, organization-competitiveness-formula
+- concepts/hierarchy-to-intelligence.md — added cross-links to super-individual, organization-competitiveness-formula
+
+## [2026-07-03] lint+fix | Post-ingest reconciliation
+- index.md rebuilt from filesystem: 216 pages (43 entities, 167 concepts, 3 comparisons, 3 queries)
+- Orphans detected: 8 (pre-existing, not from this batch)
+- Broken wikilinks fixed: 2
+  - system-designer → [[full-stack-transformation]] — removed (no source page)
+  - super-team → [[codebuddy]] — converted to plain text CodeBuddy
+- Near-duplicates: 9 potential pairs (pre-existing, ratio > 70%)
+- All 468 files marked as built
+- Log rotation: 744 lines (not yet at 500 entry threshold)
+
+

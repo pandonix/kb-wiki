@@ -1,10 +1,10 @@
 ---
 title: AI 时代的外包思考风险
 created: 2026-05-29
-updated: 2026-06-12
+updated: 2026-07-03
 type: concept
 tags: [philosophy, agent, thought]
-sources: [raw/articles/谷歌辞职、创业失败、重读神经科学，她说 AI 时代最危险的事是外包你的思考 ｜ 万有引力.md, raw/articles/2026-06-11-人是最慢的节点还怎么管AI-Agent.md]
+sources: [raw/articles/谷歌辞职、创业失败、重读神经科学，她说 AI 时代最危险的事是外包你的思考 ｜ 万有引力.md, raw/articles/2026-06-11-人是最慢的节点还怎么管AI-Agent.md, raw/articles/人机对齐？不，是人正在向机器对齐.md]
 confidence: high
 ---
 
@@ -43,6 +43,18 @@ Anne-Laure 引用神经科学中的「生成效应」：当你用自己的语言
 如果开发者长期把初始构思、问题定义和深度思考都交给 AI，短期产出会提升，但中长期可能削弱问题感、判断力和技术直觉。真正有韧性的 AI 使用者会保留一部分非自动化的主体性训练。
 
 这与 [[ai-human-boundary]] 中「好的 AI 让人更像人」的判断一致，也与 [[marx-alienation]] 的人为工具服务的异化风险相呼应。
+
+## 社会层面的认知投降机制
+
+ICLR 2025 研究报告 *We Shape AI, and Thereafter AI Shape Us* 揭示了人类向 AI 外包思考的社会心理机制：^[raw/articles/人机对齐？不，是人正在向机器对齐.md]
+
+- **传染机制**：人不自觉吸收 AI 的认知模式 → 简化思考、固化思维、转移判断、认知同质化
+- **从众机制**：人感知 AI 的「权威感」「多数意见」后主动调整自身认知，寻求认同、降低不确定性
+- **认知投降（Cognitive Surrender）**：当人类习惯依赖 AI 的建议和答案，会逐渐丧失自主判断与自主创造的潜力
+
+这三种机制不依赖主动选择——人在不知不觉中就向 AI 对齐了。这与本页的「用进废退」逻辑同构：认知投降是用进废退在大脑回路层面的社会表现。
+
+→ 详见 [[human-aligning-to-ai]]
 
 ## 相关概念
 
