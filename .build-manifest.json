@@ -756,7 +756,15 @@
     "raw/articles/超级个体时代｜腾讯研究院3万字报告_腾讯新闻.md": {
       "sha256": "8aca7c81218f80c6762420b46051f5d2d5651d4ea00b7cc79c7c24df9391f9db",
       "built": true,
-      "wiki_pages": [],
+      "wiki_pages": [
+        "entities/mobvoi.md",
+        "entities/codebanana.md",
+        "entities/li-zhifei.md",
+        "concepts/organization-competitiveness-formula.md",
+        "concepts/prototype-driven-workflow.md",
+        "concepts/super-team.md",
+        "concepts/super-individual.md"
+      ],
       "last_ingested": "2026-07-03"
     },
     "raw/articles/DeepSeek与AIGC应用.pdf.md": {
@@ -1402,7 +1410,15 @@
     "raw/articles/如何把超级个体的产能，转化成组织能力？ AI跃迁者调研_腾讯新闻.md": {
       "sha256": "a5e24b430c6ab2159058e5fc594a6df0c4bb4e73947a04a1bead349ad684c54b",
       "built": true,
-      "wiki_pages": [],
+      "wiki_pages": [
+        "entities/mobvoi.md",
+        "entities/codebanana.md",
+        "entities/li-zhifei.md",
+        "concepts/system-designer.md",
+        "concepts/prototype-driven-workflow.md",
+        "concepts/super-team.md",
+        "concepts/super-individual.md"
+      ],
       "last_ingested": "2026-07-03"
     },
     "raw/articles/AI Agent公司应该怎样组织人才.md": {
@@ -2477,7 +2493,11 @@
     "raw/articles/人机对齐？不，是人正在向机器对齐.md": {
       "sha256": "3c1ddc401d15ad4a6fef850c1800f942c07143f32337935bc1b7ba98806f4840",
       "built": true,
-      "wiki_pages": [],
+      "wiki_pages": [
+        "concepts/outsourcing-thinking-ai.md",
+        "concepts/ai-judgment-baseline.md",
+        "concepts/human-aligning-to-ai.md"
+      ],
       "last_ingested": "2026-07-03"
     },
     "raw/articles/隔夜交易四因子模型，附因子公式.md": {
@@ -2629,7 +2649,10 @@
     "raw/articles/为何企业80%的AI投入看不到效果？｜AI时代企业变革的认知方法论与战略判断框架.md": {
       "sha256": "42c3add8e34d2ca9dec31be8adf062a4e2fbaa3bb4192186494c437ac5185c47",
       "built": true,
-      "wiki_pages": [],
+      "wiki_pages": [
+        "concepts/ai-organization-adoption.md",
+        "concepts/ai-business-roi-framework.md"
+      ],
       "last_ingested": "2026-07-03"
     },
     "raw/articles/AI无论怎么发展，绝对无法超过人类的有哪些方面？.md": {
