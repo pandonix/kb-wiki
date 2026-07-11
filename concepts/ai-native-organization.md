@@ -1,10 +1,10 @@
 ---
 title: AI Native 组织模式
 created: 2026-05-22
-updated: 2026-06-16
+updated: 2026-07-11
 type: concept
 tags: [management, agent, company, ml]
-sources: [raw/articles/组织能力才是 AI 公司真正的壁垒｜42章经.md, raw/articles/2026-05-28-AI越强人越忙一个住在未来的人说了什么.md, raw/articles/2026-06-01-AI-native下组织形式思考.md, raw/articles/2026-06-01-一个理想的组织是AI Agent在组织人.md, raw/articles/Claude Code之父：品味不是人类护城河；当工程师不再写代码，招聘看什么？.md, raw/articles/2026-06-11-人是最慢的节点还怎么管AI-Agent.md]
+sources: [raw/articles/组织能力才是 AI 公司真正的壁垒｜42章经.md, raw/articles/2026-05-28-AI越强人越忙一个住在未来的人说了什么.md, raw/articles/2026-06-01-AI-native下组织形式思考.md, raw/articles/2026-06-01-一个理想的组织是AI Agent在组织人.md, raw/articles/Claude Code之父：品味不是人类护城河；当工程师不再写代码，招聘看什么？.md, raw/articles/2026-06-11-人是最慢的节点还怎么管AI-Agent.md, raw/articles/2026-07-10-AI公司为何把哲学家请进实验室.md]
 confidence: medium
 ---
 
@@ -83,6 +83,9 @@ confidence: medium
 - [[super-team]] — 超级团队：三种形态（节点辐射型/网络协作型/AI 中枢型）
 - [[super-individual]] — 超级个体：AI Native 组织的核心构成单元
 - [[organization-competitiveness-formula]] — 组织竞争力 = 人才密度 × AI 杠杆 / 组织摩擦
+- [[ai-alignment-governance]] — AI 价值对齐治理：成熟度模型中的价值对齐维度
+- [[claude-constitution]] — Claude 宪法：Anthropic 的工程型价值内嵌实践
+- [[alignment-faking]] — 对齐假装：治理的外部约束需求
 
 ## AI Outcome Pod：AI-native 的基本组织单元
 
@@ -230,3 +233,18 @@ Every 是一家约 30 人、全员重度使用 Codex / Claude Code 的公司。�
 Every 内部设立了专门维护 Agent 的角色——Forward Deployed Engineer（前沿部署工程师），负责维护公司级 Agent、处理错误、优化上下文、治理权限。
 
 详见 [[forward-deployed-engineer-ai]] 和 [[agent-owner-role]]。
+
+## 成熟度模型中的价值对齐维度
+
+AI Native 组织的成熟度不能只看生产率闭环、私有 eval、Agent 工作流、trace 和 ROI。文章指出还需要考察价值对齐维度：^[raw/articles/2026-07-10-AI公司为何把哲学家请进实验室.md]
+
+### 关键问题
+
+- **价值原则如何被定义？** 是创始人单方决定，还是有多方参与机制？
+- **谁有权修改对齐原则？** 修改是否需要经过某种"立法程序"？
+- **是否存在外部约束？** 监管、审计、公众评议能否进入组织的对齐决策？
+- **业务压力是否会覆盖安全与伦理原则？** 伦理团队是否有独立否决权，还是从属于产品团队？
+
+### 与 Anthropic 实践的关联
+
+[[anthropic]] 通过 [[claude-constitution]] 将价值原则显式化——这套"宪法"由哲学家参与设计（Amanda Askell 等），但治理问题依然存在：宪法由谁批准？谁有权修改？是内部文档还是公开承诺？这些问题对应 [[ai-alignment-governance]] 的核心关切。^[raw/articles/2026-07-10-AI公司为何把哲学家请进实验室.md]

@@ -1,8 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
-> Read this first to find relevant pages for any query.
-> Last updated: 2026-07-03 | Total pages: 216
+> Last updated: 2026-07-11
 
 ## Entities
 - [[ahacreator]] — AhaCreator
@@ -61,6 +60,7 @@
 - [[agentic-ai]] — Agentic AI（智能体 AI）
 - [[agentic-forecasting]] — Agentic Forecasting
 - [[agentwashing]] — Agentwashing：智能体洗白与虚假智能体化
+- [[ai-alignment-governance]] — AI 价值对齐治理
 - [[ai-alignment]] — AI Alignment
 - [[ai-aphasia]] — AI 失语与错误谱系
 - [[ai-architecture-governance]] — AI 时代架构治理
@@ -91,6 +91,7 @@
 - [[ai-writing-flavor]] — AI 写作味：LLM 均值回归与风格困境
 - [[aigc-detection-education]] — AIGC 检测与高等教育评价
 - [[alibaba-investment-analysis]] — 阿里巴巴投资分析
+- [[alignment-faking]] — 对齐假装
 - [[analogical-overshadowing]] — 类比遮蔽效应
 - [[antique-market-lemons]] — 古董市场的柠檬问题
 - [[art-of-war-taoism]] — 孙子兵法与道家
@@ -106,6 +107,7 @@
 - [[calmar-ratio]] — 卡玛比率（Calmar Ratio）
 - [[capitalist-realism]] — 资本主义现实主义
 - [[causality-philosophy]] — 因果：从休谟到珀尔的哲学追问
+- [[claude-constitution]] — Claude 宪法 / 宪制AI
 - [[claw-code-runtime]] — Claw Code Agent Runtime
 - [[co-design-ai]] — AI 产品与模型 Co-Design 协同设计
 - [[cognitive-scripts]] — 认知脚本（Cognitive Scripts）
@@ -155,6 +157,7 @@
 - [[leadership-short-termism]] — 领导短期主义与任期错配
 - [[lee-kuan-yew-leadership]] — 李光耀领导力大师课
 - [[life-awakening]] — 人生觉醒三阶段
+- [[machine-consciousness-social-risk]] — 机器意识与社会先行风险
 - [[macroeconomic-investment-framework]] — 宏观经济投资框架
 - [[management-taboos]] — 管理禁忌
 - [[marx-alienation]] — 马克思异化理论
@@ -227,3 +230,5 @@
 - [[ai-writing-literary-mistake]] — AI 写作是否是文学史上最大的错误 — Wiki 交叉分析
 - [[three-career-scripts-analysis]] — 三种职业限制脚本的Wiki交叉分析
 - [[wechat-moat-ai-era]] — 微信护城河在 AI 时代是否会被打破 — Wiki 交叉分析
+
+> Total pages: 220

@@ -1,7 +1,7 @@
 {
   "version": 2,
   "last_build": "2026-05-26T18:45:00",
-  "total_raw": 468,
+  "total_raw": 469,
   "files": {
     "raw/马克思讲的异化.md": {
       "sha256": "8045f967752f3f87854c474e836e92508dc81a54fb5d9055614ace4f76f85f2a",
@@ -1909,6 +1909,12 @@
       "built": true,
       "wiki_pages": [],
       "last_ingested": "2026-05-22"
+    },
+    "raw/articles/2026-07-10-AI公司为何把哲学家请进实验室.md": {
+      "sha256": "adee0bec250dbbd53617942462c3cdb101d6eb3b8a32fb25eedc682cb56665f7",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-07-11"
     },
     "raw/articles/刚刚，奥特曼家被炸了.md": {
       "sha256": "00879b6dfc42caf857bc84905f12acfce79221470c2c96c0502dab92fa8166a1",

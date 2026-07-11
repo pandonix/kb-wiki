@@ -751,4 +751,26 @@ Total pages: 206 → 208 → 216
 - All 468 files marked as built
 - Log rotation: 744 lines (not yet at 500 entry threshold)
 
+## [2026-07-11] ingest | AI 公司为何把哲学家请进实验室（1 raw file → 4 new concepts + 4 updates）
+- Raw file: raw/articles/2026-07-10-AI公司为何把哲学家请进实验室.md (+frontmatter: source_url, ingested, sha256)
+- New concepts (4):
+  - [[ai-alignment-governance]] — AI 价值对齐治理：四个核心命题（价值定义合法性、成熟度缺口、业务压力 vs 安全原则、超级对齐解散信号）
+  - [[claude-constitution]] — Claude 宪法 / 宪制AI：Anthropic 工程型价值内嵌（Amanda Askell、3H、人格对齐）
+  - [[alignment-faking]] — 对齐假装：策略性伪装 vs 谄媚的区别，Anthropic 2024 论文
+  - [[machine-consciousness-social-risk]] — 机器意识与社会先行风险（Shevlin/DeepMind）：人→AI 投射通道
+- Updated pages (4):
+  - [[ai-alignment]] — 新增治理维度、Iason Gabriel 对齐层级、哲学家角色、对齐假装关联
+  - [[ai-native-organization]] — 新增成熟度模型中的价值对齐维度
+  - [[anthropic]] — 新增 Claude 宪法、Amanda Askell、3H 原则、工程型 vs 研究型对比
+  - [[human-aligning-to-ai]] — 新增 Iason Gabriel 双向对齐复杂性、机器意识社会先行风险
+- Index updated: 216 → 220 total pages
+
+## [2026-07-11] reconcile | Daily sync reconciliation
+- Index rebuilt from filesystem: 220 pages
+- Orphans: 8 (pre-existing, not from this ingest)
+- Broken wikilinks fixed: 1 (human-aligning-to-ai → ai-alignment#fragment → plain wikilink)
+- Near-duplicates: 14 pairs (pre-existing, ratio > 70%)
+- Raw frontmatter: 3 files lack delimiters (pre-existing)
+- All 469 files marked as built (0 unbuilt)
+
 

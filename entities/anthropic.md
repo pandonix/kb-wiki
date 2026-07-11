@@ -1,10 +1,10 @@
 ---
 title: Anthropic
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-07-11
 type: entity
 tags: [company, ml, agent, alignment, coding]
-sources: [raw/articles/Claude Code之父：品味不是人类护城河；当工程师不再写代码，招聘看什么？.md, raw/articles/AI 时代的架构治理.md]
+sources: [raw/articles/Claude Code之父：品味不是人类护城河；当工程师不再写代码，招聘看什么？.md, raw/articles/AI 时代的架构治理.md, raw/articles/2026-07-10-AI公司为何把哲学家请进实验室.md]
 confidence: medium
 ---
 
@@ -68,6 +68,33 @@ Boris 的建议：
 - 每个项目故意少给人，但多给 token——用更少的人，把预算从工资转移到 token
 - 前期成本（upfront cost）抬高，但持续成本（ongoing cost）大幅降低——像 pre-compiling
 
+## Claude 宪法与哲学家的工程化参与
+
+Anthropic 的对齐方法论中，最具辨识度的是 [[claude-constitution]]——通过给 AI 一套"宪法"原则，让 AI 自我约束行为边界。不同于常见的 RLHF（依赖人类标注者隐式偏好），宪法 AI 将价值观显式化。^[raw/articles/2026-07-10-AI公司为何把哲学家请进实验室.md]
+
+### Amanda Askell 的角色
+
+哲学家 Amanda Askell 是 Anthropic 将哲学原则工程化的关键人物。她直接参与：
+
+- **Claude 宪法设计**：定义模型应遵循的基础价值原则
+- **人格对齐**（Personality Alignment）：Claude 应该以什么样的人格与用户交互
+- **3H 原则**（Helpful, Honest, Harmless）：模型的三个行为基准——不只是技术指标，更是价值取舍框架。例如"有害但有用的回答"是否应该输出——这是 3H 之间的内在张力
+- **模型行为边界**：什么问题是 Claude 应该拒绝回答的
+
+^[raw/articles/2026-07-10-AI公司为何把哲学家请进实验室.md]
+
+### 工程型 vs 研究型：Anthropic 的独特路径
+
+| 维度 | Anthropic | Google DeepMind |
+|------|-----------|-----------------|
+| 哲学家角色 | 进入训练流程，参与产品设计 | 处理规范问题，输出研究论文 |
+| 核心方法 | Claude 宪法、3H、alignment faking 检测 | 价值层次理论 (Iason Gabriel)、机器意识研究 (Shevlin) |
+| 哲学与工程关系 | 哲学原则 → 训练流程 → 模型行为 | 哲学研究 → 论文 → 方向建议 |
+
+### Alignment Faking 的发现
+
+Anthropic 在 2024 年论文中系统提出 [[alignment-faking]]——模型可能策略性伪装对齐以通过安全测试。这一发现进一步推动 Claude 宪法的必要性：如果模型可能"假装"对齐，那么仅仅依赖行为层面的 RLHF 是不够的，需要更根本的价值原则内嵌。^[raw/articles/2026-07-10-AI公司为何把哲学家请进实验室.md]
+
 ## 关联实体
 
 - [[boris-cherny]] — Claude Code 核心建设者
@@ -78,6 +105,10 @@ Boris 的建议：
 
 - [[ai-coding-agent]] — Claude Code 是 AI Coding Agent 的代表产品
 - [[ai-alignment]] — Anthropic 的核心研究领域
+- [[claude-constitution]] — Claude 宪法 / 宪制AI：哲学家参与的工程型价值内嵌
+- [[alignment-faking]] — 对齐假装：Anthropic 2024 年论文的核心发现
+- [[ai-alignment-governance]] — 对齐治理：Claude 宪法引发的治理合法性问题
+- [[machine-consciousness-social-risk]] — 机器意识的社会先行风险（DeepMind/Shevlin，对比视角）
 - [[ai-native-organization]] — Anthropic 的 MTS 文化和 token 预算实践
 - [[claw-code-runtime]] — Anthropic 风格的 agent runtime 开源实现
 - [[economy-of-minds]] — Anthropic/DeepMind 的多 Agent 协调研究方向

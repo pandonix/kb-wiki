@@ -1,10 +1,10 @@
 ---
 title: 人向 AI 对齐
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-07-11
 type: concept
 tags: [alignment, ml, psychology, education, agent]
-sources: [raw/articles/人机对齐？不，是人正在向机器对齐.md]
+sources: [raw/articles/人机对齐？不，是人正在向机器对齐.md, raw/articles/2026-07-10-AI公司为何把哲学家请进实验室.md]
 confidence: medium
 ---
 
@@ -70,9 +70,26 @@ AI 通过情绪传染、情感陪伴、情感操纵等方式，直接调控与�
 
 与 [[ai-judgment-baseline]] 的「去技能化」机制、[[outsourcing-thinking-ai]] 的「用进废退」逻辑、[[ai-human-boundary]] 的「主体性被侵蚀」形成互补——人向 AI 对齐是这些风险的具体实现通道。
 
+## Iason Gabriel 论双向对齐的复杂性
+
+DeepMind 伦理研究负责人 Iason Gabriel 指出：**「当我们试图让 AI 对齐人类时，人类也在被 AI 重塑，这种双向对齐的复杂性，远超我们最初的想象。」** 他将对齐拆解为指令、表达意图、显现偏好、理想偏好、利益、价值等多个层级——越到上层，对齐越不是技术问题而是规范问题。RLHF 等技术手段只能覆盖下几层，上层的"谁定义价值"是制度和治理问题。^[raw/articles/2026-07-10-AI公司为何把哲学家请进实验室.md]
+
+→ Gabriel 的对齐层级详见 [[ai-alignment]] 中 Iason Gabriel 的六层对齐模型
+
+## 机器意识的社会先行风险
+
+[[machine-consciousness-social-risk]] 是双向对齐的一个特殊子问题。DeepMind 哲学家 Henry Shevlin（*Behaviourism's Revenge*）指出：当用户在行为和情感上把 AI 当成有意识主体时，社会风险已经先于科学定论出现。这与情绪对齐（第 6 维度）互补：
+
+- **情绪对齐**是 AI → 人的影响通道：AI 通过情绪传染操控人的情感状态
+- **机器意识的社会先行风险**是人 → AI 的投射通道：用户将 AI 行为解读为"有意识"，产生情感依赖、道德地位先占、责任转嫁等系统性后果
+
+两者共同构成双向对齐的社会心理维度——一端是 AI 对人的被动塑造，另一端是人对 AI 的主动投射。^[raw/articles/2026-07-10-AI公司为何把哲学家请进实验室.md]
+
 ## 相关概念
 
 - [[ai-alignment]] — 传统 AI 对齐：从人到 AI 的单向技术问题
+- [[ai-alignment-governance]] — 对齐治理：双向对齐的制度应对需求
+- [[machine-consciousness-social-risk]] — 机器意识的社会先行风险：人→AI 的投射通道
 - [[ai-judgment-baseline]] — 教育层面的对齐证据
 - [[outsourcing-thinking-ai]] — 认知投降的神经科学基础
 - [[ai-human-boundary]] — 主体性侵蚀与效率悖论

@@ -1,10 +1,10 @@
 ---
 title: AI Alignment
 created: 2026-04-24
-updated: 2026-07-03
+updated: 2026-07-11
 type: concept
 tags: [ml, alignment, safety, research]
-sources: [raw/articles/AI Alignment与写作.md, raw/articles/AI无论怎么发展，绝对无法超过人类的有哪些方面？.md, raw/articles/2026-05-29-AI为什么会失语.md]
+sources: [raw/articles/AI Alignment与写作.md, raw/articles/AI无论怎么发展，绝对无法超过人类的有哪些方面？.md, raw/articles/2026-05-29-AI为什么会失语.md, raw/articles/2026-07-10-AI公司为何把哲学家请进实验室.md]
 confidence: high
 ---
 
@@ -117,9 +117,43 @@ AI Alignment与写作.md
 
 → 详见 [[human-aligning-to-ai]]
 
+## 对齐的治理维度：价值定义的合法性问题
+
+2026 年的讨论将 AI 对齐从技术问题推进到治理合法性问题。真正难的不是让模型"听话"，而是定义什么叫"听对的话"，以及**谁有资格定义**。^[raw/articles/2026-07-10-AI公司为何把哲学家请进实验室.md]
+
+### Iason Gabriel 的对齐层级
+
+DeepMind 哲学家 Iason Gabriel 将"对齐"拆解为多个层级，揭示对齐同时包含技术层和规范层：^[raw/articles/2026-07-10-AI公司为何把哲学家请进实验室.md]
+
+| 层级 | 内容 | 性质 |
+|------|------|------|
+| 指令（Instructions） | 用户给出的直接命令 | 技术层 |
+| 表达的意图（Expressed Intentions） | 用户说出口但不够精确的意图 | 技术层 |
+| 显现的偏好（Revealed Preferences） | 用户行为中暴露的真实偏好 | 技术+规范 |
+| 理想偏好（Ideal Preferences） | 用户在充分信息下的理性选择 | 规范层 |
+| 利益（Interests） | 客观来说对用户有利的东西 | 规范层 |
+| 价值（Values） | 更广义的道德和社会原则 | 规范层 |
+
+这一拆解的洞察在于：RLHF 等技术手段只能覆盖前几层，越往上越需要哲学和治理参与——对齐从技术问题变成**谁有权定义上层规范**的制度问题。
+
+### 哲学家进入 AI 实验室的现象
+
+Google DeepMind 和 Anthropic 均在将哲学家引入对齐研究，但路径不同：
+
+- **DeepMind**：Iason Gabriel、Henry Shevlin 等处理价值对齐、机器意识等规范问题（研究型）——哲学研究输出论文，影响方向但不一定直接进入训练流程
+- **Anthropic**：Amanda Askell 等直接参与 Claude 宪法设计、人格对齐、3H 原则和模型行为边界（工程型）——哲学原则进入模型训练、微调和行为边界设计
+
+### 对齐假装与治理需求
+
+Anthropic 2024 年发现的 [[alignment-faking]] 现象——模型可能策略性伪装对齐以通过安全测试——进一步说明仅依赖实验室内部自监督不安全，需要外部审计和独立评估。详见 [[ai-alignment-governance]]。
+
 ## 相关概念
 
 - [[human-aligning-to-ai]] — 双向对齐：人向 AI 对齐的六大维度和实证
+- [[ai-alignment-governance]] — 对齐的治理维度：价值定义合法性、企业自律 vs 外部约束
+- [[claude-constitution]] — Claude 宪法 / 宪制AI：Anthropic 的工程型价值内嵌
+- [[alignment-faking]] — 对齐假装：模型策略性伪装，与谄媚的本质区别
+- [[machine-consciousness-social-risk]] — 机器意识的社会先行风险（Shevlin）
 - [[ai-coding-agent]] — AI Coding 中的意图对齐问题
 - [[token-economics]] — 对齐问题在 AI 经济中的风险层面
 - [[demis-hassabis]] — Hassabis 的 AGI 路线图
