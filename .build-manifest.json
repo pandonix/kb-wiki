@@ -1913,7 +1913,16 @@
     "raw/articles/2026-07-10-AI公司为何把哲学家请进实验室.md": {
       "sha256": "adee0bec250dbbd53617942462c3cdb101d6eb3b8a32fb25eedc682cb56665f7",
       "built": true,
-      "wiki_pages": [],
+      "wiki_pages": [
+        "entities/anthropic.md",
+        "concepts/ai-alignment.md",
+        "concepts/ai-native-organization.md",
+        "concepts/claude-constitution.md",
+        "concepts/ai-alignment-governance.md",
+        "concepts/human-aligning-to-ai.md",
+        "concepts/alignment-faking.md",
+        "concepts/machine-consciousness-social-risk.md"
+      ],
       "last_ingested": "2026-07-11"
     },
     "raw/articles/刚刚，奥特曼家被炸了.md": {
