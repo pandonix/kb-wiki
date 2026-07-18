@@ -227,8 +227,9 @@
 - [[nev-vs-real-estate-macro]] — 新能源车与房地产的宏观角色对比
 
 ## Queries
+- [[ai-native-organization-characteristics]] — AI 原生组织特点分析 — Wiki 交叉综合
 - [[ai-writing-literary-mistake]] — AI 写作是否是文学史上最大的错误 — Wiki 交叉分析
 - [[three-career-scripts-analysis]] — 三种职业限制脚本的Wiki交叉分析
 - [[wechat-moat-ai-era]] — 微信护城河在 AI 时代是否会被打破 — Wiki 交叉分析
 
-> Total pages: 220
+> Total pages: 221
