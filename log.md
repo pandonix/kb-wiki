@@ -773,7 +773,11 @@ Total pages: 206 → 208 → 216
 - Raw frontmatter: 3 files lack delimiters (pre-existing)
 - All 469 files marked as built (0 unbuilt)
 
-## [2026-07-15] query | AI 原生组织特点分析 — Wiki 交叉综合
+## [2026-07-20] sync | Daily Obsidian → Wiki sync
+- Phase 0: 0 new files copied (469 existing basenames in raw/)
+- Phase 0.5: Manifest updated, 0 new, 0 changed, 469/469 built
+- All files already ingested — nothing to process
+- Wiki state: 469 raw files (7797 KB), 221 pages
 - 查阅页面(16)：ai-native-organization, ai-outcome-pod, super-team, super-individual, soul-team, agent-idle-rate, organization-competitiveness-formula, system-designer, prototype-driven-workflow, forward-deployed-engineer-ai, agent-owner-role, token-capital, business-generalist, ai-organization-adoption, anthropic, codebanana
 - 结论：AI 原生组织的本质是从劳动分工系统 → 判断与责任系统，十二个维度完整分析
 - Filed: queries/ai-native-organization-characteristics.md
