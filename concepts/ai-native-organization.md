@@ -1,10 +1,10 @@
 ---
 title: AI Native 组织模式
 created: 2026-05-22
-updated: 2026-07-11
+updated: 2026-07-23
 type: concept
 tags: [management, agent, company, ml]
-sources: [raw/articles/组织能力才是 AI 公司真正的壁垒｜42章经.md, raw/articles/2026-05-28-AI越强人越忙一个住在未来的人说了什么.md, raw/articles/2026-06-01-AI-native下组织形式思考.md, raw/articles/2026-06-01-一个理想的组织是AI Agent在组织人.md, raw/articles/Claude Code之父：品味不是人类护城河；当工程师不再写代码，招聘看什么？.md, raw/articles/2026-06-11-人是最慢的节点还怎么管AI-Agent.md, raw/articles/2026-07-10-AI公司为何把哲学家请进实验室.md]
+sources: [raw/articles/组织能力才是 AI 公司真正的壁垒｜42章经.md, raw/articles/2026-05-28-AI越强人越忙一个住在未来的人说了什么.md, raw/articles/2026-06-01-AI-native下组织形式思考.md, raw/articles/2026-06-01-一个理想的组织是AI Agent在组织人.md, raw/articles/Claude Code之父：品味不是人类护城河；当工程师不再写代码，招聘看什么？.md, raw/articles/2026-06-11-人是最慢的节点还怎么管AI-Agent.md, raw/articles/2026-07-10-AI公司为何把哲学家请进实验室.md, raw/articles/2026-07-23-梁文锋投资者交流会-DeepSeek以AGI愿景驱动开源与克制.md]
 confidence: medium
 ---
 
@@ -86,6 +86,9 @@ confidence: medium
 - [[ai-alignment-governance]] — AI 价值对齐治理：成熟度模型中的价值对齐维度
 - [[claude-constitution]] — Claude 宪法：Anthropic 的工程型价值内嵌实践
 - [[alignment-faking]] — 对齐假装：治理的外部约束需求
+- [[vision-driven-organization-deepseek]] — DeepSeek 愿景驱动组织：另一种 AI Native 组织范式
+- [[liang-wenfeng]] — 梁文锋：AGI 愿景作为组织粘合剂的实践者
+- [[deepseek-open-source-restraint]] — 开源与克制：愿景驱动组织的战略选择
 
 ## AI Outcome Pod：AI-native 的基本组织单元
 

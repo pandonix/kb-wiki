@@ -1,10 +1,10 @@
 ---
 title: AI 价值对齐治理
 created: 2026-07-11
-updated: 2026-07-11
+updated: 2026-07-23
 type: concept
 tags: [alignment, safety, management, company, ml]
-sources: [raw/articles/2026-07-10-AI公司为何把哲学家请进实验室.md]
+sources: [raw/articles/2026-07-10-AI公司为何把哲学家请进实验室.md, raw/articles/2026-07-23-梁文锋投资者交流会-DeepSeek以AGI愿景驱动开源与克制.md]
 confidence: medium
 ---
 
@@ -62,3 +62,6 @@ OpenAI 超级对齐团队的解散提示了一个结构性矛盾：**实验室�
 - [[ai-native-organization]] — AI 原生组织的成熟度评估应包含价值对齐维度
 - [[alignment-faking]] — 对齐假装：模型策略性伪装，治理的外部约束需求
 - [[human-aligning-to-ai]] — 双向对齐：治理需要回答"人向 AI 对齐"中的制度应对
+- [[deepseek-open-source-restraint]] — 开源与克制：以企业自律替代外部约束的实践案例
+- [[vision-driven-organization-deepseek]] — 愿景驱动组织：当自律来自愿景而非制度时的治理结构
+- [[ten-month-roi-pricing]] — 十个月回本定价：自律在商业化中的直接表达

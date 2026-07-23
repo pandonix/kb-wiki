@@ -773,14 +773,27 @@ Total pages: 206 → 208 → 216
 - Raw frontmatter: 3 files lack delimiters (pre-existing)
 - All 469 files marked as built (0 unbuilt)
 
-## [2026-07-20] sync | Daily Obsidian → Wiki sync
-- Phase 0: 0 new files copied (469 existing basenames in raw/)
-- Phase 0.5: Manifest updated, 0 new, 0 changed, 469/469 built
-- All files already ingested — nothing to process
-- Wiki state: 469 raw files (7797 KB), 221 pages
-- 查阅页面(16)：ai-native-organization, ai-outcome-pod, super-team, super-individual, soul-team, agent-idle-rate, organization-competitiveness-formula, system-designer, prototype-driven-workflow, forward-deployed-engineer-ai, agent-owner-role, token-capital, business-generalist, ai-organization-adoption, anthropic, codebanana
-- 结论：AI 原生组织的本质是从劳动分工系统 → 判断与责任系统，十二个维度完整分析
-- Filed: queries/ai-native-organization-characteristics.md
-- Index: 220 → 221
+## [2026-07-23] ingest | 梁文锋投资者交流会：DeepSeek以AGI愿景驱动开源与克制（1 raw file → 6 new concepts + 1 new entity + 6 updates）
+- Raw file: raw/articles/2026-07-23-梁文锋投资者交流会-DeepSeek以AGI愿景驱动开源与克制.md
+  - Frontmatter merged: +source_url, +ingested: 2026-07-23, +sha256: 7ce1b876a5c408dd599e71b72da69c020fa436289a89b4a5b9e8a45d53717449
+- New concept pages (6):
+  - [[deepseek-open-source-restraint]] — 开源与克制的辩证关系：AI市场太大，独占必被历史抛弃
+  - [[ten-month-roi-pricing]] — API 十个月回本定价模型：非利润最大化，合理利润哲学
+  - [[dimensionality-reduction-product]] — 降维打击：C端和B端是AGI的副产物
+  - [[vision-driven-organization-deepseek]] — DeepSeek 愿景驱动组织：无KPI/无层级/靠愿景凝聚
+  - [[llm-endgame-differentiation]] — 大模型终局差异三要素：成本/时间/体验
+  - [[domestic-ai-chip-historic-opportunity]] — 国产AI芯片的历史性机会：CUDA瓦解与TileLang
+- New entity page (1):
+  - [[liang-wenfeng]] — 梁文锋，DeepSeek创始人，愿景驱动与克制战略
+- Updated pages (6):
+  - [[deepseek-v4-architecture]] — 新增组织哲学context，+4 related concepts
+  - [[ai-native-organization]] — DeepSeek愿景驱动作为案例，+3 related concepts
+  - [[human-meaning-agi]] — AGI愿景的"善意"维度，+2 related concepts
+  - [[measurability-gap-agi]] — API定价与可测量性连线，+2 related concepts
+  - [[survivor-count-pricing-power]] — 十个月回本与定价权关联，+3 related concepts
+  - [[ai-alignment-governance]] — 克制作为企业自律案例，+3 related concepts
+- Index updated: 221 → 228 total pages
+
+
 
 

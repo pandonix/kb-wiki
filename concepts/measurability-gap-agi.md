@@ -1,10 +1,10 @@
 ---
 title: 可测量性鸿沟与 AGI 经济
 created: 2026-04-24
-updated: 2026-04-24
+updated: 2026-07-23
 type: concept
-tags: [ml, invest, paper]
-sources: [raw/articles/Some Simple Economics of AGI.md]
+tags: [ml, invest, paper, company, economics]
+sources: [raw/articles/Some Simple Economics of AGI.md, raw/articles/2026-07-23-梁文锋投资者交流会-DeepSeek以AGI愿景驱动开源与克制.md]
 confidence: medium
 ---
 
@@ -53,3 +53,5 @@ AI 如果只是模仿现有的人类产出，而不能产生新的可靠价值�
 - [[token-economics]] — AI 时代的计量单位与成本结构
 - [[ai-economy-impact]] — AI 对宏观经济的整体影响
 - [[second-order-thinking]] — 验证能力的重要性本身就是二阶思维的体现
+- [[ten-month-roi-pricing]] — DeepSeek 十个月回本定价：验证成本被内化在设备投资回收期中的实践
+- [[llm-endgame-differentiation]] — 大模型终局差异：成本是核心变量，与可测量性鸿沟呼应

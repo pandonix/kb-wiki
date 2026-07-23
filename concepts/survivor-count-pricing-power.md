@@ -1,10 +1,10 @@
 ---
 title: 幸存者数量 N 与定价权
 created: 2026-06-25
-updated: 2026-06-25
+updated: 2026-07-23
 type: concept
-tags: [economics, political-economy, invest, company, game-theory]
-sources: [raw/agent/中国企业为何陷入内卷竞争.md]
+tags: [economics, political-economy, invest, company, game-theory, ml]
+sources: [raw/agent/中国企业为何陷入内卷竞争.md, raw/articles/2026-07-23-梁文锋投资者交流会-DeepSeek以AGI愿景驱动开源与克制.md]
 confidence: high
 ---
 
@@ -82,3 +82,6 @@ N 家企业竞争 100 元利润，每家投入 e_i。对称纳什均衡下，10 
 - [[pareto-inefficiency]] — 帕累托无效与共谋均衡：N=50 的「1 元均衡」是帕累托无效但纳什稳定的状态
 - [[scale-not-roic-trap]] — 规模非 ROIC 陷阱：资本目标函数错误放大了 N 的问题
 - [[tech-revolution-financial-capital]] — 部署期产能过度积累：历史视角下的 N 问题
+- [[ten-month-roi-pricing]] — DeepSeek 十个月回本定价：在 N 还未收敛时的定价策略选择
+- [[deepseek-open-source-restraint]] — 开源与克制：以克制换取长期做成概率的微观案例
+- [[llm-endgame-differentiation]] — 大模型终局：当 N 收敛时，成本成为第一差异变量

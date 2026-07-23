@@ -1,10 +1,10 @@
 ---
 title: 人类的意义与AGI
 created: 2026-05-18
-updated: 2026-05-26
+updated: 2026-07-23
 type: concept
-tags: [philosophy, thought]
-sources: [raw/articles/人类的意义.md]
+tags: [philosophy, thought, ml]
+sources: [raw/articles/人类的意义.md, raw/articles/2026-07-23-梁文锋投资者交流会-DeepSeek以AGI愿景驱动开源与克制.md]
 confidence: medium
 ---
 
@@ -68,3 +68,5 @@ AGI 时代更会问：你为什么而活？
 - [[desire-scarcity-migration]] — 人的欲望与稀缺迁移
 - [[marx-alienation]] — 马克思异化理论
 - [[ai-human-boundary]] — AI 与人的边界：效率解放还是系统加速
+- [[vision-driven-organization-deepseek]] — DeepSeek 愿景驱动组织：以"对世界的善意"为出发点的 AGI 实践
+- [[liang-wenfeng]] — 梁文锋："怀着对这个世界非常大的善意来做这个事"

@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "last_build": "2026-05-26T18:45:00",
-  "total_raw": 469,
+  "last_build": "2026-07-23T08:15:00",
+  "total_raw": 470,
   "files": {
     "raw/马克思讲的异化.md": {
       "sha256": "8045f967752f3f87854c474e836e92508dc81a54fb5d9055614ace4f76f85f2a",
@@ -2014,6 +2014,12 @@
       "built": true,
       "wiki_pages": [],
       "last_ingested": "2026-05-22"
+    },
+    "raw/articles/2026-07-23-梁文锋投资者交流会-DeepSeek以AGI愿景驱动开源与克制.md": {
+      "sha256": "952d7e2406498c170e199e21be067c2b7ed4753b46162e778ff17097f5d0a0dc",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-07-23"
     },
     "raw/articles/系统多？获客难？银行如何透过用户旅程优化产品体验.md": {
       "sha256": "b6095d0276c4344a58d7905e998b4d6301c4f9ea7264211f1528726d39857f12",

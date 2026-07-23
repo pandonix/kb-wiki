@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
-> Last updated: 2026-07-11
+> Last updated: 2026-07-23
 
 ## Entities
 - [[ahacreator]] — AhaCreator
@@ -30,6 +30,7 @@
 - [[juzi-orange]] — 橘子（冯雷）— ColaOS / ListenHub 创始人
 - [[karpathy]] — Andrej Karpathy
 - [[li-zhifei]] — 李志飞（Li Zhifei）
+- [[liang-wenfeng]] — 梁文锋（Liang Wenfeng）
 - [[lyu-peng]] — 吕鹏（Lyu Peng）
 - [[ma-huateng]] — 马化腾（Ma Huateng / Pony Ma）
 - [[marcos-lopez-de-prado]] — Marcos López de Prado
@@ -115,10 +116,13 @@
 - [[context-engineering]] — 上下文工程
 - [[copilot-learning]] — Copilot 与学习效果
 - [[declarative-architecture]] — 声明式架构
+- [[deepseek-open-source-restraint]] — DeepSeek 开源与克制的辩证关系
 - [[deepseek-v4-architecture]] — DeepSeek-V4 长上下文架构
 - [[delegation-interaction-paradigm]] — 委托式交互范式
 - [[desire-scarcity-migration]] — 人的欲望与稀缺迁移
 - [[dialectical-materialism]] — 辩证唯物主义
+- [[dimensionality-reduction-product]] — 降维打击：C 端和 B 端作为 AGI 的副产物
+- [[domestic-ai-chip-historic-opportunity]] — 国产 AI 芯片的历史性机会
 - [[dual-role-management]] — 兼岗分析
 - [[duan-yongping-investing]] — 段永平投资体系
 - [[economics-scarcity-assumption]] — 经济学的前提假设：稀缺性
@@ -157,6 +161,7 @@
 - [[leadership-short-termism]] — 领导短期主义与任期错配
 - [[lee-kuan-yew-leadership]] — 李光耀领导力大师课
 - [[life-awakening]] — 人生觉醒三阶段
+- [[llm-endgame-differentiation]] — 大模型终局差异三要素
 - [[machine-consciousness-social-risk]] — 机器意识与社会先行风险
 - [[macroeconomic-investment-framework]] — 宏观经济投资框架
 - [[management-taboos]] — 管理禁忌
@@ -209,6 +214,7 @@
 - [[tech-revolution-financial-capital]] — 技术革命与金融资本
 - [[technology-containment-history]] — 大国技术遏制史
 - [[technology-trap]] — 技术陷阱
+- [[ten-month-roi-pricing]] — API 十个月回本定价模型
 - [[think-make-framework]] — Think/Make 精力分配框架
 - [[three-poisons]] — 佛家三毒：贪嗔痴
 - [[token-capital]] — Token 资本
@@ -217,6 +223,7 @@
 - [[utility-vs-skill]] — Utility与Skill：为什么判断力写不进规则
 - [[vibe-reading]] — Vibe Reading
 - [[vibe-slop]] — Vibe Slop：AI 编程垃圾与 Eternal Sloptember
+- [[vision-driven-organization-deepseek]] — DeepSeek 的愿景驱动组织
 - [[wechat-ai-agent]] — 微信 AI Agent
 - [[wechat-relationship-chain-value]] — 微信关系链的四层价值模型
 - [[writing-techniques]] — 公众号写作技巧
@@ -232,4 +239,4 @@
 - [[three-career-scripts-analysis]] — 三种职业限制脚本的Wiki交叉分析
 - [[wechat-moat-ai-era]] — 微信护城河在 AI 时代是否会被打破 — Wiki 交叉分析
 
-> Total pages: 221
+> Total pages: 228

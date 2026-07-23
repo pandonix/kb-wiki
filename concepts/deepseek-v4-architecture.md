@@ -1,10 +1,10 @@
 ---
 title: DeepSeek-V4 长上下文架构
 created: 2026-05-30
-updated: 2026-05-30
+updated: 2026-07-23
 type: concept
-tags: [ml, architecture, research, agent, paper]
-sources: [raw/papers/20260529T100332--paper-deepseek-v4.md]
+tags: [ml, architecture, research, agent, paper, company, management]
+sources: [raw/papers/20260529T100332--paper-deepseek-v4.md, raw/articles/2026-07-23-梁文锋投资者交流会-DeepSeek以AGI愿景驱动开源与克制.md]
 confidence: high
 ---
 
@@ -94,3 +94,7 @@ DeepSeek-V4 的核心哲学超越了单纯的架构创新：**长上下文不是
 - [[harness-engineering]] — Harness 作为 Agent 的分层工作台
 - [[beyond-token-paradigm]] — 上下文压缩与 Token 范式演进
 - [[ai-software-form-evolution]] — 单位智能与 Flash/Pro 双版本分工
+- [[vision-driven-organization-deepseek]] — DeepSeek 的愿景驱动组织：V4 背后没有 KPI 的组织哲学
+- [[liang-wenfeng]] — 梁文锋：DeepSeek 创始人及其愿景驱动理念
+- [[deepseek-open-source-restraint]] — 开源与克制：V4 的技术路线选择背后的战略逻辑
+- [[domestic-ai-chip-historic-opportunity]] — 国产芯片机会：TileLang 替代 CUDA 生态的技术路线
