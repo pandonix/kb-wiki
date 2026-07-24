@@ -2018,7 +2018,21 @@
     "raw/articles/2026-07-23-梁文锋投资者交流会-DeepSeek以AGI愿景驱动开源与克制.md": {
       "sha256": "952d7e2406498c170e199e21be067c2b7ed4753b46162e778ff17097f5d0a0dc",
       "built": true,
-      "wiki_pages": [],
+      "wiki_pages": [
+        "entities/liang-wenfeng.md",
+        "concepts/ten-month-roi-pricing.md",
+        "concepts/ai-native-organization.md",
+        "concepts/measurability-gap-agi.md",
+        "concepts/vision-driven-organization-deepseek.md",
+        "concepts/dimensionality-reduction-product.md",
+        "concepts/ai-alignment-governance.md",
+        "concepts/deepseek-v4-architecture.md",
+        "concepts/human-meaning-agi.md",
+        "concepts/survivor-count-pricing-power.md",
+        "concepts/deepseek-open-source-restraint.md",
+        "concepts/domestic-ai-chip-historic-opportunity.md",
+        "concepts/llm-endgame-differentiation.md"
+      ],
       "last_ingested": "2026-07-23"
     },
     "raw/articles/系统多？获客难？银行如何透过用户旅程优化产品体验.md": {
