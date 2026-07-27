@@ -794,6 +794,11 @@ Total pages: 206 → 208 → 216
   - [[ai-alignment-governance]] — 克制作为企业自律案例，+3 related concepts
 - Index updated: 221 → 228 total pages
 
+## [2026-07-27] sync | 每日自动同步 — 无新内容
+- Phase 0: 0 new files copied (470 existing basenames in raw/)
+- Phase 0.5: update-manifest + scan → 0 new, 0 changed, 0 unbuilt
+- 跳过 Phase 1-6，无内容需要处理
+
 
 
 
