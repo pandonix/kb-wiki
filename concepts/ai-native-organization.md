@@ -64,6 +64,7 @@ confidence: medium
 大厂想调整组织架构要考虑的不只是效率，还有很多额外因素（如微软 CEO 因裁员过猛公开道歉）。但若未来几个人就能做出惊人的产品，可能也不需要十万人的公司。
 
 ## 相关概念
+- [[ai-native-organization-characteristics]] — AI Native 组织的核心特征与竞争力公式
 
 - [[ai-native-engineering-management]] — AI 时代工程团队管理（Fiona Fung 视角）
 - [[hierarchy-to-intelligence]] — 科层制到智慧型组织

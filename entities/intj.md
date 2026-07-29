@@ -50,3 +50,7 @@ INTJ 的"规则被打破"带来的痛苦，本质上是挑战了他们的底层�
 - [[entp]] — 对比参照，另一个被称"可怕"的人格
 - [[second-order-thinking]] — INTJ 的长期建模思维与二阶思维天然契合
 - [[hierarchy-to-intelligence]] — 组织中不同人格的协作与互补
+
+## 相关概念
+- [[emergency-psychological-response]] — 紧急情况下的心理响应机制
+

@@ -139,6 +139,7 @@ Agent 能力很强但会犯错、有随机性、不稳定。工程师的工作�
 不再给算法题，而是让候选人做大项目（如 Twitter clone），然后用多个 Agent 去攻击它，看系统能否经得住。
 
 ## 相关概念
+- [[ba-vs-sa-boundary]] — BA 与 SA 的分界线
 
 - [[ai-coding-agent]] — AI Coding Agent 工程全景
 - [[declarative-architecture]] — 声明式架构也是一种 harness 思想

@@ -76,6 +76,7 @@ I型人格（如INTJ）管理者的最大陷阱：怕麻烦别人 → 自己全�
 **核心格言：** 管理不是"不麻烦人"，而是"正确地麻烦人 + 守住边界"。
 
 ## 相关概念
+- [[sincerity-communication]] — 真诚沟通的价值与实践
 
 - [[leadership-self-exploration]] — 领导力的深度自我探索
 - [[leadership-short-termism]] — 领导短期主义与任期错配

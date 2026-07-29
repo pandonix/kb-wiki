@@ -69,6 +69,7 @@ Block（原 Square）提出终极破局答案：用 AI 彻底重构组织，从�
 核心标志：不是会不会写 prompt，而是能否面对模糊问题主动定义目标并推动结果。详见 [[business-generalist]]。
 
 ## 相关概念
+- [[lee-kuan-yew-leadership]] — 李光耀领导力思想
 
 - [[harness-engineering]] — 驾驭系统的核心方法论
 - [[ai-economy-impact]] — AI 经济影响中的组织因素

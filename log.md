@@ -797,7 +797,14 @@ Total pages: 206 → 208 → 216
 ## [2026-07-27] sync | 每日自动同步 — 无新内容
 - Phase 0: 0 new files copied (470 existing basenames in raw/)
 - Phase 0.5: update-manifest + scan → 0 new, 0 changed, 0 unbuilt
-- 跳过 Phase 1-6，无内容需要处理
+
+## [2026-07-29] sync | 每日自动同步 — 维护日
+- Phase 0: 0 new files (469 existing basenames in raw/)
+- Phase 0.5: 0 new, 0 changed, 0 unbuilt
+- Maintenance: removed raw/index.md (navigation artifact), fixed 2 raw frontmatter gaps
+- Reconciliation: 9 orphans → fixed (added inbound links), 0 broken wikilinks
+- Index rebuilt: 228 pages
+- Noted: 15 near-duplicate candidates (slug overlap >70%, flagged for manual review)
 
 
 

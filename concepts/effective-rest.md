@@ -51,6 +51,7 @@ confidence: medium
 - 虚拟：写作/视频/摄影/播客
 
 ## 相关概念
+- [[hidden-fatigue]] — 隐性疲劳：看不见的精力消耗
 
 - [[ai-cognitive-debt]] — AI 导致的认知退化
 - [[copilot-learning]] — AI 辅助对学习效果的影响
