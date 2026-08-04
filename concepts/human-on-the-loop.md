@@ -1,10 +1,10 @@
 ---
 title: 人在环上（Human-on-the-Loop）
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-04
 type: concept
 tags: [agent, coding, infra, management, thought]
-sources: [raw/articles/2026-06-08-控制论与智能体编码中的人在环上.md]
+sources: [raw/articles/2026-06-08-控制论与智能体编码中的人在环上.md, raw/articles/2026-07-30-思林广不记-AI-First-or-Human-First.md]
 confidence: medium
 ---
 
@@ -24,6 +24,16 @@ HOTL 是从「人审 AI 输出」到「人设计并校准控制系统」的范�
 | 瓶颈 | 人成为断裂点（fracture point）——要么拖慢系统，要么沦为无脑盖章 | 人定义约束和传感器，系统自主执行 |
 | 控制方式 | 微观审查每一个改动 | 衰减机器侧多样性，放大人类侧意图 |
 | 类比 | 流水线质检员 | 管理者领导组织：定义目标、结构、流程、指标、异常升级 |
+
+### HITL 的实证失败
+
+[[automation-bias]] 的数十年研究证明 HITL 在实际中不可靠：
+
+- 放射科医生：AI 给错判断时，初级医生准确率从 ~80% 降到 <20%，资深从 >80% 降到 <50%
+- 开发者：96% 不完全信任 AI 代码，但只有 48% 每次都检查
+- 欧盟 AI 法案第 14 条（2026.8 生效）要求「人能推翻 AI 输出」——上述证据说明这个前提站不住
+
+HITL 失败的根本原因是人类在处理 AI 输出时的认知局限，而非态度或动机。^[raw/articles/2026-07-30-思林广不记-AI-First-or-Human-First.md]
 
 ## 控制论基础
 
@@ -106,3 +116,6 @@ Gemba spot-check 是 HOTL 系统中的**次级反馈闭环**——不只是修�
 - [[agent-skills]] — Agent Skills：放大人类意图的载体
 - [[musk-algorithm]] — 马斯克五步工作法：为系统设边界、删流程
 - [[hierarchy-to-intelligence]] — 科层制到智慧型组织：管理 Agent 团队的类比
+- [[automation-bias]] — 自动化偏见：HITL 失效的认知机制
+- [[skill-atrophy-ai]] — AI 导致的技能退化：HITL/HOTL 下的个人能力退化
+- [[ai-human-first-framework]] — 两层决策框架：HOTL 的组织层实现

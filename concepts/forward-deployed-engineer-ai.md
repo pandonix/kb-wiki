@@ -42,3 +42,5 @@ Dan 预测的 Agent 部署路径：
 - [[harness-engineering]] — Agent 的运行时层工程
 - [[ai-native-organization]] — AI Native 组织的角色设计
 - [[context-engineering]] — 上下文工程是 FDE 的核心技能
+- [[fdx-forward-deployed-executive]] — FDX 前线部署高管：FDE 的进化，外置 CEO
+- [[enterprise-ai-absorption-bottleneck]] — 企业 AI 吸收瓶颈：FDE/FDX 要解决的核心问题

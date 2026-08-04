@@ -1,7 +1,7 @@
 {
   "version": 2,
   "last_build": "2026-07-23T08:15:00",
-  "total_raw": 469,
+  "total_raw": 474,
   "files": {
     "raw/马克思讲的异化.md": {
       "sha256": "8045f967752f3f87854c474e836e92508dc81a54fb5d9055614ace4f76f85f2a",
@@ -1312,6 +1312,12 @@
       "wiki_pages": [],
       "last_ingested": "2026-07-29"
     },
+    "raw/articles/2026-08-01-36氪-硅谷AI工程师10个观察.md": {
+      "sha256": "746be7642405ef87e08f68d6ecd04843fc0f59fdc562173d27095a43fc09aa38",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-08-04"
+    },
     "raw/articles/凯文·凯利： AI 是人造外星人.md": {
       "sha256": "01054f37b094aa9020cff2b1d52c8ecd579a3dfae191863ae314eeccdd1b0c3a",
       "built": true,
@@ -2090,6 +2096,12 @@
       "wiki_pages": [],
       "last_ingested": "2026-07-29"
     },
+    "raw/articles/2026-08-04-InfoQ-FDE又不够了.md": {
+      "sha256": "152cbb0f6fba10c6ec9c8bf7b8e01be75eff14636e98dabed1d85460d1021409",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-08-04"
+    },
     "raw/articles/普惠金融激战正酣，中小银行必须抓住这四类客户！.md": {
       "sha256": "5290dbd06379890d1d74f9ede2f134f28fe0b085bd5f779a9eb542111dada55d",
       "built": true,
@@ -2396,6 +2408,12 @@
       ],
       "last_ingested": "2026-07-29"
     },
+    "raw/articles/2026-08-04-InfoQ-黑灯软件工厂失败.md": {
+      "sha256": "53d645d190c683bd1c66d1b91a0819efa5d2a3502de6308cce35d427992cc5a1",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-08-04"
+    },
     "raw/articles/AI代理的上下文工程：构建Manus的经验教训.pdf.md": {
       "sha256": "d15bee2ccb42e256b533ba4e0712d5c205775865293181a3312de1ae63b2fec8",
       "built": true,
@@ -2669,6 +2687,12 @@
       "wiki_pages": [],
       "last_ingested": "2026-07-29"
     },
+    "raw/articles/2026-07-30-思林广不记-AI-First-or-Human-First.md": {
+      "sha256": "d212c0aba0944f6663b47c107597f89426d56d84cea8234d274eaf6d7e372450",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-08-04"
+    },
     "raw/articles/AI：工程师的生产力杠杆.md": {
       "sha256": "b7868995ae239eb98ad0d09a0871ef0ed83250f9816cd4608fb49128ee5412b0",
       "built": true,
@@ -2750,6 +2774,12 @@
         "concepts/ai-second-half.md"
       ],
       "last_ingested": "2026-07-29"
+    },
+    "raw/articles/2026-08-03-不懂经-AI知识转基因危机与认知肉鸡.md": {
+      "sha256": "3296accc59f60ee2c15f830dba0ece7fe672650ba4c339c7a5d8c105df973702",
+      "built": true,
+      "wiki_pages": [],
+      "last_ingested": "2026-08-04"
     },
     "raw/articles/OpenAI前VP联手DeepMind大神创业，目标打造AI科学家，a16z领投3亿美元.md": {
       "sha256": "742b739bd7356d2fec290699b14e49b2a78f1f459afced6ce04434edf529323b",

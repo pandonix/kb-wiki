@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
-> Last updated: 2026-07-29
+> Last updated: 2026-08-04
 
 ## Entities
 - [[ahacreator]] — AhaCreator
@@ -78,11 +78,13 @@
 - [[ai-economy-subsidy-crisis]] — AI 经济补贴危机
 - [[ai-era-scarce-capabilities]] — AI 时代的稀缺能力：哪些变贵了，哪些贬值了
 - [[ai-human-boundary]] — AI 与人的边界：效率解放还是系统加速
+- [[ai-human-first-framework]] — AI First / Human First 两层决策框架
 - [[ai-infra-capex]] — AI 基础设施资本开支
 - [[ai-judgment-baseline]] — AI 时代的判断力基线
 - [[ai-native-bank]] — AI 原生银行
 - [[ai-native-energy-company]] — AI 原生能源公司
 - [[ai-native-engineering-management]] — AI 时代工程团队管理
+- [[ai-native-hiring]] — AI 原生招聘标准（AI-Native Hiring）
 - [[ai-native-organization]] — AI Native 组织模式
 - [[ai-organization-adoption]] — AI 组织采纳困境
 - [[ai-outcome-pod]] — AI Outcome Pod：人机混合结果单元
@@ -96,6 +98,7 @@
 - [[analogical-overshadowing]] — 类比遮蔽效应
 - [[antique-market-lemons]] — 古董市场的柠檬问题
 - [[art-of-war-taoism]] — 孙子兵法与道家
+- [[automation-bias]] — 自动化偏见（Automation Bias）
 - [[ba-vs-sa-boundary]] — BA 与 SA 的边界
 - [[backtesting-overfitting]] — 回测过拟合
 - [[bank-abcd-tech-strategy]] — ABCD 科技战略与银行组织约束
@@ -111,16 +114,19 @@
 - [[claude-constitution]] — Claude 宪法 / 宪制AI
 - [[claw-code-runtime]] — Claw Code Agent Runtime
 - [[co-design-ai]] — AI 产品与模型 Co-Design 协同设计
+- [[code-review-quality-decline]] — AI 时代代码审查质量下降
 - [[cognitive-scripts]] — 认知脚本（Cognitive Scripts）
 - [[confucius-life-stages]] — 孔子人生三境界：不惑、知天命、耳顺
 - [[context-engineering]] — 上下文工程
 - [[copilot-learning]] — Copilot 与学习效果
+- [[dead-perfection]] — 死的完美（Dead Perfection）
 - [[declarative-architecture]] — 声明式架构
 - [[deepseek-open-source-restraint]] — DeepSeek 开源与克制的辩证关系
 - [[deepseek-v4-architecture]] — DeepSeek-V4 长上下文架构
 - [[delegation-interaction-paradigm]] — 委托式交互范式
 - [[desire-scarcity-migration]] — 人的欲望与稀缺迁移
 - [[dialectical-materialism]] — 辩证唯物主义
+- [[digital-ouroboros]] — 数字衔尾蛇（Digital Ouroboros）
 - [[dimensionality-reduction-product]] — 降维打击：C 端和 B 端作为 AGI 的副产物
 - [[domestic-ai-chip-historic-opportunity]] — 国产 AI 芯片的历史性机会
 - [[dual-role-management]] — 兼岗分析
@@ -131,15 +137,18 @@
 - [[emergency-psychological-response]] — 突发事件后的正常心理反应
 - [[energy-transition-geopolitics]] — 能源转型与全球格局
 - [[enterprise-agent-practice]] — 企业级智能体实践：从Copilot到数字员工
+- [[enterprise-ai-absorption-bottleneck]] — 企业 AI 吸收瓶颈（Enterprise AI Absorption Bottleneck）
 - [[ergodicity-economics]] — 遍历经济学
 - [[exit-too-hard-trap]] — 退出太难陷阱
 - [[expression-substance-framework]] — Expression-Substance 框架：AI 的边界与人的不可替代性
+- [[fdx-forward-deployed-executive]] — FDX 前线部署高管（Forward Deployed Executive）
 - [[financial-knowledge-system]] — 金融知识体系
 - [[financial-ml-research-hygiene]] — 金融ML研究卫生（Research Hygiene）
 - [[fixed-income-vs-equity]] — 固收与股权投资的差异
 - [[flow-2dot0]] — 流量 2.0
 - [[forward-deployed-engineer-ai]] — 前沿部署工程师（Forward Deployed Engineer for AI）
 - [[fund-evaluation-framework]] — 基金评价全景框架
+- [[fusion-mode-inference]] — 多模型融合调度（Fusion Mode Inference）
 - [[future-society-social-infrastructure]] — 未来社会与社会基础设施
 - [[harness-engineering]] — Harness Engineering
 - [[hidden-fatigue]] — 隐形过度疲劳
@@ -151,16 +160,19 @@
 - [[human-meaning-agi]] — 人类的意义与AGI
 - [[human-on-the-loop]] — 人在环上（Human-on-the-Loop）
 - [[information-ratio]] — 信息比率（Information Ratio）
+- [[information-stratification]] — 信息分层（Information Stratification）
 - [[internet-dead-agent-alive]] — 互联网已死，Agent 永生
 - [[investment-regime]] — 投资 Regime（市场运行环境）
 - [[involution-structural-equilibrium]] — 内卷作为结构理性均衡
 - [[jevons-paradox-work]] — 杰文斯悖论与工作替代
 - [[kelly-criterion]] — Kelly 公式（Kelly Criterion）
+- [[knowledge-gmo]] — 知识转基因化（Knowledge GMO）
 - [[kondratiev-wave]] — 康波周期：技术革命与长期经济波动
 - [[leadership-self-exploration]] — 领导力的深度自我探索
 - [[leadership-short-termism]] — 领导短期主义与任期错配
 - [[lee-kuan-yew-leadership]] — 李光耀领导力大师课
 - [[life-awakening]] — 人生觉醒三阶段
+- [[lights-out-software-factory]] — 黑灯软件工厂（Lights-Out Software Factory）
 - [[llm-endgame-differentiation]] — 大模型终局差异三要素
 - [[machine-consciousness-social-risk]] — 机器意识与社会先行风险
 - [[macroeconomic-investment-framework]] — 宏观经济投资框架
@@ -169,6 +181,7 @@
 - [[marx-human-development]] — 马克思：人的发展与物的繁荣
 - [[measurability-gap-agi]] — 可测量性鸿沟与 AGI 经济
 - [[minsky-financial-instability]] — 金融不稳定假说
+- [[model-collapse]] — 模型崩溃（Model Collapse）
 - [[multi-agent-collaboration]] — 多 Agent 协作模式
 - [[musk-algorithm]] — 马斯克五步工作法（The Algorithm）
 - [[mythical-man-month]] — 人月神话
@@ -181,8 +194,10 @@
 - [[palantir-ontology]] — Palantir Ontology 与 AIP
 - [[pareto-inefficiency]] — 帕累托无效与共谋均衡
 - [[people-goods-scene-banking]] — 人货场视角下的银行金融服务
+- [[people-manager-extinction]] — 中层管理者消亡（People Manager Extinction）
 - [[personal-ai-framework]] — 个人 AI 认知框架（六层结构）
 - [[platform-agent-centralization]] — 平台 Agent 的中心化张力
+- [[polyglot-talent]] — 通才人才（Polyglot Talent）
 - [[private-fund-evaluation]] — 私募产品能力评估
 - [[productivity-j-curve]] — 生产率 J 曲线
 - [[prototype-driven-workflow]] — 原型驱动工作流（Prototype-Driven Workflow）
@@ -190,6 +205,7 @@
 - [[psychological-survival]] — 心理生存与身份守护
 - [[quant-backtesting]] — 量化回测框架
 - [[risk-management-ergodicity]] — 风险管理与遍历性
+- [[rlvr-architecture-blind-spot]] — RLVR 架构盲区（RLVR Architecture Blind Spot）
 - [[saas-bench]] — SaaS-Bench：Agent 真实办公能力评测
 - [[scale-not-roic-trap]] — 规模非 ROIC 目标函数陷阱
 - [[science-vs-engineering]] — 科学与工程：两种理性，解释世界与改造世界
@@ -198,6 +214,7 @@
 - [[senior-engineer-moat-migration]] — 高级工程师护城河迁移模型
 - [[sharpe-ratio]] — 夏普比率（Sharpe Ratio）与索提诺比率（Sortino Ratio）
 - [[sincerity-communication]] — 真诚才是必杀技
+- [[skill-atrophy-ai]] — AI 导致的技能退化（Skill Atrophy）
 - [[skill-distillation-depth]] — Skill 蒸馏深度分析
 - [[social-intelligence-baseline]] — 社会整体智力水位
 - [[software-disposable]] — 软件日抛化
@@ -219,7 +236,9 @@
 - [[three-poisons]] — 佛家三毒：贪嗔痴
 - [[token-capital]] — Token 资本
 - [[token-economics]] — Token 经济
+- [[trust-infrastructure-leak]] — 信任基础设施漏水（Trust Infrastructure Leak）
 - [[two-stage-tech-bubble]] — 两阶段技术泡沫模型
+- [[untrainable-business]] — the Untrainable 与新生意
 - [[utility-vs-skill]] — Utility与Skill：为什么判断力写不进规则
 - [[vibe-reading]] — Vibe Reading
 - [[vibe-slop]] — Vibe Slop：AI 编程垃圾与 Eternal Sloptember
@@ -239,4 +258,4 @@
 - [[three-career-scripts-analysis]] — 三种职业限制脚本的Wiki交叉分析
 - [[wechat-moat-ai-era]] — 微信护城河在 AI 时代是否会被打破 — Wiki 交叉分析
 
-> Total pages: 228
+> Total pages: 247

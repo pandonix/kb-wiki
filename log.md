@@ -804,7 +804,41 @@ Total pages: 206 → 208 → 216
 - Maintenance: removed raw/index.md (navigation artifact), fixed 2 raw frontmatter gaps
 - Reconciliation: 9 orphans → fixed (added inbound links), 0 broken wikilinks
 - Index rebuilt: 228 pages
-- Noted: 15 near-duplicate candidates (slug overlap >70%, flagged for manual review)
+## [2026-08-04] ingest | 5 raw files → 19 new concepts + 6 updates (cron batch)
+- Raw files (frontmatter: +ingested, +sha256):
+  - raw/articles/2026-07-30-思林广不记-AI-First-or-Human-First.md
+  - raw/articles/2026-08-01-36氪-硅谷AI工程师10个观察.md
+  - raw/articles/2026-08-03-不懂经-AI知识转基因危机与认知肉鸡.md
+  - raw/articles/2026-08-04-InfoQ-FDE又不够了.md
+  - raw/articles/2026-08-04-InfoQ-黑灯软件工厂失败.md
+- New concepts (19):
+  - [[ai-human-first-framework]] — 两层决策框架：社会层 Human First + 执行层 AI First
+  - [[skill-atrophy-ai]] — AI 导致的技能退化（波兰内镜医生案例、Anthropic 实验）
+  - [[automation-bias]] — 自动化偏见：数十年研究无法通过训练纠正
+  - [[polyglot-talent]] — 通才碾压专才：硅谷 AI 时代的人才标准
+  - [[fusion-mode-inference]] — 多模型融合调度：便宜模型+顶尖模型组合
+  - [[people-manager-extinction]] — 中层管理者消亡：Cognition 60人仅1人纯管理
+  - [[ai-native-hiring]] — AI 原生招聘标准：work trial + 人生斜率面试
+  - [[untrainable-business]] — the Untrainable 成新生意：垂直 Agent 确定性回报
+  - [[knowledge-gmo]] — 知识的转基因化：AI 内容不可逆进入生态系统
+  - [[dead-perfection]] — 死的完美：AI 写作的"太干净了"问题
+  - [[model-collapse]] — 模型崩溃：AI 用 AI 数据训练的不可逆退化
+  - [[information-stratification]] — 信息分层：上层有机信息 vs 下层信息喂养层
+  - [[digital-ouroboros]] — 数字衔尾蛇：AI 内容 R₀>1
+  - [[trust-infrastructure-leak]] — 信任基础设施漏水：检测工具失灵、举报回路失效
+  - [[fdx-forward-deployed-executive]] — FDX 前线部署高管：外置 CEO
+  - [[enterprise-ai-absorption-bottleneck]] — 企业 AI 吸收瓶颈：瓶颈是组织吸收速度
+  - [[lights-out-software-factory]] — 黑灯软件工厂：AI 全自动开发为什么行不通
+  - [[rlvr-architecture-blind-spot]] — RLVR 架构盲区：强化学习不惩罚烂设计
+  - [[code-review-quality-decline]] — AI 时代代码审查质量下降
+- Updated pages (6):
+  - [[human-on-the-loop]] — +HITL 实证失败 section, +automation-bias/skill-atrophy/ai-human-first-framework links
+  - [[forward-deployed-engineer-ai]] — +FDX, +enterprise-ai-absorption-bottleneck links
+  - [[ai-code-review]] — +code-review-quality-decline, +rlvr-architecture-blind-spot, +lights-out, +automation-bias links; removed stale tag
+  - [[ai-organization-adoption]] — +people-manager-extinction, +ai-human-first-framework links
+  - [[ai-coding-agent]] — +lights-out, +rlvr-architecture-blind-spot, +code-review-quality-decline links
+  - [[ai-writing-flavor]] — +dead-perfection link
+- Index updated: 228 → 247 total pages
 
 
 

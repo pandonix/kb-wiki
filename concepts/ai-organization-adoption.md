@@ -1,7 +1,7 @@
 ---
 title: AI 组织采纳困境
 created: 2026-05-18
-updated: 2026-07-03
+updated: 2026-08-04
 type: concept
 tags: [ml, management, thought]
 sources: [raw/articles/AI 时代的魔幻现实：老板向左，员工向右，一个用了求生，一个用了找死.md, raw/articles/2026-06-01-一个理想的组织是AI Agent在组织人.md, raw/articles/为何企业80%的AI投入看不到效果？｜AI时代企业变革的认知方法论与战略判断框架.md]
@@ -85,3 +85,5 @@ ColaOS 创始人橘子描述了一个典型的 AI 采纳时间线：^[2026-06-01
 - [[ai-strategy-positioning]] — AI 战略定位与政治博弈
 - [[soul-team]] — Soul Team：AI 原生组织的叙事一致性团队
 - [[ai-outcome-pod]] — AI Outcome Pod：人机混合结果单元
+- [[people-manager-extinction]] — 中层管理者消亡：AI 倒逼组织扁平化
+- [[ai-human-first-framework]] — AI First / Human First 两层决策框架

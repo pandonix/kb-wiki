@@ -1,10 +1,10 @@
 ---
 title: AI Code Review 实践
 created: 2026-04-24
-updated: 2026-04-24
+updated: 2026-08-04
 type: concept
-tags: [coding, agent, stale]
-sources: [raw/articles/AI时代的Code Review怎么做？.md]
+tags: [coding, agent]
+sources: [raw/articles/AI时代的Code Review怎么做？.md, raw/articles/2026-08-04-InfoQ-黑灯软件工厂失败.md]
 confidence: high
 ---
 
@@ -50,3 +50,7 @@ AI时代的Code Review怎么做？.md
 - [[ai-coding-agent]] — AI Coding 的工程实践
 - [[harness-engineering]] — AI 生成系统的 harness 设计
 - [[expression-substance-framework]] — Expression-Substance 框架：Review 守住的是 Intent 层
+- [[code-review-quality-decline]] — AI 时代代码审查质量的系统性下降
+- [[rlvr-architecture-blind-spot]] — RLVR 不惩罚烂设计，审查成为最后防线
+- [[lights-out-software-factory]] — 黑灯工厂：无人审查的极端失败案例
+- [[automation-bias]] — 自动化偏见：审查者过度信任 AI 代码的认知偏差

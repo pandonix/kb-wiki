@@ -1,7 +1,7 @@
 ---
 title: AI Coding / Agent 工程
 created: 2026-04-24
-updated: 2026-06-09
+updated: 2026-08-04
 type: concept
 tags: [ml, coding, infra, agent]
 sources: [raw/articles/AI编程的现状与未来.md, raw/articles/Codex的多Agent并行开发指南.md, raw/articles/OpenGame Open Agentic Coding for Games.md, raw/articles/How To Be A World-Class Agentic Engineer.md, raw/articles/消耗了上百亿 Token后， 对于 Agent 时代软件构建、软件形态及未来发展的思考.md, raw/articles/Karpathy 最新访谈：Vibe Coding 只是开始，真正重要的是 Agentic Engineering.md, raw/papers/SWE-chat Coding Agent Interactions From Real Users in the Wild.md, raw/articles/Agent Skills 终极指南：入门、精通、预测.md, raw/articles/OpenClaw和Claude Code只是第一阶段，Github 这两个项目正指向终局——AI 编程三阶段构想（万字长文慎入）.md, raw/articles/有效的 Context 工程（精读、万字梳理）.md, raw/articles/编程 Agent 可能是软件开发史上最昂贵的错误之一.md, raw/articles/Claude Code之父：品味不是人类护城河；当工程师不再写代码，招聘看什么？.md, raw/articles/2026-06-06-LLMs-are-eroding-my-software-engineering-career.md, raw/articles/2026-06-08-控制论与智能体编码中的人在环上.md]
@@ -258,6 +258,9 @@ Claude Code 提升的不只是代码生成速度，而是在**压缩组织内部
 - [[anthropic]] — Anthropic：Claude Code 背后的 AI 安全公司
 - [[human-on-the-loop]] — 人在环上：从微观审查到控制系统设计的范式转移
 - [[senior-engineer-moat-migration]] — 高级工程师护城河迁移：领域知识/排障/代码品味正在贬值
+- [[lights-out-software-factory]] — 黑灯软件工厂：AI 全自动开发的失败实验
+- [[rlvr-architecture-blind-spot]] — RLVR 架构盲区：测试通过 ≠ 代码好
+- [[code-review-quality-decline]] — AI 时代代码审查质量的系统性下降
 
 ## 批判视角：AI Coding Agent 的警示信号
 

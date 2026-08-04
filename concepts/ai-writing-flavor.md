@@ -52,3 +52,4 @@ LLM 的底层任务是给定前文预测下一个最可能的 token。它天然�
 - [[ai-human-boundary]] — AI 与人的边界
 - [[ai-commoditization-boundary]] — AI 替代边界与商品化梯度
 - [[expression-substance-framework]] — Expression-Substance 框架：为什么真实材料是去 AI 味的唯一路径
+- [[dead-perfection]] — 死的完美：AI 写作的"太干净了"问题
