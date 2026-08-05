@@ -1315,7 +1315,13 @@
     "raw/articles/2026-08-01-36氪-硅谷AI工程师10个观察.md": {
       "sha256": "746be7642405ef87e08f68d6ecd04843fc0f59fdc562173d27095a43fc09aa38",
       "built": true,
-      "wiki_pages": [],
+      "wiki_pages": [
+        "concepts/ai-native-hiring.md",
+        "concepts/untrainable-business.md",
+        "concepts/polyglot-talent.md",
+        "concepts/people-manager-extinction.md",
+        "concepts/fusion-mode-inference.md"
+      ],
       "last_ingested": "2026-08-04"
     },
     "raw/articles/凯文·凯利： AI 是人造外星人.md": {
@@ -2099,7 +2105,10 @@
     "raw/articles/2026-08-04-InfoQ-FDE又不够了.md": {
       "sha256": "152cbb0f6fba10c6ec9c8bf7b8e01be75eff14636e98dabed1d85460d1021409",
       "built": true,
-      "wiki_pages": [],
+      "wiki_pages": [
+        "concepts/enterprise-ai-absorption-bottleneck.md",
+        "concepts/fdx-forward-deployed-executive.md"
+      ],
       "last_ingested": "2026-08-04"
     },
     "raw/articles/普惠金融激战正酣，中小银行必须抓住这四类客户！.md": {
@@ -2411,7 +2420,12 @@
     "raw/articles/2026-08-04-InfoQ-黑灯软件工厂失败.md": {
       "sha256": "53d645d190c683bd1c66d1b91a0819efa5d2a3502de6308cce35d427992cc5a1",
       "built": true,
-      "wiki_pages": [],
+      "wiki_pages": [
+        "concepts/ai-code-review.md",
+        "concepts/code-review-quality-decline.md",
+        "concepts/rlvr-architecture-blind-spot.md",
+        "concepts/lights-out-software-factory.md"
+      ],
       "last_ingested": "2026-08-04"
     },
     "raw/articles/AI代理的上下文工程：构建Manus的经验教训.pdf.md": {
@@ -2690,7 +2704,12 @@
     "raw/articles/2026-07-30-思林广不记-AI-First-or-Human-First.md": {
       "sha256": "d212c0aba0944f6663b47c107597f89426d56d84cea8234d274eaf6d7e372450",
       "built": true,
-      "wiki_pages": [],
+      "wiki_pages": [
+        "concepts/automation-bias.md",
+        "concepts/ai-human-first-framework.md",
+        "concepts/skill-atrophy-ai.md",
+        "concepts/human-on-the-loop.md"
+      ],
       "last_ingested": "2026-08-04"
     },
     "raw/articles/AI：工程师的生产力杠杆.md": {
@@ -2778,7 +2797,16 @@
     "raw/articles/2026-08-03-不懂经-AI知识转基因危机与认知肉鸡.md": {
       "sha256": "3296accc59f60ee2c15f830dba0ece7fe672650ba4c339c7a5d8c105df973702",
       "built": true,
-      "wiki_pages": [],
+      "wiki_pages": [
+        "concepts/digital-ouroboros.md",
+        "concepts/untrainable-business.md",
+        "concepts/trust-infrastructure-leak.md",
+        "concepts/information-stratification.md",
+        "concepts/knowledge-gmo.md",
+        "concepts/model-collapse.md",
+        "concepts/dead-perfection.md",
+        "concepts/skill-atrophy-ai.md"
+      ],
       "last_ingested": "2026-08-04"
     },
     "raw/articles/OpenAI前VP联手DeepMind大神创业，目标打造AI科学家，a16z领投3亿美元.md": {
