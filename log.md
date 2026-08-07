@@ -4,6 +4,12 @@
 > Format: `## [YYYY-MM-DD] action | subject`
 > Actions: ingest, update, query, lint, create, archive, delete
 
+## [2026-08-07] cron | Obsidian notes + agent daily sync — no new content
+- Phase 0: 0 new files copied (474 basenames in raw/ already cover all sources)
+- Phase 0.5: 0 unbuilt, 0 changed — wiki is fully up to date
+- Stats: 474 raw files, 474 built, 363 wiki pages, 7855 KB
+- No ingest needed — skipping to report
+
 ## [2026-06-25] ingest | 中国企业为何陷入内卷竞争（1 raw file → 5 new concepts + 4 updates）
 - Raw file: raw/agent/中国企业为何陷入内卷竞争.md (+frontmatter: source_url, ingested, sha256)
 - New concepts (5):
