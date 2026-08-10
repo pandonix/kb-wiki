@@ -4,6 +4,14 @@
 > Format: `## [YYYY-MM-DD] action | subject`
 > Actions: ingest, update, query, lint, create, archive, delete
 
+## [2026-08-10] sync | 每日增量同步 — 无新内容
+
+- Phase: 完整管道 (copy → manifest → scan)
+- 新 raw 文件: 0
+- 变更文件: 0
+- 状态: 474 raw 全部已构建，247 wiki 页面 (44 entities + 196 concepts + 7 comparisons/queries)
+- 跳过: 无需 ingest
+
 ## [2026-08-07] cron | Obsidian notes + agent daily sync — no new content
 - Phase 0: 0 new files copied (474 basenames in raw/ already cover all sources)
 - Phase 0.5: 0 unbuilt, 0 changed — wiki is fully up to date
